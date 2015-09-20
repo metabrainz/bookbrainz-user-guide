@@ -26,3 +26,12 @@ list, with style committee members serving until they choose to leave, or are
 removed. The un-election process can be started by the other two committee
 members, who make a post to the list giving reasons for the decision asking for
 votes to be cast within a week - the majority vote decides the outcome.
+
+One of the members of the Style Committee will be chosen as the Style Leader.
+Under normal circumstances, the Style Leader is no different to the other
+two members of the Style Committee. However, if for a particular proposal
+both the following two conditions are met, the Style Leader can perform the
+duties of the Style Council for that proposal:
+
+1. The proposal has had no changes for at least two weeks.
+2. The Style Committee has not acted on the proposal.
