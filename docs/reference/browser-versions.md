@@ -9,33 +9,33 @@ required adjustments for BookBrainz-specific technologies.
 <table>
   <thead>
     <tr>
-      <th class="text-center">
+      <th style="text-align: center">
         <p><span class="fa fa-chrome fa-3x" title="Google Chrome"></span></p>
         <a href="https://en.wikipedia.org/wiki/Google_Chrome">Chrome</a>
       </th>
-      <th class="text-center">
+      <th style="text-align: center">
         <p><span class="fa fa-firefox fa-3x" title="Mozilla Firefox"></span></p>
         <a href="https://en.wikipedia.org/wiki/Firefox">Firefox</a>
       </th>
-      <th class="text-center">
+      <th style="text-align: center">
         <p><span class="fa fa-internet-explorer fa-3x" title="Microsoft Internet Explorer"></span></p>
         <a href="https://en.wikipedia.org/wiki/Internet_Explorer">IE</a>
       </th>
-      <th class="text-center">
+      <th style="text-align: center">
         <p><span class="fa fa-edge fa-3x" title="Microsoft Edge"></span></p>
         <a href="https://en.wikipedia.org/wiki/Microsoft_Edge">Edge</a>
       </th>
-      <th class="text-center">
+      <th style="text-align: center">
         <p><span class="fa fa-safari fa-3x" title="Apple Safari"></span></p>
         <a href="https://en.wikipedia.org/wiki/Safari_(web_browser)">Safari</a>
       </th>
-      <th class="text-center">
+      <th style="text-align: center">
         <p><span class="fa fa-opera fa-3x" title="Opera"></span></p>
         <a href="https://en.wikipedia.org/wiki/Opera_(web_browser)">Opera</a>
       </th>
     </tr>
   </thead>
-  <tbody class="text-center">
+  <tbody style="text-align: center">
     <tr>
       <td>46</td>
       <td>42</td>
