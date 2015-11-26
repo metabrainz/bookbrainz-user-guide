@@ -1,5 +1,7 @@
 # Browser Support
 
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
 The following table lists the browser versions that BookBrainz currently
 supports. These are based on the [MusicBrainz supported browsers][mbbrowsers], with any
 required adjustments for BookBrainz-specific technologies.
