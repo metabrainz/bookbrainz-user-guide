@@ -6,7 +6,7 @@ The following table lists the browser versions that BookBrainz currently
 supports. These are based on the [MusicBrainz supported browsers][mbbrowsers], with any
 required adjustments for BookBrainz-specific technologies.
 
-<table>
+<table style="width: 100%">
   <thead>
     <tr>
       <th style="text-align: center">
