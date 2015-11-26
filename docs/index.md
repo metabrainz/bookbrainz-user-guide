@@ -9,5 +9,4 @@ including tutorials, reference and style guidelines.
 
 * [Glossary](glossary.md)
 * [Tutorials](tutorials.md)
-* [Reference](reference.md)
 * [Style Guidelines](style/introduction.md)

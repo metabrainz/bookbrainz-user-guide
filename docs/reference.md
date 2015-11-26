@@ -1,2 +1,0 @@
-# BookBrainz Reference
-
