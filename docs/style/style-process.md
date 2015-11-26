@@ -18,7 +18,7 @@ any necessary modifications, or reject it for some good reason.
 If approved, the guideline is subsequently included in the official style
 guidelines, after being committed to the BookBrainz User Guide repositiory.
 
-Style committee
+Style Committee
 ---------------
 The style process is overseen by a Style Committee, consisting of three active
 style members. The style committee is elected by the users of the style mailing
