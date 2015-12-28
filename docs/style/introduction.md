@@ -17,7 +17,7 @@ When entering names of things (aliases) in BookBrainz, you should write the name
 
 4. **Articles** 
     + Should **_only_** be capitalized when it is used as the first or last words.
-    + Example: **The Doors** of Perception   ---    Behold **the** Man
+    + Example: **The** Doors of Perception   ---    Behold **the** Man
     
 5. **Conjunctions**
     + Should **_only_** be capitalized when it is used as the first or last words.
