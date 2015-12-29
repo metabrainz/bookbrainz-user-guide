@@ -1,56 +1,124 @@
-# BookBrainz Style Guidelines
-When entering names of things (aliases) in BookBrainz, you should write the name and sortname using our style guidelines. 
+# Welcome to the BookBrainz Style Guidelines!
+=============================================
+## Introduction
+---------------
+How should I write edits in BookBrainz? Should I write edits according to the book cover?    
 
-## When should you capitalize?
-------------------------------
+Dear BookBrainz editors, worry less and just follow our (simple, yet concise) style guidelines!
+
+## When Should I Capitalize?
+----------------------------
 1. The **first** and **last words** 
-    + Always capitalized, even if the word has less than five letters.
-    + Example: **O** Jerusalem!   ---    Antic ***Hay*** 
+    + Always capitalized, regardless of the word length.
 
-2. **Adjectives**
-    + Always capitalized.
-    + Example: The **Green** Bay Tree   ---   In a ***Dry*** Season
+2. [Adjectives](https://en.wikipedia.org/wiki/Adjective "Adjective Definition") 
+    + Always capitalized, no matter where it is used.
+    + Regardless of the word length.
 
-3. **Adverb** 
-    + Always capitalized.
-    + Example: Extremely Loud and **Incredibly** Close  --- Walk **Slowly** to the Beach
-
-4. **Articles** 
+3. [Adverbs](https://en.wikipedia.org/wiki/Adverb "Adverb Definition")
+    + Always capitalized, no matter where it is used.
+    + Regardless of the word length.
+     
+4. [Articles](https://en.wikipedia.org/wiki/English_articles "Article Definition")
     + Should **_only_** be capitalized when it is used as the first or last words.
-    + Example: **The** Doors of Perception   ---    Behold **the** Man
+    + Regardless of the word length.
     
-5. **Conjunctions**
-    + Should **_only_** be capitalized when it is used as the first or last words.
-    + Example: **And** Still I Like Alaska ---   Androcles **and** the Lion
+5. [Conjunctions](https://en.wikipedia.org/wiki/Conjunction_%28grammar%29 "Conjunction Definition")
+    + Always capitalized, no matter where it is used.
+    + **Except** [coordinate conjunctions](https://en.wikipedia.org/wiki/Conjunction_%28grammar%29#Coordinating_conjunctions) that should **_only_** be capitalized when it is used as the first or last words.
+    + Regardless of the word length.
+    
+6. [Demonstratives](https://en.wikipedia.org/wiki/Demonstrative "Demonstrative Definition")
+    + Always capitalized, no matter where it is used.
+    + Regardless of the word length.
 
-6. **Infinitives** 
+7. [Infinitives](https://en.wikipedia.org/wiki/Infinitive "Infinitive Definition") 
     + Should **_only_** be capitalized when it is used as the first or last words.
-    + Example: **To** a Beautiful Girl ---   A Farewell **to** Arms
+    + Regardless of the word length.
+
+8. [Interjections](https://en.wikipedia.org/wiki/Interjection "Interjection Definition")
+    + Should **_only_** be capitalized when it is used as the first or last words.
+    + Regardless of the word length.
+
+9. [Interrogatives](https://en.wikipedia.org/wiki/Interrogative_word "Interrogative Definition")
+    + Always capitalized, no matter where it is used.
+    + Regardless of the word length.
+    
+10. [Nouns](https://en.wikipedia.org/wiki/Noun "Noun Definition") 
+    + Always capitalized, no matter where it is used.
+    + Regardless of the word length.
+    
+11. [Possessives](https://en.wikipedia.org/wiki/English_possessive "Possessive Definition")
+    + Always capitalized, no matter where it is used.
+    + Regardless of the word length.
+
+12. [Prepositions](https://en.wikipedia.org/wiki/Preposition_and_postposition "Preposition Definition") that are more than five letters long
+    + Always capitalized, no matter where it is used.
+    + Regardless of the word length.
+
+13. [Pronouns](https://en.wikipedia.org/wiki/Pronoun "Pronoun Definition")
+    + **_Must_** be capitalized, no matter where it is used.
+    + Regardless of the word length.
+    
+14. [Verbs](https://en.wikipedia.org/wiki/English_verbs "Verb Definition") 
+    + Always capitalized, no matter where it is used.
+    + Regardless of the word length.
+    
+
+
+## Can You Give Me Some Usage Examples?
+---------------------------------------
+| No.|         Type        |                             Examples                                              |
+| ---|:--------------------|:----------------------------------------------------------------------------------|
+| 1. | First and last words| **O** Jerusalem!   ---   Antic ***Hay***                                          |
+| 2. | Adjectives          | The **Green** Bay Tree   ---   In a ***Dry*** Season                              |
+| 3. | Adverbs             | So Loud and **Incredibly** Close  --- Walk **Slowly** to the Beach                |
+| 4. | Articles            | **The** Doors of Perception   ---    Behold **the** Man                           |
+| 5. | Conjunctions        | **And** Still I Like Alaska   ---   Androcles **and** the Lion                    |
+| 6. | Demonstratives      | Not **That** One    ---   **This** Is My Life                                     |
+| 7. | Infinitives         | **To** a Beautiful Girl   ---   A Farewell **to** Arms                            |
+| 8. | Interjections       | How Long Must I Wait, **O** Lord?   ---   The Ten **o'Clock** People              | 
+| 9. | Interrogatives      | **How** Did They Do It?   ---    I Know **What** You Did                          |
+|10. | Nouns               | A **Time** to Kill   ---   Beyond the **Mexique** Bay                             |
+|11. | Possesives          | **Her** Golden Hair   ---   The Dog and **Its** Tail                              |
+|12. | Prepositions        | **For** Whom the Bell Tolls   ---   Flowers **for** Jenna                         |
+|13. | Pronouns            | If **I** Stay  ---   **It** Will Rain Tomorrow                                    |
+|14. | Verbs               | To **Say** Nothing Of The Dog   --- **Tell** Me A Story                           |
+
+
+
+## What's the difference?
+-------------------------
+Eventhough MusicBrainz English Capitalization Guidelines is quite similar to BookBrainz Style Guidelines, there are actually differences between these two.
+
+1. **Prepositions** are always capitalized:
+
+   |               BookBrainz              |             MusicBrainz                |
+   |:-------------------------------------:|:--------------------------------------:|
+   |When it is more than five letters long|When it is more than three letters long|
+   
+2. The word "**o'Clock**" 
+
+   |                                BookBrainz                                 |
+   |:-------------------------------------------------------------------------:|
+   |Both parts are only capitalized when it is used as the first or last words |
+   
+   |                                MusicBrainz                                |
+   |:-------------------------------------------------------------------------:|
+   |Both parts are capitalized, no matter where it is used                     |
  
-7. **Nouns** 
-    + Always capitalized, even if the word is less than five letters long.
-    + Example: A **Time** to Kill   ---   The **Road** Less Traveled
 
-8. **Prepositions** that are more than five letters
-    + Should **_only_** be capitalized when it is used as the first or last words.
-    + Example: **For** Whom the Bell Tolls   ---   Flowers **for** Jenna
+## Frequently-Asked Questions
+-----------------------------
+1. **What's a style guideline?**
+     * A [style guideline](https://en.wikipedia.org/wiki/Style_guide "Style Guideline Definition") aka manual of style is a          set of standards for the writing and design of documents, either for general use or for a specific publication,               organization, or field.
 
-9. **Pronouns** (including it)
-    + **_Must_** be capitalized.
-    + Example: If **I** Stay  ---   **I** Am Number Four   
-    
-10. **Verbs** 
-    + Always capitalized, even if the word is less than five letters long.
-    + Example: To **Say** Nothing Of The Dog   --- I **Sing** the Body Electric
-    
-11. **Words over five letters** 
-    + Always capitalized.
-    + Example: Beyond the **Mexique** Bay   ---   Blue **Remembered** Earth
-    
-12. **Special Words** (also, be, if, than, that, thus, when, no, not, interjection O)
-    + Should be capitalized, even though the word is less than five letters long.
-    + Example: How Long Must I Wait, **O** Lord?   ---   Bigger **Than** the Earth
+2. **Why do I need to follow these guidelines?** 
+     * As a BookBrainz editor, it is both crucial and important to have consistency in editing to avoid submitting the same          entries by mistake. 
 
-13. The word **as** & **o'Clock**
-    + Should **_only_** be capitalized when it is used as the first or last words.
-    + Example: **As** I Walk --- The Ten **o'Clock** People
+3. **What if I refuse to follow these guidelines?**
+     * Well, you'll make it harder for us to store your entries to the BookBrainz database. 
+     * Please don't do that, BookBrainz editors!
+
+4. **I still have so many questions to ask. What should I do?**
+     * Don't worry, pal! You can come to our [IRC channel](https://webchat.freenode.net/?channels=#metabrainz) and ask! We'll be more than glad to fill up your curiosity.
