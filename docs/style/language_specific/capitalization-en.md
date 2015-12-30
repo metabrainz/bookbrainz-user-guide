@@ -10,28 +10,28 @@ Capitalization Standards
 	+ *Don Quixote*
 	+ *Great Expectations*
 	+ *Animal Farm*
-2. Nouns are always capitalized.
+2. [Nouns](http://partofspeech.org/noun) are always capitalized.
 	+ *The Book Thief*
 	+ *Of Mice and Men*
 	+ *The Portrait of a Lady*
-3. Verbs are always capitalized.
+3. [Verbs](http://partofspeech.org/verb) are always capitalized.
 	+ *Things Fell Apart*
 	+ *One Flew Over the Cuckoo's Nest*
 	+ *As I Lay Dying*
-4. Adjectives are always capitalized.
+4. [Adjectives](http://partofspeech.org/adjective/) are always capitalized.
 	+ *The Old Man and the Sea*
 	+ *The Golden Compass*
 	+ *Brave New World*
 	+ *The Great Gatsby*
 	+ *Where the Wild Things Are*
-5. Adverbs are always capitalized.
+5. [Adverbs](http://partofspeech.org/adverb) are always capitalized.
 	+ *The Lovely Bones*
 	+ *The Very Hungry Caterpillar*
 	+ *Extremely Loud and Incredibly Close*
 6. Words consisting of more than four letters are always capitalized.
 	+ *Harry Potter and the Order of the Phoenix*
 	+ *The Pursuit of Love*
-7. Unless the first or last words of the title, articles (a, an, the), conjunctions (and, but, nor, or), prepositions fewer than four letters long, infinitives (to), the word "as", or "o'Clock" are never capitalized.
+7. Unless the first or last words of the title, [articles](http://www.grammarly.com/handbook/grammar/articles/) (a, an, the), [conjunctions](http://partofspeech.org/conjunction) (and, but, nor, or), [prepositions](http://partofspeech.org/preposition) fewer than four letters long, [infinitives](https://owl.english.purdue.edu/owl/resource/627/03/) (to), the word "as", or "o'Clock" are never capitalized.
 	+ *The Call of the Wild*
 	+ *Lord of the Flies*
 	+ *Pride and Prejudice*
