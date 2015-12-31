@@ -9,14 +9,14 @@ Dear BookBrainz editors, worry less and just follow our (simple, yet concise) st
 ## When Should I Capitalize?
 ----------------------------
 1. The **first** and **last words** 
-    + Always capitalized, regardless of the word length.
+    + **_Must_** capitalized, regardless of the word length.
 
 2. [Adjectives](https://en.wikipedia.org/wiki/Adjective "Adjective Definition") 
-    + Always capitalized, no matter where it is used.
+    + **_Must_** capitalized, no matter where it is used.
     + Regardless of the word length.
 
 3. [Adverbs](https://en.wikipedia.org/wiki/Adverb "Adverb Definition")
-    + Always capitalized, no matter where it is used.
+    + **_Must_** capitalized, no matter where it is used.
     + Regardless of the word length.
      
 4. [Articles](https://en.wikipedia.org/wiki/English_articles "Article Definition")
@@ -24,12 +24,12 @@ Dear BookBrainz editors, worry less and just follow our (simple, yet concise) st
     + Regardless of the word length.
     
 5. [Conjunctions](https://en.wikipedia.org/wiki/Conjunction_%28grammar%29 "Conjunction Definition")
-    + Always capitalized, no matter where it is used.
+    + **_Must_** capitalized, no matter where it is used.
     + **Except** [coordinate conjunctions](https://en.wikipedia.org/wiki/Conjunction_%28grammar%29#Coordinating_conjunctions) that should **_only_** be capitalized when it is used as the first or last words.
     + Regardless of the word length.
     
 6. [Demonstratives](https://en.wikipedia.org/wiki/Demonstrative "Demonstrative Definition")
-    + Always capitalized, no matter where it is used.
+    + **_Must_** capitalized, no matter where it is used.
     + Regardless of the word length.
 
 7. [Infinitives](https://en.wikipedia.org/wiki/Infinitive "Infinitive Definition") 
@@ -41,27 +41,26 @@ Dear BookBrainz editors, worry less and just follow our (simple, yet concise) st
     + Regardless of the word length.
 
 9. [Interrogatives](https://en.wikipedia.org/wiki/Interrogative_word "Interrogative Definition")
-    + Always capitalized, no matter where it is used.
+    + **_Must_** capitalized, no matter where it is used.
     + Regardless of the word length.
     
 10. [Nouns](https://en.wikipedia.org/wiki/Noun "Noun Definition") 
-    + Always capitalized, no matter where it is used.
+    + **_Must_** capitalized, no matter where it is used.
     + Regardless of the word length.
     
 11. [Possessives](https://en.wikipedia.org/wiki/English_possessive "Possessive Definition")
-    + Always capitalized, no matter where it is used.
+    + **_Must_** capitalized, no matter where it is used.
     + Regardless of the word length.
 
 12. [Prepositions](https://en.wikipedia.org/wiki/Preposition_and_postposition "Preposition Definition") that are more than five letters long
-    + Always capitalized, no matter where it is used.
-    + Regardless of the word length.
+    + **_Must_** capitalized, no matter where it is used.
 
 13. [Pronouns](https://en.wikipedia.org/wiki/Pronoun "Pronoun Definition")
     + **_Must_** be capitalized, no matter where it is used.
     + Regardless of the word length.
     
 14. [Verbs](https://en.wikipedia.org/wiki/English_verbs "Verb Definition") 
-    + Always capitalized, no matter where it is used.
+    + **_Must_** capitalized, no matter where it is used.
     + Regardless of the word length.
     
 
