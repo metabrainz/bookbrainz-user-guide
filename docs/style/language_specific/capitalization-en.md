@@ -1,7 +1,7 @@
 English Capitalization Standards
 ---------------
 
-The English Capitalization Standards was introduced to make the BookBrainz user's job easier when submitting entities. It is to be used on Publication, Edition, and Work entries so that future users will have an easier time browsing a list of standardized submissions.
+The English Capitalization Standards was introduced to ensure entry naming is uniform. It is to be used on Publication, Edition, and Work entries so that future users will have an easier time browsing a list of standardized submissions.
 
 Capitalization Standards
 ---------------
