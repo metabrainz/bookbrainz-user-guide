@@ -88,14 +88,14 @@ Dear BookBrainz editors, worry less and just follow our (simple, yet concise) st
 | 3. | Adverbs             | So Loud and **Incredibly** Close  --- Walk **Slowly** to the Beach                |
 | 4. | Articles            | **A** Guy's Friend   ---   In Love with **An** Elephant                           |
 | 5. | Conjunctions        | **Before** I Fly   ---   He Can't **Even** Speak!                                 |
-| 6. | Demonstratives      | Are **These** All Yours?    ---   **That** Is You Do It                           |
+| 6. | Demonstratives      | Are **These** All Yours?    ---   **That** Is How You Do It                       |
 | 7. | Infinitives         | How **To Speak** Confidently   ---   How **To Talk** About Books You Haven't Read |
 | 8. | Interjections       | **Ouch!** It Bit Me!   ---   Cluck **o'Clock**                                    | 
 | 9. | Interrogatives      | The Man **Who** Wrote the Book   ---    **Who**'s Afraid of Virginia Woolf?       |
 |10. | Nouns               | The Fault in Our **Stars**   ---   Ass **Goblins** of Auschwitz                   |
 |11. | Possesives          | Told You It's **Mine**   ---   **His** Fearful Symmetry                           |
 |12. | Prepositions        | **For** Whom the Bell Tolls   ---   Flowers **for** Jenna                         |
-|13. | Pronouns            | **She** Is A Vampire!  ---   Lies **They** Told Me                                |
+|13. | Pronouns            | **She** Is A Vampire!  ---   The Lies **You** Told Me                             |
 |14. | Verbs               | **Walk** Until You Bleed   ---  We Need To **Talk** About Kevin                   |
 
 
@@ -108,7 +108,7 @@ Eventhough MusicBrainz English Capitalization Guidelines is quite similar to Boo
 
    |               BookBrainz              |             MusicBrainz                |
    |:-------------------------------------:|:--------------------------------------:|
-   |When it is more than five letters long|When it is more than three letters long|
+   |When it is more than five letters long |When it is more than three letters long |
    
 2. The word "**o'Clock**" 
 
