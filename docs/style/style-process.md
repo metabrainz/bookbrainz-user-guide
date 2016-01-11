@@ -12,8 +12,9 @@ At the same time, the members of the list start collaborating on a document for
 the guideline  (either on GitHub, or some cloud document editor), bringing
 together the key points of the discussion into a suitable format for a guideline -
 the drafting phase. When no new changes have been made to the guideline document
-for a week, the Style Committee decide whether approve the guideline and make
-any necessary modifications, or reject it for some good reason.
+for a week, the Style Committee decide by unanimous vote whether approve the
+guideline and make any necessary modifications, or reject it for some good
+reason.
 
 If approved, the guideline is subsequently included in the official style
 guidelines, after being committed to the BookBrainz User Guide repositiory.
