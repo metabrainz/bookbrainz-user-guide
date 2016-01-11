@@ -16,7 +16,7 @@ Capitalization Standards
 	+ *The Portrait of a Lady*
 3. [Verbs](http://partofspeech.org/verb) are always capitalized.
 	+ *Things Fell Apart*
-	+ *One Flew Over the Cuckoo's Nest*
+	+ *One Flew Over the Cuckoo’s Nest*
 	+ *As I Lay Dying*
 4. [Adjectives](http://partofspeech.org/adjective/) are always capitalized.
 	+ *The Old Man and the Sea*
@@ -31,7 +31,7 @@ Capitalization Standards
 6. Words consisting of more than four letters are always capitalized.
 	+ *Harry Potter and the Order of the Phoenix*
 	+ *The Pursuit of Love*
-7. Unless the first or last words of the title, [articles](http://www.grammarly.com/handbook/grammar/articles/) (a, an, the), [conjunctions](http://partofspeech.org/conjunction) (and, but, nor, or), [prepositions](http://partofspeech.org/preposition) fewer than four letters long, [infinitives](https://owl.english.purdue.edu/owl/resource/627/03/) (to), the word "as", or "o'Clock" are never capitalized.
+7. Unless the first or last words of the title, [articles](http://www.grammarly.com/handbook/grammar/articles/) (a, an, the), [conjunctions](http://partofspeech.org/conjunction) (and, but, nor, or), [prepositions](http://partofspeech.org/preposition) fewer than four letters long, [infinitives](https://owl.english.purdue.edu/owl/resource/627/03/) (to), the word "as", or "o’Clock" are never capitalized.
 	+ *The Call of the Wild*
 	+ *Lord of the Flies*
 	+ *Pride and Prejudice*
