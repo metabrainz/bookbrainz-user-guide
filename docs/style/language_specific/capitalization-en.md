@@ -11,8 +11,8 @@ Capitalization Standards
 	+ [Conjunctions:](http://partofspeech.org/conjunction) and, but, nor, or
 	+ Short [Prepositions](http://partofspeech.org/preposition) (three letters or less): as, at, by, for, in, of, on, to, but, cum, mid, off, per, qua, re, up, via -- except when used as adverbs or as an inseparable part of a verb
 	+ the [Infinitive:](https://owl.english.purdue.edu/owl/resource/627/03/) to
-	+ In compounds formed by hyphens, capitalize each part exactly as if they were a separate word.
-	+ Capitalize contractions and slang consistent with the rules above to the extent that such clearly apply. For example, do not capitalize o' for "of", 'n' or n' for "and."
+3. In compounds formed by hyphens, capitalize each part exactly as if they were a separate word.
+4. Capitalize contractions and slang consistent with the rules above to the extent that such clearly apply. For example, do not capitalize o' for "of", 'n' or n' for "and."
 
 Special Case
 ---------------
