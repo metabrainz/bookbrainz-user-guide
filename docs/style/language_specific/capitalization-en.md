@@ -43,13 +43,13 @@ Examples
 	+ *Things Fell Apart*
 	+ *One Flew Over the Cuckoo’s Nest*
 	+ *As I Lay Dying*
-4. [Adjectives](http://partofspeech.org/adjective/)
+* [Adjectives](http://partofspeech.org/adjective/)
 	+ *The Old Man and the Sea*
 	+ *The Golden Compass*
 	+ *Brave New World*
 	+ *The Great Gatsby*
 	+ *Where the Wild Things Are*
-5. [Adverbs](http://partofspeech.org/adverb)
+* [Adverbs](http://partofspeech.org/adverb)
 	+ *The Lovely Bones*
 	+ *The Very Hungry Caterpillar*
 	+ *Extremely Loud and Incredibly Close*
