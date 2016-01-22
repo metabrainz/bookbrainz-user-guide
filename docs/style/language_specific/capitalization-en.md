@@ -13,6 +13,10 @@ Capitalization Standards
 	+ the [Infinitive:](https://owl.english.purdue.edu/owl/resource/627/03/) to
 	+ Words fewer than five letters long except the words also, be, if, than, that, thus, when, which are to be capitalized
 
+Special Case
+---------------
+The word O'Clock is to have both "O" and "Clock" capitalized.
+
 Examples
 ---------------
 1. Rule 1
