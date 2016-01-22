@@ -6,7 +6,7 @@ The English Capitalization Standards were introduced to ensure entry naming is u
 Capitalization Standards
 ---------------
 1. The first and last words are always capitalized.
-2. Between the first and last word of a title, **Capitalize all words except:** 
+2. Between the first and last word of a title, **capitalize all words except:** 
 	+ [Articles:](http://grammar.about.com/od/ab/g/articleterm.htm) a, an, the
 	+ [Conjunctions:](http://partofspeech.org/conjunction) and, but, nor, or
 	+ Short [Prepositions](http://partofspeech.org/preposition) (three letters or less): as, at, by, for, in, of, on, to, but, cum, mid, off, per, qua, re, up, via -- except when used as adverbs or as an inseparable part of a verb
