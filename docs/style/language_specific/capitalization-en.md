@@ -11,7 +11,6 @@ Capitalization Standards
 	+ [Conjunctions:](http://partofspeech.org/conjunction) and, but, nor, or
 	+ Short [Prepositions](http://partofspeech.org/preposition) (three letters or less): as, at, by, for, in, of, on, to, but, cum, mid, off, per, qua, re, up, via -- except when used as adverbs or as an inseparable part of a verb
 	+ the [Infinitive:](https://owl.english.purdue.edu/owl/resource/627/03/) to
-	+ Words fewer than five letters long except the words also, be, if, than, that, thus, when, which are to be capitalized
 
 Special Case
 ---------------
