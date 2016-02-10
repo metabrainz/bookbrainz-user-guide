@@ -37,34 +37,50 @@ required adjustments for BookBrainz-specific technologies.
   </thead>
   <tbody style="text-align: center">
     <tr>
-      <td>46</td>
-      <td>42</td>
+      <td>48</td>
+      <td>44</td>
       <td>11</td>
       <td>25</td>
       <td>9</td>
+      <td>35</td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>43</td>
+      <td>10</td>
+      <td>23</td>
+      <td>8</td>
+      <td>34</td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>42</td>
+      <td>9</td>
+      <td>21</td>
+      <td>7</td>
       <td>33</td>
     </tr>
     <tr>
       <td>45</td>
       <td>41</td>
-      <td>10</td>
-      <td>23</td>
-      <td>8</td>
+      <td></td>
+      <td>20</td>
+      <td></td>
       <td>32</td>
     </tr>
     <tr>
       <td>44</td>
       <td>40</td>
-      <td>9</td>
-      <td>21</td>
-      <td>7</td>
+      <td></td>
+      <td></td>
+      <td></td>
       <td>12.1</td>
     </tr>
     <tr>
       <td>43</td>
       <td>39</td>
       <td></td>
-      <td>20</td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
