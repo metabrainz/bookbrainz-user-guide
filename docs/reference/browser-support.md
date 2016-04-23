@@ -6,6 +6,8 @@ The following table lists the browser versions that BookBrainz currently
 supports. These are based on the [MusicBrainz supported browsers][mbbrowsers], with any
 required adjustments for BookBrainz-specific technologies.
 
+The oldest supported *Firefox* version should be the oldest, still maintained [Extended Support Release][firefoxesr].
+
 <table style="width: 100%">
   <thead>
     <tr>
@@ -37,47 +39,55 @@ required adjustments for BookBrainz-specific technologies.
   </thead>
   <tbody style="text-align: center">
     <tr>
-      <td>48</td>
-      <td>44</td>
+      <td>50</td>
+      <td>45</td>
       <td>11</td>
       <td>25</td>
       <td>9</td>
       <td>35</td>
     </tr>
     <tr>
-      <td>47</td>
-      <td>43</td>
+      <td>49</td>
+      <td>44</td>
       <td>10</td>
       <td>23</td>
       <td>8</td>
       <td>34</td>
     </tr>
     <tr>
-      <td>46</td>
-      <td>42</td>
+      <td>48</td>
+      <td>43</td>
       <td>9</td>
       <td>21</td>
       <td>7</td>
       <td>33</td>
     </tr>
     <tr>
-      <td>45</td>
-      <td>41</td>
+      <td>47</td>
+      <td>42</td>
       <td></td>
       <td>20</td>
       <td></td>
       <td>32</td>
     </tr>
     <tr>
-      <td>44</td>
-      <td>40</td>
+      <td>46</td>
+      <td>41</td>
       <td></td>
       <td></td>
       <td></td>
       <td>12.1</td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>45</td>
+      <td>40</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>44</td>
       <td>39</td>
       <td></td>
       <td></td>
@@ -85,7 +95,7 @@ required adjustments for BookBrainz-specific technologies.
       <td></td>
     </tr>
     <tr>
-      <td></td>
+      <td>43</td>
       <td>38</td>
       <td></td>
       <td></td>
@@ -100,3 +110,4 @@ All features accessible by unregistered users (guests) should work with
 JavaScript disabled. Only BookBrainz editors are required to enable JavaScript.
 
 [mbbrowsers]: https://musicbrainz.org/doc/Development/Supported_browsers
+[firefoxesr]: https://www.mozilla.org/en-US/firefox/organizations/faq/
