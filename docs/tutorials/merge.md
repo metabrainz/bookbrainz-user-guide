@@ -23,21 +23,22 @@ If you try adding an entity of another type (for example your merge queue contai
 
 ### 2. Submit/cancel the merge queue
 -------
-When you click on the "Merge entities" button in the merge queue section, you will be taken to a special entity edit page which collects the data from the entities you are merging.
+The merge queue gives you a recap of the selected entities, and allows you to select an entity to be removed from the merge queue.
+To proceed to the merge page, you will need to select the entity you want to merge the other ones into,and click the "Merge into selected entity" button. You will be taken to a special entity edit page which collects the data from the entities you are merging and displays the options.
 
 You can also cancel the merge queue by clicking on the "Cancel merge" button.
 
-![Merge duplicate](../images/merge-3-bis.png)
+![Merge duplicate](../images/merge-4.png)
 
 ### 3. Entity merging screen
 -------
 If the entities to be merged have no conflicting data, you will see the information with grayed out fields.
 
-![Merge duplicate](../images/merge-4.png)
+![Merge duplicate](../images/merge-5.png)
 
 If there are conflicting data, you will see a dropdown  where you can choose which data to keep.
 
-![Merge duplicate](../images/merge-5.png)
+![Merge duplicate](../images/merge-6.png)
 
 All identifiers, relationships and aliases will be collected and cannot be edited in this screen. if you wish to modify them, you will have to edit the entity before or after merging.
 
@@ -48,15 +49,15 @@ And voilà !
 -------
 After successfully submitting your merge edit, you will see a merge revision in the entity's history. Merge revisions are denoted with a special icon:
 
-![Merge revision](../images/merge-6.png)
+![Merge revision](../images/merge-7.png)
 
 The same goes on the lates revisions page:
 
-![Merge revision](../images/merge-7.png)
+![Merge revision](../images/merge-8.png)
 
 If you visit your merge revision, you will see it also has a special formatting that clarifies which entities got merged into which:
 
-![Merge revision](../images/merge-8.png)
+![Merge revision](../images/merge-9.png)
 
 ### 5. Redirect
 -------
