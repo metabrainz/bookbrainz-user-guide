@@ -61,7 +61,7 @@ Give each work a number, indicating their sequence in the series. For example: <
 
 ![series editor](../images/series-6.png)
 
-**Note:** It is not necessary only to assign a numeric value, you can assign any character. In this case, we could have assigned A, B, C instead of 1, 2, 3 or even something more descriptive like "Chapter 1" or "The First Book".
+**Note:** You are not limited to numeric values, this is a free text field. In this case, we could have assigned "Book One", "Book Two" and "Book Three" instead of 1,2,3.
 
 -------
 **4)** Add relationship(if any) and annotation for the series. Then finally click on the **Submit** button.
