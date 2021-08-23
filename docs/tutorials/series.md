@@ -10,7 +10,7 @@ A series is a sequence of separate works, authors, editions, edition groups, or 
 - [Harry Potter](https://test.bookbrainz.org/series/e9ffde6e-ffa7-4fe3-b8c5-e548bcbcc938)
 
 ### Series Type
-The type primarily describes what type of entity the series contains. The possible values are:
+The type primarily describes what type of entity the series contains. A series can only contain a single type of entity; mixed entity types are not supported. The possible values are:
 
 - Work 
 - Author 
