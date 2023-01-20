@@ -26,9 +26,9 @@ The relationship between [H.P Lovecraft](https://bookbrainz.org/author/ac59097e-
 The publisher [Orbit Books](https://bookbrainz.org/publisher/b065b24d-136f-45e3-badc-48aea4728c73) published a [paperback](https://bookbrainz.org/edition/54331325-d11b-47f4-bb74-0485e582c52e) and an [e-book](https://bookbrainz.org/edition/3fa9fdcd-098d-4ec1-82e4-f5fdfb92c41f) editions of the novel [*Ancillary Mercy*](https://bookbrainz.org/work/74b96fa7-e19d-4690-bb63-6fa3c07527f6) (by [Ann Leckie](https://bookbrainz.org/author/b2507eee-1391-47c5-93e6-ca972bd8e0e0)), making them part of the same [Edition Group](https://bookbrainz.org/edition-group/540e9c4a-f9fa-427b-a41f-bb12c48f902b) of the same name.
 
 
-<!-- ## How do I add a book?
+## How do I add a book?
 
-Now that you know a bit more abobut BookBrainz and you're excited to  contribute, have a look at our tutorial on [how to add a book](tutorials/add-a-book.md) -->
+Now that you know a bit more abobut BookBrainz and you're excited to  contribute, have a look at our tutorial on [how to add a book](./tutorials/add-a-book.md)
 
 
 ## Can I create a digital bookshelf?
