@@ -1,3 +1,18 @@
 site_name: BookBrainz User Guide
 theme:
   name: readthedocs
+nav:
+    - Introduction: 'index.md'
+    - 'Style Guidelines':
+      - Overview: 'style/overview.md'
+      - 'Entities':
+        - Edition: 'style/entities/edition.md'
+      - 'Language specific guidelines':
+        - 'English': 'style/language_specific/capitalization-en.md'
+      - 'Style process': 'style/style-process.md'
+    - Tutorials:
+      - 'Merging entities': 'tutorials/merge.md'
+      - 'Series entity': 'tutorials/series.md'
+    - 'glossary.md'
+    - Reference: 'reference/index.md'
+    - 'contribute.md'
