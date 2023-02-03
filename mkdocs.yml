@@ -9,6 +9,7 @@ nav:
       - Overview: 'style/overview.md'
       - 'Entities':
         - Edition: 'style/entities/edition.md'
+      - 'Disambiguation': 'style/disambiguation.md'
       - 'Language specific guidelines':
         - 'English': 'style/language_specific/capitalization-en.md'
       - 'Style process': 'style/style-process.md'
