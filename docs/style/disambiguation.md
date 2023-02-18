@@ -19,7 +19,7 @@ should be written in English and kept fairly short.
     annotations to provide such descriptions.
     <br/><br/>
 
-2. To distinguish entities of different types. Existing cues in the user
+2.  To distinguish entities of different types. Existing cues in the user
     interface already address this.
 
 ## Disambiguation content
