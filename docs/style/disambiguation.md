@@ -7,19 +7,19 @@ should be written in English and kept fairly short.
 
 ## When to use disambiguation
 
-1. If two or more entities of the same type contain an identical name.
-<br/><br/>
+1.  If two or more entities of the same type contain an identical name.
+    <br/><br/>
 
-2. If two or more entities of the same type contain names where homonyms,
+2.  If two or more entities of the same type contain names where homonyms,
     grammatical articles, punctuation or plurality differ.
 
 ## When *not* to use disambiguation
 
-1. To provide a description of an entity that is not ambiguous. Use
+1.  To provide a description of an entity that is not ambiguous. Use
     annotations to provide such descriptions.
-<br/><br/>
+    <br/><br/>
 
-2. To distinguish entities of different types. Existing cues in the user
+2.  To distinguish entities of different types. Existing cues in the user
     interface already address this.
 
 ## Disambiguation content
@@ -32,7 +32,6 @@ should be written in English and kept fairly short.
 
     - Misery (Anton Chekov short story)
     - Misery (Stephen King novel)
-    <br/><br/>
 
 2.  *Translated work*. If a work has been translated from its original
     language and is ambiguous with the work of the same author, the
@@ -40,7 +39,6 @@ should be written in English and kept fairly short.
 
     - Madame Bovary (French) ← *original work*
     - Madame Bovary (German translation) ← *translated work*
-    <br/><br/>
 
     If the work has been translated to the same language by different
     translators, indicate the language and translator in the disambiguation.
@@ -48,7 +46,6 @@ should be written in English and kept fairly short.
 
     - Madame Bovary (English: Alan Russell)
     - Madame Bovary (English: Eleanor Marx)
-    <br/><br/>
 
 3.  *Identically named work and type by same author*. If an author produces
     ambiguously named works of identical type, the disambiguation should
@@ -57,14 +54,12 @@ should be written in English and kept fairly short.
 
     - In Memoriam (Voltairine de Cleyre poem to Dyer D. Lum)
     - In Memoriam (Voltairine de Cleyre poem to Gen. M. M. Trumbull)
-    <br/><br/>
 
     If no descriptive information is apparent, quote the first words of the
     text. Examples:
 
     - Justice (Ambrose Bierce poem “Jack Doe met Dick Roe”)
     - Justice (Ambrose Bierce poem “She jilted me”)
-    <br/><br/>
 
 4. *Combinations*. For scenarios where more than one type of ambiguity occurs
     for a work, combine methods above, shorten wherever practical and separate
