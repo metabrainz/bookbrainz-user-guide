@@ -3,11 +3,10 @@
 
 If you're interested in contributing to BookBrainz, the first question you're likely to have is "How do I add my favorite book?".
 
-First of all, it's a good idea to check if it's already in our database by searching for it (https://bookbrainz.org/search) and avoid adding a duplicate.
 First of all, it's a good idea to check if it's already in our database by [searching for it](https://bookbrainz.org/search) and avoid adding a duplicate.
 
 You are looking for a Work (representing the content of the book, the story), and for the specific Edition you have (meaning the same format, publisher, year, etc. )
-If you want an overview of what these terms mean, head over to [the introduction](../introduction.md).
+If you want an overview of what these terms mean, head over to [the getting started page](../getting-started.md).
 
 ## Using the Book wizard
 
