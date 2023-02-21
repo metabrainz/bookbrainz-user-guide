@@ -19,6 +19,7 @@ In the top menu bar, click on "+ Add" and then select "Book":
 ![Add Book](../images/add_book.png)
 
 The form is divided into 4 sections, which we'll cover in more detail below:
+
 * Cover
 * Details
 * Contents
