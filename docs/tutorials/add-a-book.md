@@ -10,16 +10,16 @@ If you want an overview of what these terms mean, head over to [the introduction
 
 
 
-# Using the Book wizard
+## Using the Book wizard
 
 The easiest way to add a new book is to use our wizard which will take you through the steps to search for or create each required entity. It hides some of the complexity by creating and automatically linking together the various entities needed to represent "a book".
 
 For each relevant entity, you will be offered to search for or create a new entity. If the entity exists, it is as simple as selecting it. If it does not exist, you will see an option to create a new one, which will open a modal allowing you to fill in all the relevant details.
 
 In the top menu bar, click on "+ Add" and then select "Book":
-![Add Author](../images/add_book.png)
+![Add Book](../images/add_book.png)
 
-The form is divided in 4 sections, which we'll cover in more detail below:
+The form is divided into 4 sections, which we'll cover in more detail below:
 * Cover
 * Details
 * Contents
@@ -32,13 +32,13 @@ The Author Credit refers to the author(s) *as it appears on the cover*, which ca
 The language field here refers to the *language of the title*, not the language used in the book.
 ### Details
 Some of this information is typically found on the copyright page (the first page in the book).
-The annotation field is a freeform text field that allows you to enter other relevant information that does not fit in other fields.
+The annotation field is a freeform text field that allows you to enter other relevant information that does not fit into other fields.
 ### Contents
-This is where you defined which Work or Works are contained in the book. In the case of a novel, you will expect a single Work; for short stories or an omnibus collection for example, you would expect multiple Works.
-This section also allows you to easily group together the Works as part of a Series. here you will be able to organize each part of the series.
+This is where you define which Work or Works are contained in the book. In the case of a novel, you will expect a single Work; for short stories or an omnibus collection for example, you would expect multiple Works.
+This section also allows you to easily group together the Works as part of a Series. Here you will be able to organize each part of the series.
 ### Submit
 This section is a recap of the information you are about to submit — or if you have created new entities in the process, of the information that has already been submitted. Please verify it carefully before submitting.
 
-# Adding entities separately
+## Adding entities separately
 If you don't want to enter an entire book or if you know most of the entities you need already exist, you can create entities separately.
 Under the same "+ Add" menu you will see listed each entity type.
