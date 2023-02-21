@@ -44,3 +44,6 @@ This section is a recap of the information you are about to submit — or if you
 ## Adding entities separately
 If you don't want to enter an entire book or if you know most of the entities you need already exist, you can create entities separately.
 Under the same "+ Add" menu you will see listed each entity type.
+
+For example, if the book you want to add already exists in the database but you have a different edition of it (different format or ISBN), you can simply add a new Edition entity with all the required details.
+There is a convenient shortcut: if you visit the Edition Group page you will see an "+ Add Edition" button under the list of Editions, which will pre-fill some fields for you.
