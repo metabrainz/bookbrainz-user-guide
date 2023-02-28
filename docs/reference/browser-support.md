@@ -16,10 +16,6 @@ required adjustments for BookBrainz-specific technologies.
     <a href="https://en.wikipedia.org/wiki/Firefox">Firefox</a> 44 or newer
   </li>
   <li>
-    <span class="fa-li fa fa-internet-explorer" title="Microsoft Internet Explorer"></span>
-    <a href="https://en.wikipedia.org/wiki/Internet_Explorer">IE</a> 11 <strong>only</strong>
-  </li>
-  <li>
     <span class="fa-li fa fa-edge" title="Microsoft Edge"></span>
     <a href="https://en.wikipedia.org/wiki/Microsoft_Edge">Edge</a> 20 or newer
   </li>
