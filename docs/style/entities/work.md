@@ -33,8 +33,8 @@ If a work does not have a title, the name of the work should be the first line
 or sentence of the work’s text, enclosed in square brackets. Do not apply
 capitalization rules; retain the case of the original text. Examples:
 
-- [At that hour when all things have repose]
-- [Rash mortal! stay thy feet and look around]
+- [[At that hour when all things have repose]](https://bookbrainz.org/work/c0b50c4b-d57d-43bf-83b2-4930d938a0e4)
+- [[Rash mortal! stay thy feet and look around]](https://beta.bookbrainz.org/work/ed6d8c28-fe3c-4fde-b399-6663c2225805)
 
 The sort name of an untitled work should be the same name, omitting the square
 brackets.
