@@ -67,11 +67,11 @@ work as a translation.
 A translated work should have a *writer* relationship to the original work’s
 author, and a *translator* relationship to its translator. Example:
 
-- [Laws](https://bookbrainz.org/work/269d554e-4c92-49e6-b83b-66b2ac304e8d) was
+- [Republic](https://bookbrainz.org/work/c1b11cb0-38b0-49ea-88e8-83566c5589ad) was
 written by [Πλάτων](https://bookbrainz.org/author/3efc11ba-87ae-4cd0-9677-373f7618925a)
-- [Laws](https://bookbrainz.org/work/269d554e-4c92-49e6-b83b-66b2ac304e8d) is
-a translation of [Νόμοι](https://bookbrainz.org/work/d121b20d-0174-4a6f-8382-203a1aca6bca)
-- [Laws](https://bookbrainz.org/work/269d554e-4c92-49e6-b83b-66b2ac304e8d) was
+- [Republic](https://bookbrainz.org/work/c1b11cb0-38b0-49ea-88e8-83566c5589ad) is
+a translation of [Πολιτεία](https://bookbrainz.org/work/40002c97-41df-4659-b0e0-b30dfa5cbc59)
+- [Republic](https://bookbrainz.org/work/c1b11cb0-38b0-49ea-88e8-83566c5589ad) was
 translated by [Benjamin Jowett](https://bookbrainz.org/author/dc98466f-9e81-4fb1-a714-3b62b625b455)
 
 If the translator is unknown or unidentified, the translator should be
