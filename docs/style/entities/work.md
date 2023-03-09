@@ -62,9 +62,7 @@ should be related to
 
 Each translation of a work is distinct from the original work as well as from
 any other translations. A translated work should be related to the original
-work as a translation.
-
-A translated work should have a *writer* relationship to the original work’s
+work as a translation, have a *writer* relationship to the original work’s
 author, and a *translator* relationship to its translator. Example:
 
 - [Republic](https://bookbrainz.org/work/c1b11cb0-38b0-49ea-88e8-83566c5589ad) was
