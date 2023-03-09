@@ -65,11 +65,20 @@ any other translations. A translated work should be related to the original
 work as a translation.
 
 A translated work should have a *writer* relationship to the original work’s
-author, and a *translator* relationship to its translator. If the translator
-is unknown or unidentified, the translator should be
+author, and a *translator* relationship to its translator. Example:
+
+- [Laws](https://bookbrainz.org/work/269d554e-4c92-49e6-b83b-66b2ac304e8d) was
+written by [Πλάτων](https://bookbrainz.org/author/3efc11ba-87ae-4cd0-9677-373f7618925a)
+- [Laws](https://bookbrainz.org/work/269d554e-4c92-49e6-b83b-66b2ac304e8d) is
+a translation of [Νόμοι](https://bookbrainz.org/work/d121b20d-0174-4a6f-8382-203a1aca6bca)
+- [Laws](https://bookbrainz.org/work/269d554e-4c92-49e6-b83b-66b2ac304e8d) was
+translated by [Benjamin Jowett](https://bookbrainz.org/author/dc98466f-9e81-4fb1-a714-3b62b625b455)
+
+If the translator is unknown or unidentified, the translator should be
 [[unknown]](https://bookbrainz.org/author/6c1b8f55-4c7e-4739-bfa2-1979da4c68e1).
 
-Any notable information about a translation should be documented in its annotation.
+Notable information about a translation should be documented in the work’s
+annotation.
 
 ## Work relationships
 
