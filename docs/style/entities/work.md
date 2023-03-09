@@ -25,7 +25,7 @@ included as aliases.
 
 The language of a work’s name can differ from the language of the actual work.
 For example, a work written in English can have a Latin name. The name of the
-work should be capitalized based on the rules of the language of its name.
+work should be capitalized based on the rules for the language of its name.
 
 ## Untitled works
 
