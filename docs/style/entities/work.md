@@ -19,7 +19,7 @@ considered distinct works.
 ## Naming
 
 The name of a work should be its canonical title, in the language it was
-written by its author, or translator of translated works. Additional names,
+written by its author, or translator for translated works. Additional names,
 such as descriptive titles, known variations or transliterations should be
 included as aliases.
 
@@ -54,14 +54,14 @@ it should be related to
 potentially be determined at a later date, it should be related to
 [[unknown]](https://bookbrainz.org/author/6c1b8f55-4c7e-4739-bfa2-1979da4c68e1). 
 - *Oral tradition*. If a work has been preserved in the oral tradition (e.g.
-received, preserved, and transmitted orally from one generation to another) it
+received, preserved and transmitted orally from one generation to another) it
 should be related to
 [[traditional]](https://beta.bookbrainz.org/author/415a1f7c-a793-4107-9f2f-c38caf15116d).
 
 ## Translations
 
 Each translation of a work is distinct from the original work as well as from
-any other translations. A translated work should be related to the original
+any other translation. A translated work should be related to the original
 work as a translation, have a *writer* relationship to the original work’s
 author, and a *translator* relationship to its translator. Example:
 
