@@ -56,7 +56,7 @@ potentially be determined at a later date, it should be related to
 - *Oral tradition*. If a work has been preserved in the oral tradition (e.g.
 received, preserved and transmitted orally from one generation to another) it
 should be related to
-[[traditional]](https://beta.bookbrainz.org/author/415a1f7c-a793-4107-9f2f-c38caf15116d).
+[[traditional]](https://bookbrainz.org/author/415a1f7c-a793-4107-9f2f-c38caf15116d).
 
 ## Translations
 
