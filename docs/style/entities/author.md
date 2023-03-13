@@ -38,7 +38,7 @@ Where practical, a group should have relationships to individual authors who par
 
 Publishers are *not* classified as group authors, as the act of publishing is not considered the act of creative contribution to a work, edition or edition group.
 
- ## Special-purpose authors
+## Special-purpose authors
 
 Special-purpose authors handle situations where the actual author(s) of works, editions or edition groups cannot be represented. Examples:
 
