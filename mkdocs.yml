@@ -8,6 +8,7 @@ nav:
     - 'Style guidelines':
       - Overview: 'style/overview.md'
       - 'Entities':
+        - Author: 'style/entities/author.md'
         - Work: 'style/entities/work.md'
         - Edition: 'style/entities/edition.md'
       - 'Disambiguation': 'style/disambiguation.md'
