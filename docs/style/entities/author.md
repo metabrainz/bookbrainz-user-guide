@@ -4,7 +4,7 @@ An author is a person or group who have contributed creatively to a work, editio
 
 ## Naming
 
-The name of an author should their canonical name in its original language and script. A canonical name is the name that is most commonly used, i.e. their best-known name. Additional names, including legal name, pseudonyms, alternate spellings, transliterations, etc. should be included as aliases.
+The name of an author should be their canonical name in its original language and script. A canonical name is the name that is most commonly used, i.e. their best-known name. Additional names, including legal name, pseudonyms, alternate spellings, transliterations, etc. should be included as aliases.
 
 ### Languages
 
