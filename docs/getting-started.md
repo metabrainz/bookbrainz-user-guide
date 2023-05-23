@@ -28,7 +28,7 @@ The publisher [Orbit Books](https://bookbrainz.org/publisher/b065b24d-136f-45e3-
 
 ## How do I add a book?
 
-Now that you know a bit more about BookBrainz and you're excited to contribute, have a look at our tutorial on [how to add a book](./tutorials/add-a-book.md)
+Now that you know a bit more about BookBrainz and you're excited to contribute, have a look at our tutorial on [how to add a book](./tutorials/add-a-book.md).
 
 
 ## Can I create a digital bookshelf?

@@ -25,9 +25,12 @@ The form is divided into 4 sections, which we'll cover in more detail below:
 * Submit
 
 ### Cover
-This is information typically found on the cover, both front and back: title, author, publisher, ISBN
+This is information typically found on the cover, both front and back: title, author, publisher, ISBN.
+
 Some subtleties:
+
 The Author Credit refers to the author(s) *as it appears on the cover*, which can be different from the author's actual name (for example in the case of a pseudonym), but also allows you to enter multiple authors exactly as styled on the cover.
+
 The language field here refers to the *language of the title*, not the language used in the book.
 
 ### Details
@@ -36,10 +39,11 @@ The annotation field is a freeform text field that allows you to enter other rel
 
 ### Contents
 This is where you define which Work or Works are contained in the book. In the case of a novel, you will expect a single Work; for short stories or an omnibus collection for example, you would expect multiple Works.
+
 This section also allows you to easily group together the Works as part of a Series. Here you will be able to organize each part of the series.
 
 ### Submit
-This section is a recap of the information you are about to submit — or if you have created new entities in the process, of the information that has already been submitted. Please verify it carefully before submitting.
+This section is a recap of the information you are about to submit — or if you have created new entities in the process, of the information that has already been submitted. Please verify it carefully before submitting (the rest of) the book.
 
 ## Adding entities separately
 If you don't want to enter an entire book or if you know most of the entities you need already exist, you can create entities separately.
@@ -48,4 +52,4 @@ Under the same "+ Add" menu you will see listed each entity type.
 The [getting started](../getting-started.md) page explains what the different entities are and how they related to each other.
 
 For example, if the book you want to add already exists in the database but you have a different edition of it (different format or ISBN), you can simply add a new Edition entity with all the required details.
-There is a convenient shortcut: if you visit the Edition Group page you will see an "+ Add Edition" button under the list of Editions, which will pre-fill some fields for you.
+There is a convenient shortcut: If you visit the Edition Group page you will see an "+ Add Edition" button under the list of Editions, which will pre-fill some fields for you.
