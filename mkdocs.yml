@@ -15,6 +15,7 @@ nav:
         - 'English': 'style/language_specific/capitalization-en.md'
       - 'Style process': 'style/style-process.md'
     - Tutorials:
+      - 'Add a book': 'tutorials/add-a-book.md'
       - 'Merging entities': 'tutorials/merge.md'
       - 'Series entity': 'tutorials/series.md'
     - Resources:
