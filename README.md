@@ -11,7 +11,8 @@ The documentation uses (MKDocs)[https://www.mkdocs.org/] to compile the Markdown
 
 To contributre to this project, first create a fork of the repository and create a new branch to work on. You can then edit the contents of the (`docs`)[./docs] folder directly in Github using the markdown wysiwyg editor, or using your favorite editor.
 
-Then open a pull request against this repo, and after a few minutes of building you should be able to see the results of your pull request directly on the ReadTheDocs website
+Then open a pull request against this repo, and after a few short minutes of building you should be able to see the results of your pull request directly on the ReadTheDocs website.
+Go to your pull request, and at the bottom of the page expand the automated checks to find a link to the preview docs with the text "docs/readthedocs.org:bookbrainz-user-guide".
 
 ## Local development
 If you prefer to preview your modifications in your local development environment instead, you can do so by:
