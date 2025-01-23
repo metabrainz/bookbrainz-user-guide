@@ -1,1 +1,2 @@
-# BookBrainz Style Guidelines
+# Style Guidelines
+[TOC]

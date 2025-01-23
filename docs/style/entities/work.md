@@ -4,6 +4,8 @@ A work is a distinct, notable literary creation. The work entity captures
 information about the *content* that was created, not any physical or digital
 representation.
 
+[TOC]
+
 ## Distinctiveness
 
 A work is considered distinct based on the substantive uniqueness of its

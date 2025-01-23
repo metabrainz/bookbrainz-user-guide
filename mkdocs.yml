@@ -1,23 +1,37 @@
 site_name: BookBrainz User Guide
 theme:
-  name: readthedocs
+  name: custommill
+  main_color: '#754e37'
+  toc_depth: 10
+  home: home
+  include_search_page: true
+  locale: en
+  highlightjs: true
+# These are configuration options for the custommill theme.
+# See https://siphalor.github.io/mkdocs-custommill/#customization/~extra-configuration-options
+extra:
+  logo: 'images/BookBrainz_logo_bw.svg'
+  article_nav_top: false
+markdown_extensions:
+  toc:
+    toc_depth: '2-6'
 nav:
-    - Introduction: 'index.md'
-    - 'Getting started': 'getting-started.md'
-    - 'glossary.md'
-    - 'Style guidelines':
-      - Overview: 'style/overview.md'
-      - 'Entities':
-        - Work: 'style/entities/work.md'
-        - Edition: 'style/entities/edition.md'
-      - 'Disambiguation': 'style/disambiguation.md'
-      - 'Language specific guidelines':
-        - 'English': 'style/language_specific/capitalization-en.md'
-      - 'Style process': 'style/style-process.md'
-    - Tutorials:
-      - 'Add a book': 'tutorials/add-a-book.md'
-      - 'Merging entities': 'tutorials/merge.md'
-      - 'Series entity': 'tutorials/series.md'
-    - Resources:
-      - Reference: 'reference/index.md'
-      - 'contribute.md'
+  - Introduction: 'home.md'
+  - 'Getting started': 'getting-started.md'
+  - 'glossary.md'
+  - 'Style guidelines':
+    - Overview: 'style/overview.md'
+    - 'Entities':
+      - 'style/entities/work.md'
+      - 'style/entities/edition.md'
+    - 'Disambiguation': 'style/disambiguation.md'
+    - 'Language specific guidelines':
+      - 'English': 'style/language_specific/capitalization-en.md'
+    - 'Style process': 'style/style-process.md'
+  - How-tos:
+    - 'Add a book': 'tutorials/add-a-book.md'
+    - 'Merging entities': 'tutorials/merge.md'
+    - 'Series entity': 'tutorials/series.md'
+  - Resources:
+    - Reference: 'reference/index.md'
+    - 'contribute.md'

@@ -1,4 +1,4 @@
-# Welcome to BookBrainz !
+# Welcome to the BookBrainz user guide!
 
 [BookBrainz](http://bookbrainz.org/) is an online encyclopaedia which contains information about published literature. Our aim is to collect and store data about every book, magazine, journal or other publication ever written and make it available to the public for free.
 
