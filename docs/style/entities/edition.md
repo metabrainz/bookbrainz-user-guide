@@ -1,4 +1,6 @@
-# Edition style guidelines
+# Edition
+
+[TOC]
 
 ### Title
 Enter the title exactly as it appears on the book in Title Case. Title case requires all words in the title to be capitalized, with the exception of words like conjunctions, articles, and prepositions.
