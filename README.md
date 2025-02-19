@@ -1,6 +1,6 @@
 # BookBrainz User Guide
 
-Welcome to the (BookBrainz)[https://bookbrainz.org] user guide!
+Welcome to the [BookBrainz](https://bookbrainz.org) user guide!
 The guide is available at [https://bookbrainz-user-guide.readthedocs.io/].
 
 
