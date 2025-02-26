@@ -77,7 +77,6 @@ should be related to
     * wrote
         * provided story
             * explain the difference between "wrote" and "provided story"
-
         * translated
             * explain that the translator should be linked to the *translated* work, not the original work
         * was previously attributed to
@@ -89,7 +88,7 @@ should be related to
         * photographer
             * (specify when to link photographers to *works* and when to link to (see below) *editions*)
         * illustrator
-        (specify when to link illustrators to works and when to link to (see below) *editions*)
+            * (specify when to link illustrators to works and when to link to (see below) *editions*)
         * penciller
         * inker
         * colourist
@@ -97,13 +96,9 @@ should be related to
     * other
         * commissioner
         * dedication
-
-        (note about marriage c.f. https://community.metabrainz.org/t/concerning-the-new-is-about-relation/497088/16 applies here too)
-
+            * (note about marriage c.f. https://community.metabrainz.org/t/concerning-the-new-is-about-relation/497088/16 applies here too)
         * biography
-
-        (note about marriage c.f. https://community.metabrainz.org/t/concerning-the-new-is-about-relation/497088/16 applies here too)
-
+            * (note about marriage c.f. https://community.metabrainz.org/t/concerning-the-new-is-about-relation/497088/16 applies here too)
     * copyright
     * licensor
 3. Editions 
@@ -111,12 +106,12 @@ should be related to
     * preface
     * introduction
     * blurb
-        (short quotes, reviews, summary of the plot, author bio or other promotional content, usually found on book jackets) from https://en.wikipedia.org/wiki/Blurb\#Books
-        (specify that this should only be added if the author is *known*)
+        * (short quotes, reviews, summary of the plot, author bio or other promotional content, usually found on book jackets) from https://en.wikipedia.org/wiki/Blurb\#Books
+        * (specify that this should only be added if the author is *known*)
     * illustrator (see above)
-    (specify that illustrator should be add to edition only if its a "variable addition", that is, if the story makes just as much sense without the art, if there exists versions without it, or with different art, then this is an *edition* level rel.)
+        * (specify that illustrator should be add to edition only if its a "variable addition", that is, if the story makes just as much sense without the art, if there exists versions without it, or with different art, then this is an *edition* level rel.)
     *  photographer (see above)
-    (specify that photographer should be add to edition only if its a "variable addition", that is, if the story makes just as much sense without the art, if there exists versions without it, or with different art, then this is an *edition* level rel.)
+        * (specify that photographer should be add to edition only if its a "variable addition", that is, if the story makes just as much sense without the art, if there exists versions without it, or with different art, then this is an *edition* level rel.)
     *  designer
     *  editor
     *  typesetter
@@ -124,8 +119,8 @@ should be related to
     *  proofreader
     *  art director
 4. Publishers
-  * founder
-  * employee
+    * founder
+    * employee
 5. Series see [series section]()
 6. Edition groups
     *  There are no relationships between Authors and Edition Groups. Youn might be looking for relationships with specific Editions instead, see the 3. Editions section above
