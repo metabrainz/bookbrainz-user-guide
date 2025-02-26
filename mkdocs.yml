@@ -22,6 +22,7 @@ nav:
   - 'Style guidelines':
     - Overview: 'style/overview.md'
     - 'Entities':
+      - 'style/entities/author.md'
       - 'style/entities/work.md'
       - 'style/entities/edition.md'
     - 'Disambiguation': 'style/disambiguation.md'
