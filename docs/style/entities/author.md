@@ -3,7 +3,7 @@
 [TOC]
 
 ## Author Credits
-Section that explain what about author credits (link to [How to add Authors](#when-to-add-an-author))
+This section explains about author credits (link to [How to add Authors](#when-to-add-an-author))
 
 When entering a book into BookBrainz, you will need to understand the difference between the Edition you hold in your hands and the litterary Work (or Works) that it contains.
 
