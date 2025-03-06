@@ -5,12 +5,13 @@
 ## Author Credits
 This section explains about author credits (see also [How to add Authors](#when-to-add-an-author))
 
-When entering books into BookBrainz, it's important to understand the difference between the concept of an <u>Edition</u>, the physical item you can hold in your hands, and the litterary concept of a <u>Work</u> (or Works) books contain. (see [Wikipedia](https://en.wikipedia.org/wiki/Creative_work) for more information.)
+When entering books into BookBrainz, it's important to understand the difference between the concept of an <u>Edition</u>, the physical item you can hold in your hands, and the literary concept of <u>Works</u> that books contain. (see also [Wikipedia](https://en.wikipedia.org/wiki/Creative_work) for more information.)
 
-To track authorship, Work entities are related to one or more Authors via an "Author wrote Work" relationship.
+BookBrainz is a _relationable database_ that tracks the links between different entities, such as, which <u>Author</u> (entity) actually wrote what <u>Work</u> (entity) and so on. But it also is a database of _credited_ information, that is, who is _credited_ as the author.
+For the relationable part, we use _relationships_ in the database, typically, an "\[Author\] wrote \[Work\]" relationship.
 
-Now imagine a collection of short stories written by different authors, with only one of the author's name written prominently on the book cover.
-This is where Author Credits come in: the Edition is *credited to* AuthorName.
+Now imagine a collection of short stories written by different authors, where only one author's name is written prominently on the book's cover.
+This is where Author Credits come in: here the \[Edition\] should be *credited to* \[that one author\].
 
 Another example is [pen names](#pen-names): Author A wrote a novel under the pen name "Author B"; the Work has a relationship "Author A *wrote* Work" while the Edition has the author credit "Author A *credited as* Author B"
 
@@ -33,17 +34,20 @@ This is different from other pen names in that a persona is presented as a chara
 A good example of this comes from writer (Daniel Handler)[https://bookbrainz.org/author/394ac1e3-69e8-4eed-afaa-bb06f877c96e] who writes under the pseudonym Lemony Snicket, a character and supposed author of 'A Series of Unfortunate Events'.
 
 #### Pen Names
-We do not add pen names as separate authors, instead we use [author credits](#author-credits) to XXX how an edition was credited as another name.
+We do not add pen names as separate authors, instead we use [author credits](#author-credits) to XXX how an edition was credited as another name. 
+(note an illustration would be good here)
 Additionally an alias (link to section about aliases) should also be added to the author entity (see for example [Stephen King](https://bookbrainz.org/author/128d9490-ee19-4270-a070-32e0a36847f5)/Richard Bachman/Beryl Evans)
 
-### What about people who are not writers?
+### What about people who have not written anything?
 
 Someone who never wrote anything, but about whom several biographies have been written, for example, can be added to BookBrainz.
 Another relevant metric is if they link 2 or more Author entities.
 c.f https://community.metabrainz.org/t/concerning-the-new-is-about-relation/497088/16 
-These non-writer people need to be added as an Author entity despite their lack of authorship.
+These non-writer people can be to be added as <u>Authors</u>, despite not having written anything themselves.
 
-## What if a Work doesnt *have* a known author?
+Additionally, there are many other roles an "Author"(entity) can have in Bookbrainz: Photographer, penciller, translator, illustrator, and so on (see section below)
+
+## What if a Work doesn't *have* a known author?
 There are special-purpose authors for these specific cases:
 
 - *Anonymous writer*. If a work cannot be attributed to a specific writer
@@ -58,7 +62,7 @@ received, preserved and transmitted orally from one generation to another) it
 should be related to
 [[traditional]](https://bookbrainz.org/author/415a1f7c-a793-4107-9f2f-c38caf15116d).
 
-## How/when to link Authors to:
+## Current Author-linking relatinoships are:
 
 1. Other authors (link back to the pen names/personas section above)
     * persona
