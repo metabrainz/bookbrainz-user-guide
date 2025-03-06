@@ -3,9 +3,9 @@
 [TOC]
 
 ## Author Credits
-This section explains about author credits (link to [How to add Authors](#when-to-add-an-author))
+This section explains about author credits (see also [How to add Authors](#when-to-add-an-author))
 
-When entering a book into BookBrainz, you will need to understand the difference between the Edition you hold in your hands and the litterary Work (or Works) that it contains.
+When entering books into BookBrainz, it's important to understand the difference between the concept of an <u>Edition</u>, the physical item you can hold in your hands, and the litterary concept of a <u>Work</u> (or Works) books contain. (see [Wikipedia](https://en.wikipedia.org/wiki/Creative_work) for more information.)
 
 To track authorship, Work entities are related to one or more Authors via an "Author wrote Work" relationship.
 
