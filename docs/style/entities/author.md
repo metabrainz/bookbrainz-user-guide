@@ -62,7 +62,7 @@ received, preserved and transmitted orally from one generation to another) it
 should be related to
 [[traditional]](https://bookbrainz.org/author/415a1f7c-a793-4107-9f2f-c38caf15116d).
 
-## Current Author-linking relatinoships are:
+## Current Author-linking relationships are:
 
 1. Other authors (link back to the pen names/personas section above)
     * persona
