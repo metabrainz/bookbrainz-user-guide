@@ -7,13 +7,15 @@ This section explains about author credits (see also [How to add Authors](#when-
 
 When entering books into BookBrainz, it's important to understand the difference between the concept of an <u>Edition</u>, the physical item you can hold in your hands, and the literary concept of <u>Works</u> that books contain. (see also [Wikipedia](https://en.wikipedia.org/wiki/Creative_work) for more information.)
 
-BookBrainz is a _relationable database_ that tracks the links between different entities, such as, which <u>Author</u> (entity) actually wrote what <u>Work</u> (entity) and so on. But it also is a database of _credited_ information, that is, who is _credited_ as the author.
+BookBrainz is a _relationable database_ that tracks the links between different entities, such as, which <u>Author</u> (entity) actually wrote what <u>Work</u> (entity) and so on. But it also is a database of _credited_ information, that is, who is _credited_ as the author.<br>
 For the relationable part, we use _relationships_ in the database, typically, an "\[Author\] wrote \[Work\]" relationship.
 
-Now imagine a collection of short stories written by different authors, where only one author's name is written prominently on the book's cover.
+Examples:<br>
+Imagine a collection of short stories written by different authors, where only one author's name is written prominently on the book's cover.<br>
 This is where Author Credits come in: here the \[Edition\] should be *credited to* \[that one author\].
 
-Another example is [pen names](#pen-names): Author A wrote a novel under the pen name "Author B"; the Work has a relationship "Author A *wrote* Work" while the Edition has the author credit "Author A *credited as* Author B"
+An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-names) "Betta"; that Work should have a relationship, "Anchovy *wrote* \[Work\]" while the Edition should have the <u>author credit</u> "Anchovy *credited as* Betta"
+
 
 ## When to add an author?
 explain about [personas](#persona), collectives
