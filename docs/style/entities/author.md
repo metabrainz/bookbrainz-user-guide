@@ -2,23 +2,10 @@
 
 [TOC]
 
-## Author Credits
-This section explains about author credits (see also [How to add Authors](#when-to-add-an-author))
-
-When entering books into BookBrainz, it's important to understand the difference between the concept of an <u>Edition</u>, the physical item you can hold in your hands, and the literary concept of <u>Works</u> that books contain. (see also [Wikipedia](https://en.wikipedia.org/wiki/Creative_work) for more information.)
-
-BookBrainz is a _relationable database_ that tracks the links between different entities, such as, which <u>Author</u> (entity) actually wrote what <u>Work</u> (entity) and so on. But it also is a database of _credited_ information, that is, who is _credited_ as the author.<br>
-For the relationable part, we use _relationships_ in the database, typically, an "\[Author\] wrote \[Work\]" relationship.
-
-Examples:<br>
-Imagine a collection of short stories written by different authors, where only one author's name is written prominently on the book's cover.<br>
-This is where Author Credits come in: here the \[Edition\] should be *credited to* \[that one author\].
-
-An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-names) "Betta"; that Work should have a relationship, "Anchovy *wrote* \[Work\]" while the Edition should have the <u>author credit</u> "Anchovy *credited as* Betta"
-
-
-## When to add an author?
-explain about [personas](#persona), collectives
+## What is an Author?
+An author is someone who writes, translates or provides a story<br>
+In BookBrainz the "entity"(link to about entities) "Author" is basically any person who performs any number of book-related roles: writing, drawing, compiling, comisioning, even people who are just related to two or more other authors may be elegible[link to that (who don't write)part]
+Generally they will fall into these 3 types(types of author overview)
 
 ## Types of Authors:
 
@@ -63,6 +50,20 @@ potentially be determined at a later date, it should be related to
 received, preserved and transmitted orally from one generation to another) it
 should be related to
 [[traditional]](https://bookbrainz.org/author/415a1f7c-a793-4107-9f2f-c38caf15116d).
+
+## Author Credits
+This section explains about author credits (see also [How to add Authors](#when-to-add-an-author))
+
+When entering books into BookBrainz, it's important to understand the difference between the concept of an <u>Edition</u>, the physical item you can hold in your hands, and the literary concept of <u>Works</u> that books contain. (see also [Wikipedia](https://en.wikipedia.org/wiki/Creative_work) for more information.)
+
+BookBrainz is a _relationable database_ that tracks the links between different entities, such as, which <u>Author</u> (entity) actually wrote what <u>Work</u> (entity) and so on. But it also is a database of _credited_ information, that is, who is _credited_ as the author.<br>
+For the relationable part, we use _relationships_ in the database, typically, an "\[Author\] wrote \[Work\]" relationship.
+
+Examples:<br>
+Imagine a collection of short stories written by different authors, where only one author's name is written prominently on the book's cover.<br>
+This is where Author Credits come in: here the \[Edition\] should be *credited to* \[that one author\].
+
+An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-names) "Betta"; that Work should have a relationship, "Anchovy *wrote* \[Work\]" while the Edition should have the <u>author credit</u> "Anchovy *credited as* Betta"
 
 ## Current Author-linking relationships are:
 
