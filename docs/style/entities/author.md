@@ -4,28 +4,31 @@
 
 ## What is an Author?
 An author is someone who writes, translates or provides a story<br>
-In BookBrainz the "entity"(link to about entities) "Author" is basically any person who performs any number of book-related roles: writing, drawing, compiling, comisioning, even people who are just related to two or more other authors may be elegible[link to that (who don't write)part]
-Generally they will fall into these 3 types(types of author overview)
+In BookBrainz the "entity"[link to about entities] "Author" is basically any person who performs any number of book-related roles: writing, drawing, compiling, commissioning, even people who are just related to two or more other authors may be eligible[link to that (who don't write)part]
+Generally they will fall into these 3 types:
 
 ## Types of Authors:
 
 #### Person
-For individual writers and the most common type of Author entities.
-Do check if an author with that name exists (including searching for their [pen names](#pen-names)) before creating a new one.
+This is the most common type of Author entity, use for individual people.
+Before adding a new Author always check if someone with that name already exists (including searching for any [pen names](#pen-names), aliases, misspellings etc.) before creating a new one.
 If two authors bear the same name, use the [disambiguation field](../disambiguation.md) to tell them apart and add as much identifying information as possible.
 
 #### Group
-This type of author can be used for [collective pseudonyms](https://en.wikipedia.org/wiki/Category:Collective_pseudonyms) (pseudonyms used by multiple individuals), but also [house pseudonyms](https://en.wikipedia.org/wiki/Pen_name#Collective_names) (owned by a publisher and used by the writers working for them).
+Use this for groups of Authors, like [collective pseudonyms](https://en.wikipedia.org/wiki/Category:Collective_pseudonyms) (pseudonyms used by multiple individuals), [house pseudonyms](https://en.wikipedia.org/wiki/Pen_name#Collective_names) (owned by a publisher and used by the writers working for them) and similar.
 
 #### Persona
-Sometimes an author uses creates a character and writes under that pen name, while giving the character a backstory or having them appear in their work.
-This is different from other pen names in that a persona is presented as a character, but the work in question is credited to the persona.
-A good example of this comes from writer (Daniel Handler)[https://bookbrainz.org/author/394ac1e3-69e8-4eed-afaa-bb06f877c96e] who writes under the pseudonym Lemony Snicket, a character and supposed author of 'A Series of Unfortunate Events'.
+Sometimes Authors create characters and also write under that name, while giving this character things like a backstory or have them appear in their work.
+This is different from regular pen names in that a Persona is presented as its own thing, not just a character *in* the story, but also as the writer of the work in question.
+Examples:<br>
+The writer (Daniel Handler)[https://bookbrainz.org/author/394ac1e3-69e8-4eed-afaa-bb06f877c96e] who writes under the pseudonym Lemony Snicket, a character and supposed author of 'A Series of Unfortunate Events'.
 
 #### Pen Names
 We do not add pen names as separate authors, instead we use [author credits](#author-credits) to XXX how an edition was credited as another name. 
 (note an illustration would be good here)
-Additionally an alias (link to section about aliases) should also be added to the author entity (see for example [Stephen King](https://bookbrainz.org/author/128d9490-ee19-4270-a070-32e0a36847f5)/Richard Bachman/Beryl Evans)
+Additionally an alias[link to section about aliases] should also be added to the author entity.
+Example:<br>
+[Stephen King](https://bookbrainz.org/author/128d9490-ee19-4270-a070-32e0a36847f5) has aliases and is credited as, Richard Bachman and Beryl Evans
 
 ### What about people who have not written anything?
 
@@ -34,7 +37,7 @@ Another relevant metric is if they link 2 or more Author entities.
 c.f https://community.metabrainz.org/t/concerning-the-new-is-about-relation/497088/16 
 These non-writer people can be to be added as <u>Authors</u>, despite not having written anything themselves.
 
-Additionally, there are many other roles an "Author"(entity) can have in Bookbrainz: Photographer, penciller, translator, illustrator, and so on (see section below)
+Additionally, there are many other roles an "Author"(entity) can have in BookBrainz: Photographer, penciller, translator, illustrator, and so on (see section below)
 
 ## What if a Work doesn't *have* a known author?
 There are special-purpose authors for these specific cases:
