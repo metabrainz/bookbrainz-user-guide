@@ -4,7 +4,7 @@
 
 ## What is an Author?
 An author is someone who writes, translates or provides a story<br>
-In BookBrainz the "entity"[link to about entities] "Author" is basically any person who performs any number of book-related roles: writing, drawing, compiling, commissioning, even people who are just related to two or more other authors may be eligible[link to that (who don't write)part]
+In BookBrainz the "[entity](about entities)" "Author" is basically any person who performs any number of book-related roles: writing, drawing, compiling, commissioning, even people who are just related to two or more other authors may be eligible[link to that (who don't write)part]
 Generally they will fall into these 3 types:
 
 ## Types of Authors:
@@ -21,17 +21,16 @@ Use this for groups of Authors, like [collective pseudonyms](https://en.wikipedi
 Sometimes Authors create characters and also write under that name, while giving this character things like a backstory or have them appear in their work.
 This is different from regular pen names in that a Persona is presented as its own thing, not just a character *in* the story, but also as the writer of the work in question.
 Examples:<br>
-The writer (Daniel Handler)[https://bookbrainz.org/author/394ac1e3-69e8-4eed-afaa-bb06f877c96e] who writes under the pseudonym Lemony Snicket, a character and supposed author of 'A Series of Unfortunate Events'.
+The writer [Daniel Handler](https://bookbrainz.org/author/394ac1e3-69e8-4eed-afaa-bb06f877c96e) who writes under the pseudonym Lemony Snicket, a character and supposed author of 'A Series of Unfortunate Events'.
 
 #### Pen Names
-We do not add pen names as separate authors, instead we use [author credits](#author-credits) to XXX how an edition was credited as another name. 
+We do not add pen names as separate authors, instead we use [author credits](#author-credits) to show how an edition was credited with another name. 
 (note an illustration would be good here)
 Additionally an alias[link to section about aliases] should also be added to the author entity.
-Example:<br>
+Examples:<br>
 [Stephen King](https://bookbrainz.org/author/128d9490-ee19-4270-a070-32e0a36847f5) has aliases and is credited as, Richard Bachman and Beryl Evans
 
 ### What about people who have not written anything?
-
 Someone who never wrote anything, but about whom several biographies have been written, for example, can be added to BookBrainz.
 Another relevant metric is if they link 2 or more Author entities.
 c.f https://community.metabrainz.org/t/concerning-the-new-is-about-relation/497088/16 
@@ -63,7 +62,7 @@ BookBrainz is a _relationable database_ that tracks the links between different 
 For the relationable part, we use _relationships_ in the database, typically, an "\[Author\] wrote \[Work\]" relationship.
 
 Examples:<br>
-Imagine a collection of short stories written by different authors, where only one author's name is written prominently on the book's cover.<br>
+Imagine a collection of short stories written by different authors, were only one author's name is written prominently on the book's cover.<br>
 This is where Author Credits come in: here the \[Edition\] should be *credited to* \[that one author\].
 
 An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-names) "Betta"; that Work should have a relationship, "Anchovy *wrote* \[Work\]" while the Edition should have the <u>author credit</u> "Anchovy *credited as* Betta"
