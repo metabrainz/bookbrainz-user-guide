@@ -91,7 +91,8 @@ An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-na
     *  ~~collaboration~~<br>
         obsolete, we encourage people to fix old relationships and to use [author credits](#author-credits) and to create collectives (groups) for more permanent collaborations instead.
     * ~~\-pen name~~<br>
-        obsolete, (see [above](#persona))[^5] 
+        obsolete, (see [above](#persona))[^5]
+      
 1. Works
     * wrote<br>
         (links an author to a work they've written)<br>
