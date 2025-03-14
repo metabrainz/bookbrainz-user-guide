@@ -4,9 +4,8 @@
 
 ## What is an Author?
 An author is someone who writes, translates or provides a story<br>
-In BookBrainz the "[entity](about entities)[^1]" "Author" is basically any person who performs any number of book-related roles: writing, drawing, compiling, commissioning, even people who are [just related to two or more other authors may be eligible](#what-if-a-work-doesnt-have-a-known-author)
+In BookBrainz the "[entity](about entities)[^1]" "Author" is basically any person who performs any number of book-related roles: writing, drawing, compiling, commissioning, even people who are [just related to two or more other authors may be eligible](#what-about-people-who-have-not-written-anything)
 Generally they will fall into these 3 types:
-[^1]:  we should create this page
 
 ## Types of Authors:
 
@@ -20,7 +19,7 @@ Use this for groups of Authors, like [collective pseudonyms](https://en.wikipedi
 
 #### Persona
 Sometimes Authors create characters and also write under that name, while giving this character things like a backstory or have them appear in their work.
-This is different from regular pen names in that a Persona is presented as its own thing, not just a character *in* the story, but also as the writer of the work in question.<br>
+This is different from regular pen names in that a Persona is presented as its own thing, not just a character *in* the story, but also as the writer of the work in question. [^5]<br>
 Examples:<br>
 The writer [Daniel Handler](https://bookbrainz.org/author/394ac1e3-69e8-4eed-afaa-bb06f877c96e) who writes under the pseudonym *Lemony Snicket*, a character and the supposed author of *A Series of Unfortunate Events*.[^2]
 [^2]: add more examples
@@ -31,13 +30,11 @@ We do not add pen names as separate authors, instead we use [author credits](#au
 Additionally an alias[link to section about aliases] should also be added to the author entity.
 Examples:<br>
 [Stephen King](https://bookbrainz.org/author/128d9490-ee19-4270-a070-32e0a36847f5) has aliases and is credited as, Richard Bachman and Beryl Evans [^2]
-[^4]: add some kind of formatting here, like italics or slightly grey, to signify that it is not used
 
 ### What about people who have not written anything?
 Someone who never wrote anything, but about whom several biographies have been written, for example, can be added to BookBrainz.
 Another relevant metric is if they link 2 or more Author entities. [^3]
 These non-writer people can be to be added as <u>Authors</u>, despite not having written anything themselves.
-[^3]: c.f https://community.metabrainz.org/t/concerning-the-new-is-about-relation/497088/16
 
 Additionally, there are many other roles an "Author"(entity) can have in BookBrainz: Photographer, penciller, translator, illustrator, and so on (see section below)
 
@@ -57,7 +54,7 @@ should be related to
 [[traditional]](https://bookbrainz.org/author/415a1f7c-a793-4107-9f2f-c38caf15116d).
 
 ## Author Credits
-This section explains about author credits (see also [How to add Authors](#when-to-add-an-author))
+This section explains about author credits
 
 When entering books into BookBrainz, it's important to understand the difference between the concept of an <u>Edition</u>, the physical item you can hold in your hands, and the literary concept of <u>Works</u> that books contain. (see also [Wikipedia](https://en.wikipedia.org/wiki/Creative_work) for more information.)<br>
 {add an example of small collection of short stories by differnt author but only one autor name on the cover}
@@ -73,26 +70,41 @@ An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-na
 
 ## Current Author-linking relationships are:
 
-1. Other authors (link back to the pen names/personas section above)
-    * persona
-        (see above, and we should explain what is the diff between pen name and persona)  c.f. https://community.metabrainz.org/t/pen-names-as-aliases-or-as-separate-entries/497086
+1. Other authors:
+    * persona<br>
+        (see [above](#persona))[^5] links an author to their persona.
     * Member of group
-        * founder
-        * subgroup
-    * Marriage
-        See [non-authors section above](#what-about-people-who-are-not-writers)
-    * ditto involved with.
-    * same with the parent, sibling relations.
-    *  ~~collaboration~~
-        obsolete, we encurage people to fix old relationships and to use [author credits](#author-credits) and to create collectives (groups) for more permanent collaborations instead.
-    * ~~\-pen name~~
-2. Works
-    * wrote
-        * provided story
-            * explain the difference between "wrote" and "provided story"
-        * translated
-            * explain that the translator should be linked to the *translated* work, not the original work
-        * was previously attributed to
+        * founder<br>
+           (link a person as founder of a group of authors)
+        * subgroup<br>
+           (links a collective as a sub-group to another collective)
+    * Marriage<br>
+        (link two authors as married, note that [non-authors might be eligible here](#what-about-people-who-have-not-written-anything))
+    * involved with<br>
+        (link two authors as involved, see note above)
+    * parent<br>
+        (link an author as being the parent to another, see note above)
+    * sibling relations<br>
+        (link two (or more) authors as being siblings. take care to link everyone to everyone else!, see note above)
+
+   **Obsolete relationships**, if you see any author with these you are encouraged to fix them!:
+    *  ~~collaboration~~<br>
+        obsolete, we encourage people to fix old relationships and to use [author credits](#author-credits) and to create collectives (groups) for more permanent collaborations instead.
+    * ~~\-pen name~~<br>
+        obsolete, (see [above](#persona))[^5] 
+1. Works
+    * wrote<br>
+        (links an author to a work they've written)<br>
+        note, several authors can be linked to the same work, and naturally an author can be linked to several works
+        * provided story<br>
+         (links an author to a work they provided the story for)<br>
+         this is used for translated works, because while the author *wrote* the original story, this translated work wasn't *literally* written by them
+        * translated<br>
+         (links an author to a work they have translated)<br>
+          note that the translator should be linked to the *translated* work, not the original work
+        * was previously attributed to<br>
+         (links an author to a work they've previously been attributed to writing)<br>
+          this is used for mostly historical works, where new research finds that so and such author was not actually the one who wrote it (add [example])
     * worked on
         * adapted
         * revised
@@ -114,7 +126,7 @@ An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-na
             * (note about marriage c.f. https://community.metabrainz.org/t/concerning-the-new-is-about-relation/497088/16 applies here too)
     * copyright
     * licensor
-3. Editions 
+2. Editions 
     * foreword
     * preface
     * introduction
@@ -131,9 +143,14 @@ An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-na
     *  compiler
     *  proofreader
     *  art director
-4. Publishers
+3. Publishers
     * founder
     * employee
-5. Series see [series section]()
-6. Edition groups
+4. Series see [series section]()
+5. Edition groups
     *  There are no relationships between Authors and Edition Groups. Youn might be looking for relationships with specific Editions instead, see the 3. Editions section above
+  
+[^1]:  we should create this page
+[^4]: add some kind of formatting here, like italics or slightly grey, to signify that it is not used
+[^3]: c.f https://community.metabrainz.org/t/concerning-the-new-is-about-relation/497088/16
+[^5]: c.f. https://community.metabrainz.org/t/pen-names-as-aliases-or-as-separate-entries/497086
