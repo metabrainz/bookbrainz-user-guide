@@ -4,8 +4,9 @@
 
 ## What is an Author?
 An author is someone who writes, translates or provides a story<br>
-In BookBrainz the "[entity](about entities)" "Author" is basically any person who performs any number of book-related roles: writing, drawing, compiling, commissioning, even people who are just related to two or more other authors may be eligible[link to that (who don't write)part]
+In BookBrainz the "[entity](about entities)[^1]" "Author" is basically any person who performs any number of book-related roles: writing, drawing, compiling, commissioning, even people who are [just related to two or more other authors may be eligible](#what-if-a-work-doesnt-have-a-known-author)
 Generally they will fall into these 3 types:
+[^1]:  we should create this page
 
 ## Types of Authors:
 
@@ -19,22 +20,24 @@ Use this for groups of Authors, like [collective pseudonyms](https://en.wikipedi
 
 #### Persona
 Sometimes Authors create characters and also write under that name, while giving this character things like a backstory or have them appear in their work.
-This is different from regular pen names in that a Persona is presented as its own thing, not just a character *in* the story, but also as the writer of the work in question.
+This is different from regular pen names in that a Persona is presented as its own thing, not just a character *in* the story, but also as the writer of the work in question.<br>
 Examples:<br>
-The writer [Daniel Handler](https://bookbrainz.org/author/394ac1e3-69e8-4eed-afaa-bb06f877c96e) who writes under the pseudonym Lemony Snicket, a character and supposed author of 'A Series of Unfortunate Events'.
+The writer [Daniel Handler](https://bookbrainz.org/author/394ac1e3-69e8-4eed-afaa-bb06f877c96e) who writes under the pseudonym *Lemony Snicket*, a character and the supposed author of *A Series of Unfortunate Events*.[^2]
+[^2]: add more examples
 
-#### Pen Names
+#### Pen Names [^4]
 We do not add pen names as separate authors, instead we use [author credits](#author-credits) to show how an edition was credited with another name. 
 (note an illustration would be good here)
 Additionally an alias[link to section about aliases] should also be added to the author entity.
 Examples:<br>
-[Stephen King](https://bookbrainz.org/author/128d9490-ee19-4270-a070-32e0a36847f5) has aliases and is credited as, Richard Bachman and Beryl Evans
+[Stephen King](https://bookbrainz.org/author/128d9490-ee19-4270-a070-32e0a36847f5) has aliases and is credited as, Richard Bachman and Beryl Evans [^2]
+[^4]: add some kind of formatting here, like italics or slightly grey, to signify that it is not used
 
 ### What about people who have not written anything?
 Someone who never wrote anything, but about whom several biographies have been written, for example, can be added to BookBrainz.
-Another relevant metric is if they link 2 or more Author entities.
-c.f https://community.metabrainz.org/t/concerning-the-new-is-about-relation/497088/16 
+Another relevant metric is if they link 2 or more Author entities. [^3]
 These non-writer people can be to be added as <u>Authors</u>, despite not having written anything themselves.
+[^3]: c.f https://community.metabrainz.org/t/concerning-the-new-is-about-relation/497088/16
 
 Additionally, there are many other roles an "Author"(entity) can have in BookBrainz: Photographer, penciller, translator, illustrator, and so on (see section below)
 
@@ -56,7 +59,8 @@ should be related to
 ## Author Credits
 This section explains about author credits (see also [How to add Authors](#when-to-add-an-author))
 
-When entering books into BookBrainz, it's important to understand the difference between the concept of an <u>Edition</u>, the physical item you can hold in your hands, and the literary concept of <u>Works</u> that books contain. (see also [Wikipedia](https://en.wikipedia.org/wiki/Creative_work) for more information.)
+When entering books into BookBrainz, it's important to understand the difference between the concept of an <u>Edition</u>, the physical item you can hold in your hands, and the literary concept of <u>Works</u> that books contain. (see also [Wikipedia](https://en.wikipedia.org/wiki/Creative_work) for more information.)<br>
+{add an example of small collection of short stories by differnt author but only one autor name on the cover}
 
 BookBrainz is a _relationable database_ that tracks the links between different entities, such as, which <u>Author</u> (entity) actually wrote what <u>Work</u> (entity) and so on. But it also is a database of _credited_ information, that is, who is _credited_ as the author.<br>
 For the relationable part, we use _relationships_ in the database, typically, an "\[Author\] wrote \[Work\]" relationship.
