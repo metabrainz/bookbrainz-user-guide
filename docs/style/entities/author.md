@@ -4,7 +4,7 @@
 
 ## What is an Author?
 An author is someone who writes, translates or provides a story<br>
-In BookBrainz the "[entity](about entities)[^1]" "Author" is basically any person who performs any number of book-related roles: writing, drawing, compiling, commissioning, even people who are [just related to two or more other authors may be eligible](#what-about-people-who-have-not-written-anything)
+In BookBrainz the "[entity](about entities aka /entities.md)[^1]" "Author" is basically any person who performs any number of book-related roles: writing, drawing, compiling, commissioning, even people who are [just related to two or more other authors may be eligible](#what-about-people-who-have-not-written-anything)
 Generally they will fall into these 3 types:
 
 ## Types of Authors:
@@ -150,7 +150,7 @@ An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-na
 5. Edition groups
     *  There are no relationships between Authors and Edition Groups. Youn might be looking for relationships with specific Editions instead, see the 3. Editions section above
   
-[^1]:  we should create this page
+[^1]: I created /entities.md under "entities"
 [^4]: add some kind of formatting here, like italics or slightly grey, to signify that it is not used
 [^3]: c.f https://community.metabrainz.org/t/concerning-the-new-is-about-relation/497088/16
 [^5]: c.f. https://community.metabrainz.org/t/pen-names-as-aliases-or-as-separate-entries/497086
