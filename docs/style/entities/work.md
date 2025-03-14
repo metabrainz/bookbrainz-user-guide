@@ -46,19 +46,7 @@ brackets.
 The primary relationship of a work is to its main author, aka its *writer*;
 every work should have at least one writer.
 
-A work’s writer can be a special-purpose author in specific cases:
-
-- *Anonymous writer*. If a work cannot be attributed to a specific writer
-(e.g. published anonymously or writer attribution has been irrecoverably lost)
-it should be related to
-[[anonymous]](https://bookbrainz.org/author/fd47e471-a994-4ed9-bf52-531d5f184dd3).
-- *Unknown writer*. If the author of a work is currently unknown, but can
-potentially be determined at a later date, it should be related to
-[[unknown]](https://bookbrainz.org/author/6c1b8f55-4c7e-4739-bfa2-1979da4c68e1). 
-- *Oral tradition*. If a work has been preserved in the oral tradition (e.g.
-received, preserved and transmitted orally from one generation to another) it
-should be related to
-[[traditional]](https://bookbrainz.org/author/415a1f7c-a793-4107-9f2f-c38caf15116d).
+See the [Author](./author.md) page for a description of the types of authors and the difference between the "written by" Work relationship and Author Credits on Editions.
 
 ## Translations
 
