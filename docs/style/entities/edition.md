@@ -2,6 +2,10 @@
 
 [TOC]
 
+## How do I add a book?
+How to add a book, what is an edition, bit about print runs (opplag og utgaver)
+
+
 ### Title
 Enter the title exactly as it appears on the book in Title Case. Title case requires all words in the title to be capitalized, with the exception of words like conjunctions, articles, and prepositions.
 
@@ -73,3 +77,29 @@ Use this free text field to add any additional details about the book that don't
 Don't use this field for data that belongs in another field.
 
 Please do not include subjective opinions, reviews, promotional language or hype, or condition notes.
+
+## Linking Editions to other entities
+
+### Link to Other editions
+(we do this, explain why)
+- revision
+- reprint
+
+### Link to Works
+(this should be the opposite of work-edition)
+
+### Link to Edition Groups
+(we don't do this, should we do this? will that help fix the EDg  translation/type etc problem we talked about in the summit?)
+
+### Link to Publishers
+( it is a separate thing from regular in-edition-editing-page field, so we must clarify which to use and in which situation (perhaps even adding some historical information))
+- published
+- holds copyright
+- licensed
+- licensee
+- manufactured
+- promoted
+- distributed
+
+### Link to Series
+See [series section](../../tutorials/series.md)
