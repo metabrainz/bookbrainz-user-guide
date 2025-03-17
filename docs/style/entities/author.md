@@ -4,13 +4,13 @@
 
 ## What is an Author?
 An author is someone who writes, translates or provides a story<br>
-In BookBrainz the "[entity](about entities aka /entities.md)[^1]" "Author" is basically any person who performs any number of book-related roles: writing, drawing, compiling, commissioning, even people who are [just related to two or more other authors may be eligible](#what-about-people-who-have-not-written-anything)
+In BookBrainz the "[entity](about entities aka /entities.md)"[^1] "Author" is basically any person who performs any number of book-related roles: writing, drawing, compiling, commissioning, even people who are [just related to two or more other authors may be eligible](#what-about-people-who-have-not-written-anything)<br>
 Generally they will fall into these 3 types:
 
 ## Types of Authors:
 
 #### Person
-This is the most common type of Author entity, use for individual people.
+This is the most common type of Author entity, use for individual people.<br>
 Before adding a new Author always check if someone with that name already exists (including searching for any [pen names](#pen-names), aliases, misspellings etc.) before creating a new one.
 If two authors bear the same name, use the [disambiguation field](../disambiguation.md) to tell them apart and add as much identifying information as possible.
 
@@ -18,7 +18,7 @@ If two authors bear the same name, use the [disambiguation field](../disambiguat
 Use this for groups of Authors, like [collective pseudonyms](https://en.wikipedia.org/wiki/Category:Collective_pseudonyms) (pseudonyms used by multiple individuals), [house pseudonyms](https://en.wikipedia.org/wiki/Pen_name#Collective_names) (owned by a publisher and used by the writers working for them) and similar.
 
 #### Persona
-Sometimes Authors create characters and also write under that name, while giving this character things like a backstory or have them appear in their work.
+Sometimes Authors create characters and also write under that name, whilst giving this character things like a backstory or have them appear in their work.
 This is different from regular pen names in that a Persona is presented as its own thing, not just a character *in* the story, but also as the writer of the work in question. [^5]<br>
 Examples:<br>
 The writer [Daniel Handler](https://bookbrainz.org/author/394ac1e3-69e8-4eed-afaa-bb06f877c96e) who writes under the pseudonym *Lemony Snicket*, a character and the supposed author of *A Series of Unfortunate Events*.[^2]
@@ -36,7 +36,7 @@ Someone who never wrote anything, but about whom several biographies have been w
 Another relevant metric is if they link 2 or more Author entities. [^3]
 These non-writer people can be to be added as <u>Authors</u>, despite not having written anything themselves.
 
-Additionally, there are many other roles an "Author"(entity) can have in BookBrainz: Photographer, penciller, translator, illustrator, and so on (see section below)
+Additionally, there are many other roles an "Author"(entity)" can have in BookBrainz: Photographer, penciller, translator, illustrator, and so on (see section below)
 
 ## What if a Work doesn't *have* a known author?
 There are special-purpose authors for these specific cases:
@@ -54,7 +54,7 @@ should be related to
 [[traditional]](https://bookbrainz.org/author/415a1f7c-a793-4107-9f2f-c38caf15116d).
 
 ## Author Credits
-This section explains about author credits
+This section explains about author credits.
 
 When entering books into BookBrainz, it's important to understand the difference between the concept of an <u>Edition</u>, the physical item you can hold in your hands, and the literary concept of <u>Works</u> that books contain. (see also [Wikipedia](https://en.wikipedia.org/wiki/Creative_work) for more information.)<br>
 {add an example of small collection of short stories by differnt author but only one autor name on the cover}
@@ -103,30 +103,51 @@ An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-na
         * translated<br>
          (links an author to a work they have translated)<br>
           note that the translator should be linked to the *translated* work, not the original work
-        * was previously attributed to<br>
+        * was previously attributed to
          (links an author to a work they've previously been attributed to writing)<br>
           this is used for mostly historical works, where new research finds that so and such author was not actually the one who wrote it (add [example])
-    * worked on
-        * adapted
-        * revised
-        * reconstructed
-    * artist
-        * photographer
+    * worked on<br>
+        (links an author to a work they have worked on in some miscellaneous way)
+        * adapted<br>
+          (links an author to a work they have adapted [see Wikipedia for more information about adaptions](https://en.wikipedia.org/wiki/Adaptation_(arts)))<br>
+           note you should also add a work-work "adaptation of" link between the original work and the adapted work [link to the work-entity page relevant section]
+        * revised<br>
+          (links an author to a work they have revised [link to wikipedia that explains revision])<br>
+           note you should also add a work-work "revision of" link between the original work and the revised work [link to the work-entity page relevant  section]
+        * reconstructed<br>
+          (links an author to a work they have reconstruction [link to wikipedia that explains reconstructions])<br>
+           note you should also add a work-work "reconstruction of" link between the original work and the reconstructed work [link to the work-entity page relevant section]
+    * artist<br>
+       artists are people with roles that encompass all artistic work *except* writing<br>
+       note while these are not writers, they are still added with "add author" [link  to how to add author page we don't yet have]
+        * photographer<br>
+          (links a photographer to a work [arglablarg])
             * (specify when to link photographers to *works* and when to link to (see below) *editions*)
-        * illustrator
+        * illustrator<br>
+          (links an illustrator to a work they have illustrated [largablarg])
             * (specify when to link illustrators to works and when to link to (see below) *editions*)
-        * penciller
-        * inker
-        * colourist
-        * letterer
-    * other
-        * commissioner
-        * dedication
+        * penciller<br>
+          (links a penciller to a work they have pencilled, this is used ostencibly for comics, manga and graphic novels)
+        * inker<br>
+          (links an inker to a work they have inked, ostencibly comics, manga and graphic novels)
+        * colourist<br>
+          (links a colourer to a work they have coloured, this is used ostencibly for comics, manga and graphic novels)
+        * letterer<br>
+          (links a letterer to a work they have provided letters for, this is used ostencibly in comics, manga and graphic novels)
+    * other<br>
+        (link authors (people) in some other, unspecified or not-yet available relation [link to how to suggests changes/jira ticket+community discussion])
+        * commissioner<br>
+          (link someone to the work they have commissioned [wikipedia link that explains about commission])
+        * dedication<br>
+          (links a work to an author it contains a dedication to)
             * (note about marriage c.f. https://community.metabrainz.org/t/concerning-the-new-is-about-relation/497088/16 applies here too)
-        * biography
+        * biography<br>
+          (links a work to an author that it is about)
             * (note about marriage c.f. https://community.metabrainz.org/t/concerning-the-new-is-about-relation/497088/16 applies here too)
-    * copyright
-    * licensor
+    * copyright<br>
+      (idk)
+    * licensor<br>
+       (no idea)
 2. Editions 
     * foreword
     * preface
