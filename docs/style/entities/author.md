@@ -4,7 +4,7 @@
 
 ## What is an Author?
 An author is someone who writes, translates or provides a story<br>
-In BookBrainz the "[entity](./entities.md)"[^1] "Author" is basically any person who performs any number of book-related roles: writing, drawing, compiling, commissioning, even people who are [just related to two or more other authors may be eligible](#what-about-people-who-have-not-written-anything)<br>
+In BookBrainz the "[entity](../../getting-started.md#what-is-an-entity-in-bookbrainz)" "Author" is basically any person who performs any number of book-related roles: writing, drawing, compiling, commissioning, even people who are [just related to two or more other authors may be eligible](#what-about-people-who-have-not-written-anything)<br>
 Generally they will fall into these 3 types:
 
 ## Types of Authors:
