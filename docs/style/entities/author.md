@@ -4,7 +4,7 @@
 
 ## What is an Author?
 An author is someone who writes, translates or provides a story<br>
-In BookBrainz the "[entity](about entities aka /entities.md)"[^1] "Author" is basically any person who performs any number of book-related roles: writing, drawing, compiling, commissioning, even people who are [just related to two or more other authors may be eligible](#what-about-people-who-have-not-written-anything)<br>
+In BookBrainz the "[entity](./entities.md)"[^1] "Author" is basically any person who performs any number of book-related roles: writing, drawing, compiling, commissioning, even people who are [just related to two or more other authors may be eligible](#what-about-people-who-have-not-written-anything)<br>
 Generally they will fall into these 3 types:
 
 ## Types of Authors:
@@ -24,7 +24,8 @@ Examples:<br>
 The writer [Daniel Handler](https://bookbrainz.org/author/394ac1e3-69e8-4eed-afaa-bb06f877c96e) who writes under the pseudonym *Lemony Snicket*, a character and the supposed author of *A Series of Unfortunate Events*.[^2]
 [^2]: add more examples
 
-#### Pen Names [^4]
+#### Pen Names
+[^4]
 We do not add pen names as separate authors, instead we use [author credits](#author-credits) to show how an edition was credited with another name. 
 (note an illustration would be good here)
 Additionally an alias[link to section about aliases] should also be added to the author entity.

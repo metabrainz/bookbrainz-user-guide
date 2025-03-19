@@ -13,7 +13,7 @@ If the title differs on different parts of the book (e.g. cover, spine, copyrigh
 
 Subtitles should be added to this field using a colon as a separator (e.g. Title: Subtitle).
 
-For more in-depth capitalization guidelines, head over to [English capitalization guidelines](../language_specific/capitalization-en.md) or the equivalent page for the language of the title.
+For more in-depth capitalization guidelines, head over to [English capitalization guidelines](../language_specific/english-guidelines.md) or the equivalent page for the language of the title.
 
 ### Author Credit
 Author credits should generally follow the actual credit used on the cover, including the join phrases.
