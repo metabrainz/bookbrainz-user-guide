@@ -6,6 +6,11 @@ The following 6 entities and the way they are linked together allow us to descri
 
 When you think about the book you have in your hands, there are actually multiple interconnected concepts; here is how we break it down in BookBrainz:
 
+## What is an "entity" in BookBrainz?
+an entity is one of the core concepts in BookBrainz<br>
+they represent people, literary works, companies and the physical books themselves.<br>
+entities can be linked to eachother via [relationships](link to about relationships)
+
 ![Entity relationships](images/entity_relationships.svg)
 
 * **Author** – an individual, group or collective that participates in the creative process of an artistic work. It also includes translators, illustrators, editors, etc.
