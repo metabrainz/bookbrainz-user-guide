@@ -169,7 +169,7 @@ An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-na
 3. Publishers
     * founder
     * employee
-4. Series see [series section]()
+4. Series see [series section](./series.md)
 5. Edition groups
     *  There are no relationships between Authors and Edition Groups. Youn might be looking for relationships with specific Editions instead, see the 3. Editions section above
   

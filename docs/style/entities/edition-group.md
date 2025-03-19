@@ -23,7 +23,7 @@ The Edition Groups are a logical grouping representing the idera of "a book" rat
 
 However, you can add Edition Groups to a Series
 ### Link to Series
-See [series section](../../tutorials/series.md)
+See [series section](./series.md)
 
 ### Link to Author
 We don't create a relationship between an Edition Group and their Author, instead this information is recorded as [Author Credits](./edition.md#author-credit) like we do for Editions.

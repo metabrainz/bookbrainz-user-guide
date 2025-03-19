@@ -102,4 +102,4 @@ Please do not include subjective opinions, reviews, promotional language or hype
 - distributed
 
 ### Link to Series
-See [series section](../../tutorials/series.md)
+See [series section](./series.md)

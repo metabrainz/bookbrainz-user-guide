@@ -123,4 +123,4 @@ See the [Author](./author.md) page for a description of the types of authors and
 - licensor
 
 ### Link to Series
-See [series section](../../tutorials/series.md)
+See [series section](./series.md)

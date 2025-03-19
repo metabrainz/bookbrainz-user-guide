@@ -43,4 +43,4 @@ Publishers do have links to Editions because those are the actual real items the
 We do not create relationships to Edition Groups. For more information see the [Edition Group page](./edition-group.md#linking-edition-groups-to-other-entities)
 
 ### Link to Series
-See [series section](../../tutorials/series.md)
+See [series section](./series.md)
