@@ -11,8 +11,10 @@ Generally they will fall into these 3 types:
 
 #### Person
 This is the most common type of Author entity, use for individual people.<br>
-Before adding a new Author always check if someone with that name already exists (including searching for any [pen names](#pen-names), aliases, misspellings etc.) before creating a new one.
-If two authors bear the same name, use the [disambiguation field](../disambiguation.md) to tell them apart and add as much identifying information as possible.
+Before adding a new Author always check if one exists already with that name (also remember to search for any [pen names](#pen-names), aliases, misspellings and so on) before creating a new one.<br>
+In general, try to add as much identifying information as possible and also add a [disambiguation](../disambiguation.md). This is necessary if another author with the same name exists, but it is always a good idea to add disambiguations, because it makes it easier for users to choose the right author, and also easier to make sure they have right one."<br>
+Try to create short, concise disambiguations.<br>
+Examples: "18th century novelist", "19th century Belgian playwright" or "Nigerian Africanfuturist writer"
 
 #### Group
 Use this for groups of Authors, like [collective pseudonyms](https://en.wikipedia.org/wiki/Category:Collective_pseudonyms) (pseudonyms used by multiple individuals), [house pseudonyms](https://en.wikipedia.org/wiki/Pen_name#Collective_names) (owned by a publisher and used by the writers working for them) and similar.
@@ -28,7 +30,7 @@ The writer [Daniel Handler](https://bookbrainz.org/author/394ac1e3-69e8-4eed-afa
 [^4]
 We do not add pen names as separate authors, instead we use [author credits](#author-credits) to show how an edition was credited with another name. 
 (note an illustration would be good here)
-Additionally an alias[link to section about aliases] should also be added to the author entity.
+Additionally an alias[link to section about aliases] should also be added to the author entity.<br>
 Examples:<br>
 [Stephen King](https://bookbrainz.org/author/128d9490-ee19-4270-a070-32e0a36847f5) has aliases and is credited as, Richard Bachman and Beryl Evans [^2]
 
