@@ -35,7 +35,7 @@ Example: The Hive, Hive, Hives and "A Hive"
     Examples:
 
     - Madame Bovary (English translation by Alan Russell)
-    - Madame Bovary (Eleanor Marx English translation) ^1(bad example, we should have one for each set of examples, and one to keep type of text consistent for a spesific transalted work)
+    - Madame Bovary (Eleanor Marx English translation) ^1(bad example, we should have one for each set of examples, and one to keep type of text consistent for a spesific translated work)
 
 
 5.  *Identically named work and type by same author*. If an author writes several works with the same or similar namese, the disambiguation should explain how they differ.<br>
