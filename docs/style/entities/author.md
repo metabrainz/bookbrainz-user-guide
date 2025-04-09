@@ -151,7 +151,7 @@ An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-na
       (idk)
     * licensor<br>
        (no idea)
-2. Editions
+2. Editions<br>
    editions are the actual physical books in our hands! [see sections about blup for more info]
     * foreword<br>
        (links an author to an edition they wrote a foreword for.)
