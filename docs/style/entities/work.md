@@ -6,7 +6,7 @@ representation.
 
 [TOC]
 
-## Distinctiveness
+## What distinguishes a Work from another?
 
 A work is considered distinct based on the substantive uniqueness of its
 content. A work is distinct from another if it is revised, adapted, translated
@@ -18,52 +18,20 @@ it. In general, chapters of a novel are *not* considered to be their own
 distinct works. Poems, essays, articles and short stories *are* generally
 considered distinct works.
 
-## Naming
+### When should I create a new Work ?
+- Not to create works for simple "introduction/preface/foreword" but to create a link between the Edition and Author instead
+UNLESS the specific part has become a Thing unto it self and is re-used (cf the discussion in the community thread)
 
-The name of a work should be its canonical title, in the language it was
-written by its author, or translator for translated works. Additional names,
-such as descriptive titles, known variations or transliterations should be
-included as aliases.
+Explain about creating new works for translations (link to sections about which Author-Work links, which Work-Work links (and discussion about Edition-groups) to use).
 
-The language of a work’s name can differ from the language of the actual work.
-For example, a work written in English can have a Latin name. The name of the
-work should be capitalized based on the rules for the language of its name.
+- How big is a thing before it is a work?
+Like, is a sentence by Famous Author that is put in the pretext of a lot of Books a "work" in and of itsel?
+Answer: NO. However, we should clarify that it is not about length but more about conceptual "content": for example a haiku is very short but would deserve a work.
+Might link to notes about quotations/exceprts as well (wait could this be handled by quotations?! eg "contains quotation by {author}" i.e. a new rel??)
 
-## Untitled works
+### What about translations?
 
-If a work does not have a title, the name of the work should be the first line
-or sentence of the work’s text, enclosed in square brackets. Do not apply
-capitalization rules; retain the case of the original text. Examples:
-
-- [[At that hour when all things have repose]](https://bookbrainz.org/work/c0b50c4b-d57d-43bf-83b2-4930d938a0e4)
-- [[Rash mortal! stay thy feet and look around]](https://bookbrainz.org/work/ed6d8c28-fe3c-4fde-b399-6663c2225805)
-
-The sort name of an untitled work should be the same name, omitting the square
-brackets.
-
-## Writer
-
-The primary relationship of a work is to its main author, aka its *writer*;
-every work should have at least one writer.
-
-A work’s writer can be a special-purpose author in specific cases:
-
-- *Anonymous writer*. If a work cannot be attributed to a specific writer
-(e.g. published anonymously or writer attribution has been irrecoverably lost)
-it should be related to
-[[anonymous]](https://bookbrainz.org/author/fd47e471-a994-4ed9-bf52-531d5f184dd3).
-- *Unknown writer*. If the author of a work is currently unknown, but can
-potentially be determined at a later date, it should be related to
-[[unknown]](https://bookbrainz.org/author/6c1b8f55-4c7e-4739-bfa2-1979da4c68e1). 
-- *Oral tradition*. If a work has been preserved in the oral tradition (e.g.
-received, preserved and transmitted orally from one generation to another) it
-should be related to
-[[traditional]](https://bookbrainz.org/author/415a1f7c-a793-4107-9f2f-c38caf15116d).
-
-## Translations
-
-Each translation of a work is distinct from the original work as well as from
-any other translation. A translated work should be related to the original
+Each translation of a work is distinct from the original work as well as from any other translation. A translated work should have a relationship added to the original
 work as a translation, have a *writer* relationship to the original work’s
 author, and a *translator* relationship to its translator. Example:
 
@@ -80,15 +48,79 @@ If the translator is unknown or unidentified, the translator should be
 Notable information about a translation should be documented in the work’s
 annotation.
 
-## Work relationships
+## What should I name the Work?
 
-A work should be related to another work if:
+The name of a work should be its canonical title, in the language it was
+written by its author, or translator for translated works. Additional names,
+such as descriptive titles, known variations or transliterations should be
+included as aliases.
 
-- *it is derived from another work*, for example: a translation, an
-adaptation, a revision, a reconstruction, a parody, an inspiration;
+The language of a work’s name can differ from the language of the actual work.
+For example, a work written in English can have a Latin name. The name of the
+work should be capitalized based on the rules for the language of its name.
+
+### Untitled works
+
+If a work does not have a title, the name of the work should be the first line
+or sentence of the work’s text, enclosed in square brackets. Do not apply
+capitalization rules; retain the case of the original text. Examples:
+
+- [[At that hour when all things have repose]](https://bookbrainz.org/work/c0b50c4b-d57d-43bf-83b2-4930d938a0e4)
+- [[Rash mortal! stay thy feet and look around]](https://bookbrainz.org/work/ed6d8c28-fe3c-4fde-b399-6663c2225805)
+
+The sort name of an untitled work should be the same name, omitting the square
+brackets.
+
+
+## Linking Works to other entities
+
+
+### Link to other works
+A work should have a relationship added to another work if:
+
+- *it is derived from another work*, for example: a translation, an adaptation, a revision, a reconstruction, a parody, an inspiration;
 - *it contains the content from another work or is contained in another work*,
 for example: a [fix-up](https://en.wikipedia.org/wiki/Fix-up), a poetry cycle,
 an excerpt, a quote;
-- *it references another work*, for example: a citation.
+-  for example: a citation.
 
 Except for cases such as a fix-up or a poetry cycle as mentioned above, a discrete work should not represent a collection of works.
+
+- derivative: *it is derived from another work*
+    - translation
+    - adaption
+    - inspiration
+    - parody
+    - revision
+    - reconstruction
+- parts:
+    - *it contains the content from another work or is contained in another work*
+        - excerpts
+        - quotation
+    - *it references another work*
+        - citation
+        - reference
+
+### Link to Authors
+
+#### Writer
+
+The primary relationship of a work is to its main author, aka its *writer*;
+every work should have at least one writer.
+
+See the [Author](./author.md) page for a description of the types of authors and the difference between the "written by" Work relationship and Author Credits on Editions.
+
+#### Other
+- (work about author, what authors to create if at all for this)(c.f. "marriage ref")
+- section above, I'd move these here maybe?
+- (it makes sense that explicit work > author ordered relationship would be here.)
+
+### Link to Editions
+- contains (the most important rel, specify that works can belong to several editions, and that an edition can have several works
+
+### Link to Publishers
+- commission
+- licensor
+
+### Link to Series
+See [series section](./series.md)

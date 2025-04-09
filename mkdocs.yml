@@ -15,23 +15,4 @@ extra:
 markdown_extensions:
   toc:
     toc_depth: '2-6'
-nav:
-  - Introduction: 'home.md'
-  - 'Getting started': 'getting-started.md'
-  - 'glossary.md'
-  - 'Style guidelines':
-    - Overview: 'style/overview.md'
-    - 'Entities':
-      - 'style/entities/work.md'
-      - 'style/entities/edition.md'
-    - 'Disambiguation': 'style/disambiguation.md'
-    - 'Language specific guidelines':
-      - 'English': 'style/language_specific/capitalization-en.md'
-    - 'Style process': 'style/style-process.md'
-  - How-tos:
-    - 'Add a book': 'tutorials/add-a-book.md'
-    - 'Merging entities': 'tutorials/merge.md'
-    - 'Series entity': 'tutorials/series.md'
-  - Resources:
-    - Reference: 'reference/index.md'
-    - 'contribute.md'
+  footnotes:
