@@ -155,9 +155,6 @@ An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-na
     * foreword
     * preface
     * introduction
-    * blurb
-        * (short quotes, reviews, summary of the plot, author bio or other promotional content, usually found on book jackets) from https://en.wikipedia.org/wiki/Blurb\#Books
-        * (specify that this should only be added if the author is *known*)
     * illustrator (see above)
         * (specify that illustrator should be add to edition only if its a "variable addition", that is, if the story makes just as much sense without the art, if there exists versions without it, or with different art, then this is an *edition* level rel.)
     *  photographer (see above)
@@ -168,6 +165,9 @@ An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-na
     *  compiler
     *  proofreader
     *  art director
+    * blurb
+        * (short quotes, reviews, summary of the plot, author bio or other promotional content, usually found on book jackets) from https://en.wikipedia.org/wiki/Blurb\#Books
+        * (specify that this should only be added if the author is *known*)
 3. Publishers
     * founder
     * employee
