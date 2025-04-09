@@ -151,10 +151,17 @@ An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-na
       (idk)
     * licensor<br>
        (no idea)
-2. Editions 
-    * foreword
-    * preface
-    * introduction
+2. Editions
+   editions are the actual physical books in our hands! [see sections about blup for more info]
+    * foreword<br>
+       (links an author to an edition they wrote a foreword for.)
+            * (note that the foreword shoudn't be it's own separate work *unless* it's notably reused for completely *other* editions, this will usually be fairly rare.)
+    * preface<br>
+       (links an author to an edition they wrote a preface for.)
+            * (note that the preface shoudn't be it's own separate work *unless* it's notably reused for completely *other* editions, this will usually be fairly rare.)
+    * introduction<br>
+       (links an author to an edition they wrote an introduction for.)
+            * (note that the introduction shoudn't be it's own separate work *unless* it's notably reused for completely *other* editions, this will usually be fairly rare.)
     * illustrator (see above)
         * (specify that illustrator should be add to edition only if its a "variable addition", that is, if the story makes just as much sense without the art, if there exists versions without it, or with different art, then this is an *edition* level rel.)
     *  photographer (see above)
@@ -164,15 +171,15 @@ An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-na
     *  typesetter
     *  compiler
     *  proofreader
-    *  art director
+    *  art director (see [wikipedia](https://en.wikipedia.org/wiki/Art_director#In_publishing))
     * blurb
         * (short quotes, reviews, summary of the plot, author bio or other promotional content, usually found on book jackets) from https://en.wikipedia.org/wiki/Blurb\#Books
         * (specify that this should only be added if the author is *known*)
-3. Publishers
+4. Publishers
     * founder
     * employee
-4. Series see [series section](./series.md)
-5. Edition groups
+5. Series see [series section](./series.md)
+6. Edition groups
     *  There are no relationships between Authors and Edition Groups. Youn might be looking for relationships with specific Editions instead, see the 3. Editions section above
   
 [^1]: I created /entities.md under "entities"
