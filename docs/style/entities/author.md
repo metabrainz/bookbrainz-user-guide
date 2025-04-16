@@ -17,7 +17,7 @@ Try to create short, concise disambiguations.<br>
 Examples: "18th century novelist", "19th century Belgian playwright" or "Nigerian Africanfuturist writer"
 
 #### Group
-Use this for groups of Authors, like [collective pseudonyms](https://en.wikipedia.org/wiki/Category:Collective_pseudonyms) (pseudonyms used by multiple individuals), [house pseudonyms](https://en.wikipedia.org/wiki/Pen_name#Collective_names) (owned by a publisher and used by the writers working for them) and similar.
+Use this for groups of Authors, like [collective pseudonyms](https://en.wikipedia.org/wiki/Category:Collective_pseudonyms) (pseudonyms used by multiple individuals), [house pseudonyms](https://en.wikipedia.org/wiki/Pen_name#Collective_names) (owned by a publisher and used by the writers working for them) and similar.<br>
 
 #### Persona
 Sometimes Authors create characters and also write under that name, whilst giving this character things like a backstory or have them appear in their work.
@@ -32,14 +32,14 @@ We do not add pen names as separate authors, instead we use [author credits](#au
 (note an illustration would be good here)
 Additionally an alias[link to section about aliases] should also be added to the author entity.<br>
 Examples:<br>
-[Stephen King](https://bookbrainz.org/author/128d9490-ee19-4270-a070-32e0a36847f5) has aliases and is credited as, Richard Bachman and Beryl Evans [^2]
+[Stephen King](https://bookbrainz.org/author/128d9490-ee19-4270-a070-32e0a36847f5) has aliases and is credited as, Richard Bachman and Beryl Evans
 
 ### What about people who have not written anything?
 Someone who never wrote anything, but about whom several biographies have been written, for example, can be added to BookBrainz.
 Another relevant metric is if they link 2 or more Author entities. [^3]
 These non-writer people can be to be added as <u>Authors</u>, despite not having written anything themselves.
 
-Additionally, there are many other roles an "Author"(entity)" can have in BookBrainz: Photographer, penciller, translator, illustrator, and so on (see section below)
+Additionally, there are many other roles an "Author (entity)" can have in BookBrainz: Photographer, penciller, translator, illustrator, and so on (see section below)
 
 ## What if a Work doesn't *have* a known author?
 There are special-purpose authors for these specific cases:
@@ -121,8 +121,8 @@ An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-na
           (links an author to a work they have reconstruction [link to wikipedia that explains reconstructions])<br>
            note you should also add a work-work "reconstruction of" link between the original work and the reconstructed work [link to the work-entity page relevant section]
     * artist<br>
-       artists are people with roles that encompass all artistic work *except* writing<br>
-       note while these are not writers, they are still added with "add author" [link  to how to add author page we don't yet have]
+       artists are people with roles that encompass all artistic work *except* writing. (see [#what-about-people-who-have-not-written-anything](#what-about-people-who-have-not-written-anything))<br>
+       note while these are not writers, they are still added with "add author" [link to how to add author page we don't yet have]
         * photographer<br>
           (links a photographer to a work [arglablarg])
             * (specify when to link photographers to *works* and when to link to (see below) *editions*)
@@ -182,7 +182,7 @@ An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-na
 6. Edition groups
     *  There are no relationships between Authors and Edition Groups. Youn might be looking for relationships with specific Editions instead, see the 3. Editions section above
   
-[^1]: I created /entities.md under "entities"
+
 [^4]: add some kind of formatting here, like italics or slightly grey, to signify that it is not used
 [^3]: c.f https://community.metabrainz.org/t/concerning-the-new-is-about-relation/497088/16
 [^5]: c.f. https://community.metabrainz.org/t/pen-names-as-aliases-or-as-separate-entries/497086
