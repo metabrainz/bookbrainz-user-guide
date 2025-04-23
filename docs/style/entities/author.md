@@ -60,7 +60,7 @@ should be related to
 This section explains about author credits.
 
 When entering books into BookBrainz, it's important to understand the difference between the concept of an <u>Edition</u>, the physical item you can hold in your hands, and the literary concept of <u>Works</u> that books contain. (see also [Wikipedia](https://en.wikipedia.org/wiki/Creative_work) for more information.)<br>
-{add an example of small collection of short stories by differnt author but only one autor name on the cover}
+{add an example of small collection of short stories by different author but only one autor name on the cover}
 
 BookBrainz is a _relationable database_ that tracks the links between different entities, such as, which <u>Author</u> (entity) actually wrote what <u>Work</u> (entity) and so on. But it also is a database of _credited_ information, that is, who is _credited_ as the author.<br>
 For the relationable part, we use _relationships_ in the database, typically, an "\[Author\] wrote \[Work\]" relationship.
@@ -99,21 +99,21 @@ An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-na
 1. Works
     * wrote<br>
         (links an author to a work they've written)<br>
-        note, several authors can be linked to the same work, and naturally an author can be linked to several works
+         note, several authors can be linked to the same work, and naturally an author can be linked to several works
         * provided story<br>
-         (links an author to a work they provided the story for)<br>
-         this is used for translated works, because while the author *wrote* the original story, this translated work wasn't *literally* written by them
+          (links an author to a work they provided the story for)<br>
+           this is used for translated works, because while the author *wrote* the original story, this translated work wasn't *literally* written by them
         * translated<br>
          (links an author to a work they have translated)<br>
           note that the translator should be linked to the *translated* work, not the original work
         * was previously attributed to
-         (links an author to a work they've previously been attributed to writing)<br>
-          this is used for mostly historical works, where new research finds that so and such author was not actually the one who wrote it (add [example])
+          (links an author to a work they've previously been attributed to writing)<br>
+           this is used for mostly historical works, where new research finds that so and such author was not actually the one who wrote it (add [example])
     * worked on<br>
         (links an author to a work they have worked on in some miscellaneous way)
         * adapted<br>
           (links an author to a work they have adapted [see Wikipedia for more information about adaptions](https://en.wikipedia.org/wiki/Adaptation_(arts)))<br>
-           note you should also add a work-work "adaptation of" link between the original work and the adapted work [link to the work-entity page relevant section]
+           note you should also add a work-work "adaptation of" link between the Original Work and the Adapted Work [see the work-entity page relevant section]()
         * revised<br>
           (links an author to a work they have revised [link to wikipedia that explains revision])<br>
            note you should also add a work-work "revision of" link between the original work and the revised work [link to the work-entity page relevant  section]
@@ -134,9 +134,9 @@ An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-na
         * inker<br>
           (links an inker to a work they have inked, ostencibly comics, manga and graphic novels)
         * colourist<br>
-          (links a colourer to a work they have coloured, this is used ostencibly for comics, manga and graphic novels)
+          (links a colourer to a work they have coloured, this is used ostensibly for comics, manga and graphic novels)
         * letterer<br>
-          (links a letterer to a work they have provided letters for, this is used ostencibly in comics, manga and graphic novels)
+          (links a letterer to a work they have provided letters for, this is used ostensibly in comics, manga and graphic novels)
     * other<br>
         (link authors (people) in some other, unspecified or not-yet available relation [link to how to suggests changes/jira ticket+community discussion])
         * commissioner<br>
@@ -155,13 +155,13 @@ An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-na
    editions are the actual physical books in our hands! [see sections about blup for more info]
     * foreword<br>
        (links an author to an edition they wrote a foreword for.)
-            * (note that the foreword shoudn't be it's own separate work *unless* it's notably reused for completely *other* editions, this will usually be fairly rare.)
+            * (note that the foreword shouldn't be it's own separate work *unless* it's notably reused for completely *other* editions, this will usually be fairly rare.)
     * preface<br>
        (links an author to an edition they wrote a preface for.)
-            * (note that the preface shoudn't be it's own separate work *unless* it's notably reused for completely *other* editions, this will usually be fairly rare.)
+            * (note that the preface shouldn't be it's own separate work *unless* it's notably reused for completely *other* editions, this will usually be fairly rare.)
     * introduction<br>
        (links an author to an edition they wrote an introduction for.)
-            * (note that the introduction shoudn't be it's own separate work *unless* it's notably reused for completely *other* editions, this will usually be fairly rare.)
+            * (note that the introduction shouldn't be it's own separate work *unless* it's notably reused for completely *other* editions, this will usually be fairly rare.)
     * illustrator (see above)
         * (specify that illustrator should be add to edition only if its a "variable addition", that is, if the story makes just as much sense without the art, if there exists versions without it, or with different art, then this is an *edition* level rel.)
     *  photographer (see above)
