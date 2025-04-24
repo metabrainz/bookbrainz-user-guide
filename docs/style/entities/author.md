@@ -18,21 +18,22 @@ Examples: "18th century novelist", "19th century Belgian playwright" or "Nigeria
 
 #### Group
 Use this for groups of Authors, like [collective pseudonyms](https://en.wikipedia.org/wiki/Category:Collective_pseudonyms) (pseudonyms used by multiple individuals), [house pseudonyms](https://en.wikipedia.org/wiki/Pen_name#Collective_names) (owned by a publisher and used by the writers working for them) and similar.<br>
+Examples:<br>
+[Ellery Queen](https://bookbrainz.org/author/a2532a57-11fa-43d4-aa5d-c2892a2d0320), the group pseudonym of *Frederic Dannay* and *Manfred Bennington Lee*.<br>
+[James S. A. Corey](https://bookbrainz.org/author/c5c71242-f54c-4327-9510-a81064a9a852) pen name used by *Daniel Abraham* and *Ty Franck*.
 
 #### Persona
 Sometimes Authors create characters and also write under that name, whilst giving this character things like a backstory or have them appear in their work.
 This is different from regular pen names in that a Persona is presented as its own thing, not just a character *in* the story, but also as the writer of the work in question. [^5]<br>
 Examples:<br>
-The writer [Daniel Handler](https://bookbrainz.org/author/394ac1e3-69e8-4eed-afaa-bb06f877c96e) who writes under the pseudonym *Lemony Snicket*, a character and the supposed author of *A Series of Unfortunate Events*.[^2]
-[^2]: add more examples
+The writer [Daniel Handler](https://bookbrainz.org/author/394ac1e3-69e8-4eed-afaa-bb06f877c96e) who writes under the pseudonym *Lemony Snicket*, a character and the supposed author of *A Series of Unfortunate Events*.
 
 #### Pen Names
-[^4]
 We do not add pen names as separate authors, instead we use [author credits](#author-credits) to show how an edition was credited with another name. 
 (note an illustration would be good here)
-Additionally an alias[link to section about aliases] should also be added to the author entity.<br>
+Additionally, an alias[link to section about aliases] should also be added to the author entity.<br>
 Examples:<br>
-[Stephen King](https://bookbrainz.org/author/128d9490-ee19-4270-a070-32e0a36847f5) has aliases and is credited as, Richard Bachman and Beryl Evans
+[Stephen King](https://bookbrainz.org/author/128d9490-ee19-4270-a070-32e0a36847f5) has aliases and is credited as *Richard Bachman* and *Beryl Evans*.
 
 ### What about people who have not written anything?
 Someone who never wrote anything, but about whom several biographies have been written, for example, can be added to BookBrainz.
@@ -115,7 +116,7 @@ An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-na
           (links an author to a work they have adapted [see Wikipedia for more information about adaptions](https://en.wikipedia.org/wiki/Adaptation_(arts)))<br>
            note you should also add a work-work "adaptation of" link between the Original Work and the Adapted Work [see the work-entity page relevant section]()
         * revised<br>
-          (links an author to a work they have revised [link to wikipedia that explains revision])<br>
+          (links an author to a work they have revised [see Wikipedia for more information about revisions](https://en.wikipedia.org/wiki/Revision_(writing)))<br>
            note you should also add a work-work "revision of" link between the original work and the revised work [link to the work-entity page relevant  section]
         * reconstructed<br>
           (links an author to a work they have reconstruction [link to wikipedia that explains reconstructions])<br>
@@ -140,7 +141,7 @@ An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-na
     * other<br>
         (link authors (people) in some other, unspecified or not-yet available relation [link to how to suggests changes/jira ticket+community discussion])
         * commissioner<br>
-          (link someone to the work they have commissioned [wikipedia link that explains about commission])
+          (link someone to the work they have commissioned [see Wikipedia for more information about Commissions](https://en.wikipedia.org/wiki/Commission_(art)))
         * dedication<br>
           (links a work to an author it contains a dedication to)
             * (note about marriage c.f. https://community.metabrainz.org/t/concerning-the-new-is-about-relation/497088/16 applies here too)
