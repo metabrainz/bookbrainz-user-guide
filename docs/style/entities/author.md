@@ -107,7 +107,7 @@ An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-na
         * translated<br>
          (links an author to a work they have translated)<br>
           note that the translator should be linked to the *translated* work, not the original work
-        * was previously attributed to
+        * was previously attributed to<br>
           (links an author to a work they've previously been attributed to writing)<br>
            this is used for mostly historical works, where new research finds that so and such author was not actually the one who wrote it (add [example])
     * worked on<br>
@@ -139,7 +139,7 @@ An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-na
         * letterer<br>
           (links a letterer to a work they have provided letters for, this is used ostensibly in comics, manga and graphic novels)
     * other<br>
-        (link authors (people) in some other, unspecified or not-yet available relation [link to how to suggests changes/jira ticket+community discussion])
+        (link authors (people) in some other, unspecified or not-yet available relation (also see [how to suggests changes aka JIRA tickets] and [community discussion].
         * commissioner<br>
           (link someone to the work they have commissioned [see Wikipedia for more information about Commissions](https://en.wikipedia.org/wiki/Commission_(art)))
         * dedication<br>
@@ -180,7 +180,7 @@ An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-na
     *  proofreader (see [wikipedia](https://en.wikipedia.org/wiki/Proofreading).)<br>
        (links a person to an edition they have proofread)
     *  art director (see [wikipedia](https://en.wikipedia.org/wiki/Art_director#In_publishing).)<br>
-       (links a person to an edition they have provided art directoring on)
+       (links a person to an edition they have provided art directing on)
     * blurb (see [wikipedia](https://en.wikipedia.org/wiki/Blurb).)<br>
         * blurbs are short quotes, reviews, summaries of the plot, author bio or other promotional content, usually found on book jackets
           (note you should only add this if the author of the blurb is *known*, don't use [unknown] etcetera as noted above)
@@ -189,7 +189,7 @@ An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-na
        (links a Person to a Publisher-company they have founded)
     * employee<br>
        (links a Person to a Publisher-company they are employed with) 
-5. Series see [series section](./series.md)
+5. Series see the [series entity page](./series.md)
 6. Edition groups
     *  There are no relationships between Authors and Edition Groups. You might be looking for relationships with specific Editions instead, see the 2. Editions section above
   
