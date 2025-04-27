@@ -74,9 +74,9 @@ An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-na
 
 ## Current Author-linking relationships are:
 
-1. Other authors:
+1. Other Authors:
     * persona<br>
-        (see [above](#persona))[^5] links an author to their persona.
+        (see [above](#persona)) links an author to their persona.
     * Member of group
         * founder<br>
            (link a person as founder of a group of authors)
@@ -89,15 +89,16 @@ An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-na
     * parent<br>
         (link an author as being the parent to another, see note above)
     * sibling relations<br>
-        (link two (or more) authors as being siblings. take care to link everyone to everyone else!, see note above)
+        (link two (or more) authors as being siblings. Take care to link everyone to everyone else!, see note above)
 
    **Obsolete relationships**, if you see any author with these you are encouraged to fix them!:
     *  ~~collaboration~~<br>
         obsolete, we encourage people to fix old relationships and to use [author credits](#author-credits) and to create collectives (groups) for more permanent collaborations instead.
     * ~~\-pen name~~<br>
-        obsolete, (see [above](#persona))[^5]
+        obsolete, (see [above](#persona))
       
 1. Works
+   See about Works for more information
     * wrote<br>
         (links an author to a work they've written)<br>
          note, several authors can be linked to the same work, and naturally an author can be linked to several works
@@ -125,10 +126,10 @@ An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-na
        artists are people with roles that encompass all artistic work *except* writing. (see [#what-about-people-who-have-not-written-anything](#what-about-people-who-have-not-written-anything))<br>
        note while these are not writers, they are still added with "add author" [link to how to add author page we don't yet have]
         * photographer<br>
-          (links a photographer to a work [arglablarg])
+          (links a photographer to a work they have provided photography for)
             * (specify when to link photographers to *works* and when to link to (see below) *editions*)
         * illustrator<br>
-          (links an illustrator to a work they have illustrated [largablarg])
+          (links an illustrator to a work they have illustrated)
             * (specify when to link illustrators to works and when to link to (see below) *editions*)
         * penciller<br>
           (links a penciller to a work they have pencilled, this is used ostencibly for comics, manga and graphic novels)
@@ -143,17 +144,17 @@ An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-na
         * commissioner<br>
           (link someone to the work they have commissioned [see Wikipedia for more information about Commissions](https://en.wikipedia.org/wiki/Commission_(art)))
         * dedication<br>
-          (links a work to an author it contains a dedication to)
+          (links a work to an author it contains a dedication to) (see [wikipedia](https://en.wikipedia.org/wiki/Dedication_(publishing)) )
             * (note about marriage c.f. https://community.metabrainz.org/t/concerning-the-new-is-about-relation/497088/16 applies here too)
         * biography<br>
-          (links a work to an author that it is about)
+          (links a work to an author that it is about) (see [wikipedia](https://en.wikipedia.org/wiki/Biography).)
             * (note about marriage c.f. https://community.metabrainz.org/t/concerning-the-new-is-about-relation/497088/16 applies here too)
     * copyright<br>
       (idk)
     * licensor<br>
        (no idea)
-2. Editions<br>
-   editions are the actual physical books in our hands! [see sections about blup for more info]
+3. Editions<br>
+   Editions are the actual physical books in our hands! (see [about editions for more info]())
     * foreword<br>
        (links an author to an edition they wrote a foreword for.)
             * (note that the foreword shouldn't be it's own separate work *unless* it's notably reused for completely *other* editions, this will usually be fairly rare.)
@@ -167,21 +168,21 @@ An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-na
         * (specify that illustrator should be add to edition only if its a "variable addition", that is, if the story makes just as much sense without the art, if there exists versions without it, or with different art, then this is an *edition* level rel.)
     *  photographer (see above)
         * (specify that photographer should be add to edition only if its a "variable addition", that is, if the story makes just as much sense without the art, if there exists versions without it, or with different art, then this is an *edition* level rel.)
-    *  designer
-    *  editor
-    *  typesetter
+    *  designer (see [wikipedia](https://en.wikipedia.org/wiki/Print_design).)
+    *  editor (see [wikipedia](https://en.wikipedia.org/wiki/Editing))
+    *  typesetter [wikipedia](https://en.wikipedia.org/wiki/Typesetting).)
     *  compiler
-    *  proofreader
+    *  proofreader (see [wikipedia](https://en.wikipedia.org/wiki/Proofreading).)
     *  art director (see [wikipedia](https://en.wikipedia.org/wiki/Art_director#In_publishing))
     * blurb
-        * (short quotes, reviews, summary of the plot, author bio or other promotional content, usually found on book jackets) from https://en.wikipedia.org/wiki/Blurb\#Books
+        * (short quotes, reviews, summary of the plot, author bio or other promotional content, usually found on book jackets) (see [wikipedia](https://en.wikipedia.org/wiki/Blurb).)
         * (specify that this should only be added if the author is *known*)
 4. Publishers
     * founder
     * employee
 5. Series see [series section](./series.md)
 6. Edition groups
-    *  There are no relationships between Authors and Edition Groups. Youn might be looking for relationships with specific Editions instead, see the 3. Editions section above
+    *  There are no relationships between Authors and Edition Groups. Youn might be looking for relationships with specific Editions instead, see the 2. Editions section above
   
 
 [^4]: add some kind of formatting here, like italics or slightly grey, to signify that it is not used
