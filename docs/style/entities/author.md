@@ -89,9 +89,8 @@ An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-na
     * parent<br>
         (link an author as being the parent to another, see above note)
     * sibling relations<br>
-        (link two (or more) authors as being siblings. Take care to link everyone to everyone else!, see above note)
-
-   **Obsolete relationships**, if you see any author with these you are encouraged to fix them!:
+        (link two (or more) authors as being siblings. Take care to link everyone to everyone else!, see above note)<br>
+* **Obsolete relationships**, if you see any author with these you are encouraged to fix them!:
     *  ~~collaboration~~<br>
         obsolete, we encourage people to fix old relationships and to use [author credits](#author-credits) and to create collectives (groups) for more permanent collaborations instead.
     * ~~\-pen name~~<br>
@@ -114,10 +113,10 @@ An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-na
     * worked on<br>
         (links an Author to a work they have worked on in some miscellaneous way)
         * adapted<br>
-          (links an author to a work they have adapted [see Wikipedia for more information about adaptions](https://en.wikipedia.org/wiki/Adaptation_(arts)))<br>
+          (links an author to a work they have adapted ([see Wikipedia for more information about adaptions](https://en.wikipedia.org/wiki/Adaptation_(arts)))<br>
            note you should also add a work-work "adaptation of" link between the Original Work and the Adapted Work [see the work-entity page relevant section]()
         * revised<br>
-          (links an author to a work they have revised [see Wikipedia for more information about revisions](https://en.wikipedia.org/wiki/Revision_(writing)))<br>
+          (links an author to a work they have revised ([see Wikipedia for more information about revisions](https://en.wikipedia.org/wiki/Revision_(writing)))<br>
            note you should also add a work-work "revision of" link between the original work and the revised work [link to the work-entity page relevant  section]
         * reconstructed<br>
           (links an author to a work they have reconstructed [link to wikipedia that explains reconstructions])<br>
@@ -126,11 +125,11 @@ An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-na
        artists are people with roles that encompass all artistic work *except* writing. (see [#what-about-people-who-have-not-written-anything](#what-about-people-who-have-not-written-anything))<br>
        note while these are not writers, they are still added with "add author" [link to how to add author page we don't yet have]
         * photographer<br>
-          (links a photographer to a work they have provided photography for)
-            * (specify when to link photographers to *works* and when to link to (see below) *editions*)
+          (links a photographer to a work they have provided photography for)<br>
+           note you should only add photographers to *works* when their photography is intrinsically part of the work, that is, if the story makes just as much sense without it, you should instead link them to the (see below) *edition*)
         * illustrator<br>
-          (links an illustrator to a work they have illustrated)
-            * (specify when to link illustrators to works and when to link to (see below) *editions*)
+          (links an illustrator to a work they have illustrated)<br>
+           note you should only add illustrators to *works* when their illustrations are intrinsically part of the work, that is, if the story makes just as much sense without it, you should instead link them to the (see below) *edition*)
         * penciller<br>
           (links a penciller to a work they have pencilled, this is used ostencibly for comics, manga and graphic novels)
         * inker<br>
@@ -172,7 +171,7 @@ An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-na
          note that the photographer should be add to edition only if its a "variable addition", that is, if the story makes just as much sense without the art, if there exists versions without it, or with different art, then this is an *edition* level rel.
     *  designer (see [wikipedia](https://en.wikipedia.org/wiki/Print_design).)<br>
        (links a person to an edition they have done design work on)
-    *  editor (see [wikipedia](https://en.wikipedia.org/wiki/Editing))<br>
+    *  editor (see [wikipedia](https://en.wikipedia.org/wiki/Editing).)<br>
        (links a person to an edition they have edited)
     *  typesetter [wikipedia](https://en.wikipedia.org/wiki/Typesetting).)<br>
        (links a person to an edition they have typesetted)
@@ -180,11 +179,11 @@ An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-na
        (links a person to an edition they have compiled or done compilation work on)
     *  proofreader (see [wikipedia](https://en.wikipedia.org/wiki/Proofreading).)<br>
        (links a person to an edition they have proofread)
-    *  art director (see [wikipedia](https://en.wikipedia.org/wiki/Art_director#In_publishing))<br>
-       (links a person to 
-    * blurb
-        * (short quotes, reviews, summary of the plot, author bio or other promotional content, usually found on book jackets) (see [wikipedia](https://en.wikipedia.org/wiki/Blurb).)
-          (specify that this should only be added if the author is *known*)
+    *  art director (see [wikipedia](https://en.wikipedia.org/wiki/Art_director#In_publishing).)<br>
+       (links a person to an edition they have provided art directoring on)
+    * blurb (see [wikipedia](https://en.wikipedia.org/wiki/Blurb).)<br>
+        * blurbs are short quotes, reviews, summaries of the plot, author bio or other promotional content, usually found on book jackets
+          (note you should only add this if the author of the blurb is *known*, don't use [unknown] etcetera as noted above)
 4. Publishers
     * founder<br>
        (links a Person to a Publisher-company they have founded)
