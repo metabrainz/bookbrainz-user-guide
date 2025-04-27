@@ -74,9 +74,9 @@ An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-na
 
 ## Current Author-linking relationships are:
 
-1. Other Authors:
+ 1. Other Authors:
     * persona<br>
-        (see [above](#persona)) links an author to their persona.
+        (see [above](#persona)) links an Author to their persona.
     * Member of group
         * founder<br>
            (link a person as founder of a group of authors)
@@ -85,11 +85,11 @@ An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-na
     * Marriage<br>
         (link two authors as married, note that [non-authors might be eligible here](#what-about-people-who-have-not-written-anything))
     * involved with<br>
-        (link two authors as involved, see note above)
+        (link two authors as involved, see above note)
     * parent<br>
-        (link an author as being the parent to another, see note above)
+        (link an author as being the parent to another, see above note)
     * sibling relations<br>
-        (link two (or more) authors as being siblings. Take care to link everyone to everyone else!, see note above)
+        (link two (or more) authors as being siblings. Take care to link everyone to everyone else!, see above note)
 
    **Obsolete relationships**, if you see any author with these you are encouraged to fix them!:
     *  ~~collaboration~~<br>
@@ -97,8 +97,8 @@ An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-na
     * ~~\-pen name~~<br>
         obsolete, (see [above](#persona))
       
-1. Works
-   See about Works for more information
+2. Works<br>
+   Works are the conceptional part of writing! (See [about Works](work.md) for more information)
     * wrote<br>
         (links an author to a work they've written)<br>
          note, several authors can be linked to the same work, and naturally an author can be linked to several works
@@ -112,7 +112,7 @@ An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-na
           (links an author to a work they've previously been attributed to writing)<br>
            this is used for mostly historical works, where new research finds that so and such author was not actually the one who wrote it (add [example])
     * worked on<br>
-        (links an author to a work they have worked on in some miscellaneous way)
+        (links an Author to a work they have worked on in some miscellaneous way)
         * adapted<br>
           (links an author to a work they have adapted [see Wikipedia for more information about adaptions](https://en.wikipedia.org/wiki/Adaptation_(arts)))<br>
            note you should also add a work-work "adaptation of" link between the Original Work and the Adapted Work [see the work-entity page relevant section]()
@@ -120,7 +120,7 @@ An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-na
           (links an author to a work they have revised [see Wikipedia for more information about revisions](https://en.wikipedia.org/wiki/Revision_(writing)))<br>
            note you should also add a work-work "revision of" link between the original work and the revised work [link to the work-entity page relevant  section]
         * reconstructed<br>
-          (links an author to a work they have reconstruction [link to wikipedia that explains reconstructions])<br>
+          (links an author to a work they have reconstructed [link to wikipedia that explains reconstructions])<br>
            note you should also add a work-work "reconstruction of" link between the original work and the reconstructed work [link to the work-entity page relevant section]
     * artist<br>
        artists are people with roles that encompass all artistic work *except* writing. (see [#what-about-people-who-have-not-written-anything](#what-about-people-who-have-not-written-anything))<br>
@@ -145,44 +145,54 @@ An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-na
           (link someone to the work they have commissioned [see Wikipedia for more information about Commissions](https://en.wikipedia.org/wiki/Commission_(art)))
         * dedication<br>
           (links a work to an author it contains a dedication to) (see [wikipedia](https://en.wikipedia.org/wiki/Dedication_(publishing)) )
-            * (note about marriage c.f. https://community.metabrainz.org/t/concerning-the-new-is-about-relation/497088/16 applies here too)
+            * (note about [marriage](https://community.metabrainz.org/t/concerning-the-new-is-about-relation/497088/16) applies here as well)
         * biography<br>
           (links a work to an author that it is about) (see [wikipedia](https://en.wikipedia.org/wiki/Biography).)
-            * (note about marriage c.f. https://community.metabrainz.org/t/concerning-the-new-is-about-relation/497088/16 applies here too)
+            * (note about [marriage](https://community.metabrainz.org/t/concerning-the-new-is-about-relation/497088/16) applies here as well)
     * copyright<br>
       (idk)
     * licensor<br>
        (no idea)
 3. Editions<br>
-   Editions are the actual physical books in our hands! (see [about editions for more info]())
+   Editions are the actual physical books in our hands! (see [about editions for more info](edition.md).)
     * foreword<br>
-       (links an author to an edition they wrote a foreword for.)
-            * (note that the foreword shouldn't be it's own separate work *unless* it's notably reused for completely *other* editions, this will usually be fairly rare.)
+       (links an author to an edition they wrote a foreword for) ([wikipedia](https://en.wikipedia.org/wiki/Foreword).)<br>
+         note that the foreword shouldn't be it's own separate work *unless* it's notably reused for completely *other* editions, this will usually be fairly rare.
     * preface<br>
-       (links an author to an edition they wrote a preface for.)
-            * (note that the preface shouldn't be it's own separate work *unless* it's notably reused for completely *other* editions, this will usually be fairly rare.)
+       (links an author to an edition they wrote a preface for) ([wikipedia](https://en.wikipedia.org/wiki/Preface).)<br>
+         note that the preface shouldn't be it's own separate work *unless* it's notably reused for completely *other* editions, this will usually be fairly rare.
     * introduction<br>
-       (links an author to an edition they wrote an introduction for.)
-            * (note that the introduction shouldn't be it's own separate work *unless* it's notably reused for completely *other* editions, this will usually be fairly rare.)
-    * illustrator (see above)
-        * (specify that illustrator should be add to edition only if its a "variable addition", that is, if the story makes just as much sense without the art, if there exists versions without it, or with different art, then this is an *edition* level rel.)
-    *  photographer (see above)
-        * (specify that photographer should be add to edition only if its a "variable addition", that is, if the story makes just as much sense without the art, if there exists versions without it, or with different art, then this is an *edition* level rel.)
-    *  designer (see [wikipedia](https://en.wikipedia.org/wiki/Print_design).)
-    *  editor (see [wikipedia](https://en.wikipedia.org/wiki/Editing))
-    *  typesetter [wikipedia](https://en.wikipedia.org/wiki/Typesetting).)
-    *  compiler
-    *  proofreader (see [wikipedia](https://en.wikipedia.org/wiki/Proofreading).)
-    *  art director (see [wikipedia](https://en.wikipedia.org/wiki/Art_director#In_publishing))
+       (links an author to an edition they wrote an introduction for) ([wikipedia](https://en.wikipedia.org/wiki/Introduction_(writing)).)<br>
+         note that the introduction shouldn't be it's own separate work *unless* it's notably reused for completely *other* editions, this will usually be fairly rare.
+    * illustrator (see above)<br>
+       (links a person to an edition they have provided illustrations for)
+         note that the illustrator should be add to edition only if its a "variable addition", that is, if the story makes just as much sense without the art, if there exists versions without it, or with different art, then this is an *edition* level rel.
+    *  photographer (see above)<br>
+       (links a person to an edition they have provided photography for)
+         note that the photographer should be add to edition only if its a "variable addition", that is, if the story makes just as much sense without the art, if there exists versions without it, or with different art, then this is an *edition* level rel.
+    *  designer (see [wikipedia](https://en.wikipedia.org/wiki/Print_design).)<br>
+       (links a person to an edition they have done design work on)
+    *  editor (see [wikipedia](https://en.wikipedia.org/wiki/Editing))<br>
+       (links a person to an edition they have edited)
+    *  typesetter [wikipedia](https://en.wikipedia.org/wiki/Typesetting).)<br>
+       (links a person to an edition they have typesetted)
+    *  compiler<br>
+       (links a person to an edition they have compiled or done compilation work on)
+    *  proofreader (see [wikipedia](https://en.wikipedia.org/wiki/Proofreading).)<br>
+       (links a person to an edition they have proofread)
+    *  art director (see [wikipedia](https://en.wikipedia.org/wiki/Art_director#In_publishing))<br>
+       (links a person to 
     * blurb
         * (short quotes, reviews, summary of the plot, author bio or other promotional content, usually found on book jackets) (see [wikipedia](https://en.wikipedia.org/wiki/Blurb).)
-        * (specify that this should only be added if the author is *known*)
+          (specify that this should only be added if the author is *known*)
 4. Publishers
-    * founder
-    * employee
+    * founder<br>
+       (links a Person to a Publisher-company they have founded)
+    * employee<br>
+       (links a Person to a Publisher-company they are employed with) 
 5. Series see [series section](./series.md)
 6. Edition groups
-    *  There are no relationships between Authors and Edition Groups. Youn might be looking for relationships with specific Editions instead, see the 2. Editions section above
+    *  There are no relationships between Authors and Edition Groups. You might be looking for relationships with specific Editions instead, see the 2. Editions section above
   
 
 [^4]: add some kind of formatting here, like italics or slightly grey, to signify that it is not used
