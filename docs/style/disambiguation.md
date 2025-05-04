@@ -1,6 +1,8 @@
 # Disambiguation
 
-Disambiguations are used to help users distinguish between entities that have identical or confusingly similar names. These disambiguations are visible in search results and entity detail pages. Disambiguations should preferably be written in English and kept concise and to the point.
+Disambiguations are used to distinguish between entities that have identical or confusingly similar names. They are visible in search results and entity detail pages. Disambiguations should _preferably_ be written in English and kept concise and to the point.<br>
+Never assume that something does not need a disambiguation! Just because a name or title seem really unique, that doesn't mean there might not be others named exactly the same.<br>
+And anyway it's always a good idea to put in a disambiguation for the next person who comes around and may have an author, work or similar they wish to enter into the database. A good disambiguation will help them select the right author, work or publisher, and prevent duplicate editions being made.
 
 ## What to use disambiguations for:
 
