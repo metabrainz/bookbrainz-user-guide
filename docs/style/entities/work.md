@@ -1,16 +1,28 @@
 # Work
 
-A work is a distinct, notable literary creation. The work entity captures information about the *content* that was created, not any physical or digital representation.
+Works are distinct literary creations, they represent the _conceptional_ idea of a book, the work entity is for the abstract content of a book, article, paper or comic. For the physical or digital representation, see [edition](edition.md).
 
 [TOC]
 
-## What distinguishes a Work from another?
+## When is a work considered different from another work?
 
-A work is considered distinct based on the substantive uniqueness of its content. A work is distinct from another if it is revised, adapted, translated or reconstructed. Content is not considered a distinct work if it only contains minor variations such as spelling or typographical differences.
+A work is different from another work if there are distinct differences to it, like adaptations, translations, rewritings, and so on.<br>
+A work is not a separate one if there are only minor spelling corrections or typographical changes (these aren't on the level of conceptional changes, only edit(orial) ones).
 
-Sometimes content is integral to a work and is not considered distinct from it. In general, chapters of a novel are *not* considered to be their own distinct works. Poems, essays, articles and short stories *are* generally considered distinct works.
+Usually divisions like chapters are considered integral to the work and not distinct from it. While poems, essays, articles and short stories *are* considered distinct.<br>
+Examples:<br>
+counter Examples: [^1] [^1](the graveyard book is  great counter example here because one chapter was released as a short-story prior, another is the short story in "an apple for the creature" which would go on to be basically most of the first chapter of "The girl with all the gifts")
 
-### When should I create a new Work ?
+
+### Wwen to create new works?
+New works should be created when either<br>
+a) The work in question is not in the database
+b) There are a significant changes to it:<br>
+ * Examples:
+    * adaptation (comic book)
+    * abridged (Jurassic example) [Jurassic park](https://bookbrainz.org/work/c6f3b5a5-646e-46ed-8565-c9551c8a67d4)
+    * translations
+
 - Not to create works for simple "introduction/preface/foreword" but to create a link between the Edition and Author instead UNLESS the specific part has become a Thing unto it self and is re-used (cf the discussion in the community thread)
 
 Explain about creating new works for translations (link to sections about which Author-Work links, which Work-Work links (and discussion about Edition-groups) to use).
