@@ -34,26 +34,33 @@ Might link to notes about quotations/excerpts as well (wait could this be handle
 
 ### What about translations?
 
-Each translation of a work is distinct from the original work as well as from any other translation. A translated work should have a relationship added to the original
-work as a translation, have a *writer* relationship to the original work’s author, and a *translator* relationship to its translator. Example:
-
+Each translation of a work is distinct from the original work as well as any other language translation. Additionally, a work can be translated into the same language several times, each of these are also separate works.<br>
+A translated work should have:
+ * a relationship added to the original work it is a translation of
+ * a relationship to the author that wrote the original (provided story)
+ * and a translator relationship to its translator.
+ * 
+Examples:<br>
 - [Republic](https://bookbrainz.org/work/c1b11cb0-38b0-49ea-88e8-83566c5589ad) has story written by [Πλάτων](https://bookbrainz.org/author/3efc11ba-87ae-4cd0-9677-373f7618925a)
 - [Republic](https://bookbrainz.org/work/c1b11cb0-38b0-49ea-88e8-83566c5589ad) is a translation of [Πολιτεία](https://bookbrainz.org/work/40002c97-41df-4659-b0e0-b30dfa5cbc59)
 - [Republic](https://bookbrainz.org/work/c1b11cb0-38b0-49ea-88e8-83566c5589ad) was translated by [Benjamin Jowett](https://bookbrainz.org/author/dc98466f-9e81-4fb1-a714-3b62b625b455)
 
-If the translator is unknown or unidentified, the translator should be [[unknown]](https://bookbrainz.org/author/6c1b8f55-4c7e-4739-bfa2-1979da4c68e1).
-
+If the translator is unknown or unidentified, the translator can be set as [[unknown]](https://bookbrainz.org/author/6c1b8f55-4c7e-4739-bfa2-1979da4c68e1).<br>
 Notable information about a translation should be documented in the work's annotation.
 
-## What should I name the Work?
+## What should works be named?
+Generally this should be straightforward, e.g the work for the book [The Silmarillion](https://bookbrainz.org/edition/6d2273eb-2f4e-444f-be61-15f0c23e7451) by Tolkien is called "[The Silmarillion](https://bookbrainz.org/work/e6b73035-4bf5-4989-a877-291d98309e8b)"<br>
+Adaptations can often have descriptive subtitles, but if not this information should be put in the disambiguation, for translations, the name should be what is on that translation's cover. Any additional names, such as descriptive titles, known variations or transliterations, should be added as [Aliases](about aliases).
 
-The name of a work should be its canonical title, in the language it was written by its author, or translator for translated works. Additional names, such as descriptive titles, known variations or transliterations should be included as aliases.
+The language of a work's name can differ from the language of the actual work. For example, a work written in English can have a Latin name. The name of the work should be capitalized based on the rules for the language of its name.
 
-The language of a work’s name can differ from the language of the actual work. For example, a work written in English can have a Latin name. The name of the work should be capitalized based on the rules for the language of its name.
+
+But what if the book has no name, then what?
 
 ### Untitled works
-
-If a work does not have a title, use the first line or sentence of the work’s text, enclosed in square brackets as its name. Do not apply title capitalization rules; retain the case of the original text. Examples:
+If a work has no title, the first line or sentence of the work should be used, and since this is technically an unofficial name we use square brackets around it like so: [It was the best of times and it was the worst of times]
+Generally you should also not use title case in this case, but the original sentence's capitalisation<br>
+Examples:
 
 - [[At that hour when all things have repose]](https://bookbrainz.org/work/c0b50c4b-d57d-43bf-83b2-4930d938a0e4)
 - [[Rash mortal! stay thy feet and look around]](https://bookbrainz.org/work/ed6d8c28-fe3c-4fde-b399-6663c2225805)
