@@ -14,7 +14,7 @@ Examples:<br>
 counter Examples: [^1] [^1](the graveyard book is  great counter example here because one chapter was released as a short-story prior, another is the short story in "an apple for the creature" which would go on to be basically most of the first chapter of "The girl with all the gifts")
 
 
-### Wwen to create new works?
+### When to create new works?
 New works should be created when either<br>
 a) The work in question is not in the database
 b) There are a significant changes to it:<br>
@@ -39,7 +39,7 @@ A translated work should have:
  * a relationship added to the original work it is a translation of
  * a relationship to the author that wrote the original (provided story)
  * and a translator relationship to its translator.
- * 
+
 Examples:<br>
 - [Republic](https://bookbrainz.org/work/c1b11cb0-38b0-49ea-88e8-83566c5589ad) has story written by [Πλάτων](https://bookbrainz.org/author/3efc11ba-87ae-4cd0-9677-373f7618925a)
 - [Republic](https://bookbrainz.org/work/c1b11cb0-38b0-49ea-88e8-83566c5589ad) is a translation of [Πολιτεία](https://bookbrainz.org/work/40002c97-41df-4659-b0e0-b30dfa5cbc59)
@@ -52,8 +52,8 @@ Notable information about a translation should be documented in the work's annot
 Generally this should be straightforward, e.g the work for the book [The Silmarillion](https://bookbrainz.org/edition/6d2273eb-2f4e-444f-be61-15f0c23e7451) by Tolkien is called "[The Silmarillion](https://bookbrainz.org/work/e6b73035-4bf5-4989-a877-291d98309e8b)"<br>
 Adaptations can often have descriptive subtitles, but if not this information should be put in the disambiguation, for translations, the name should be what is on that translation's cover. Any additional names, such as descriptive titles, known variations or transliterations, should be added as [Aliases](about aliases).
 
-The language of a work's name can differ from the language of the actual work. For example, a work written in English can have a Latin name. The name of the work should be capitalized based on the rules for the language of its name.
-
+The language of a work's name can differ from the language of the actual work. For example, a work written in English can have a Latin name. The name of the work should be capitalized based on the rules for the language of its name.<br>
+<br>
 
 But what if the book has no name, then what?
 
@@ -65,13 +65,24 @@ Examples:
 - [[At that hour when all things have repose]](https://bookbrainz.org/work/c0b50c4b-d57d-43bf-83b2-4930d938a0e4)
 - [[Rash mortal! stay thy feet and look around]](https://bookbrainz.org/work/ed6d8c28-fe3c-4fde-b399-6663c2225805)
 
-The sort name of an untitled work should be the same name, omitting the square brackets.
+The sort names of untitled works should be the same, just omitting the square brackets.
 
 
 ## Linking Works to other entities
 
+### Links to Authors
+For the full Author-Work relationships, see the [Author page](author.md).
 
-### Link to other works
+#### Writer
+The main Author-Work relationship is that of a work to it's author(s), aka its *writer(s)*; most every work should have at least one of these.<br>
+See the [Author](./author.md) page for a description of the types of authors and also the difference between the "written by" Work relationship and Author Credits on Editions.
+
+#### Others
+- (work about author, what authors to create if at all for this)(c.f. "marriage ref")
+- section above, I'd move these here maybe?
+- (it makes sense that explicit work > author ordered relationship would be here.)
+
+### Links to other works
 A work should have a relationship added to another work if:
 
 - *it is derived from another work*, for example: a translation, an adaptation, a revision, a reconstruction, a parody, an inspiration;
@@ -95,18 +106,7 @@ Except for cases such as a fix-up or a poetry cycle as mentioned above, a discre
         - citation
         - reference
 
-### Link to Authors
 
-#### Writer
-
-The primary relationship of a work is to its main author, aka its *writer*; every work should have at least one writer.
-
-See the [Author](./author.md) page for a description of the types of authors and the difference between the "written by" Work relationship and Author Credits on Editions.
-
-#### Other
-- (work about author, what authors to create if at all for this)(c.f. "marriage ref")
-- section above, I'd move these here maybe?
-- (it makes sense that explicit work > author ordered relationship would be here.)
 
 ### Link to Editions
 - contains (the most important rel, specify that works can belong to several editions, and that an edition can have several works
