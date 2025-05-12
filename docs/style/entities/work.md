@@ -52,6 +52,11 @@ Notable information about a translation should be documented in the work's annot
 Generally this should be straightforward, e.g the work for the book [The Silmarillion](https://bookbrainz.org/edition/6d2273eb-2f4e-444f-be61-15f0c23e7451) by Tolkien is called "[The Silmarillion](https://bookbrainz.org/work/e6b73035-4bf5-4989-a877-291d98309e8b)"<br>
 Adaptations can often have descriptive subtitles, but if not this information should be put in the disambiguation, for translations, the name should be what is on that translation's cover. Any additional names, such as descriptive titles, known variations or transliterations, should be added as [Aliases](about aliases).
 
+about aliases:
+work alias 
+(idk)
+
+
 The language of a work's name can differ from the language of the actual work. For example, a work written in English can have a Latin name. The name of the work should be capitalized based on the rules for the language of its name.<br>
 <br>
 
@@ -78,12 +83,30 @@ The main Author-Work relationship is that of a work to it's author(s), aka its *
 See the [Author](./author.md) page for a description of the types of authors and also the difference between the "written by" Work relationship and Author Credits on Editions.
 
 #### Others
-Notably there is one Work-Author link we'll cover here; That of a work that is *about* an Author, Biographies or bio's.<br>
+Notably there is one Work-Author link we'll cover here; That of a work that is *about* an Author; Biographies or bio's.<br>
 This is a work that is _about_ an Author, someone already in the database. However, someone who never wrote anything, but is in some other way notable, for example; if they link other authors together, via parental or marriage relationships, if they are teachers of other authors, if they have several biographies written about them, they may be be added to BookBrainz, despite not having written anything themselves.<br>
 Examples:
 
 ### Links to other works
-A work should have a relationship added to another work if:
+Link works together when:
+* works
+ * adaptation
+     * translation
+     * revision
+ * derative
+     * inspiration
+     * parody
+ * reconstruction?
+* part work has part
+ * excerpts
+ * quotation
+ * citation/refrence
+   something about references can also be things like informations
+   specify "parafrases" -> vites is these are the sources of that text
+   explain the difference between citation and excerpt. excerpt is a section of text verbatim, a paragraph taken from whatever
+a citation is instead a a work (book) used as a source for whatever in *this* work, usually this is more common for non-fiction
+reference material will often have a bunch of these.
+
 
 - *it is derived from another work*, for example: a translation, an adaptation, a revision, a reconstruction, a parody, an inspiration;
 - *it contains the content from another work or is contained in another work*, for example: a [fix-up](https://en.wikipedia.org/wiki/Fix-up), a poetry cycle, an excerpt, a quote;
