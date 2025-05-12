@@ -29,7 +29,7 @@ Explain about creating new works for translations (link to sections about which 
 
 - How big is a thing before it is a work?<br>
 Like, is a sentence by Famous Author that is put in the pretext of a lot of Books a "work" in and of itself?<br>
-Answer: NO. However, we should clarify that it is not about length but more about conceptual "content": for example a haiku is very short but would deserve a work.
+Answer: NO. However, we should clarify that it is not about length but more about conceptual "content": for example a haiku is very short but would deserve a work.<br>
 Might link to notes about quotations/excerpts as well (wait could this be handled by quotations?! e.g. "contains quotation by {author}" i.e. a new rel??)
 
 ### What about translations?
@@ -63,7 +63,7 @@ Generally you should also not use title case in this case, but the original sent
 Examples:
 
 - [[At that hour when all things have repose]](https://bookbrainz.org/work/c0b50c4b-d57d-43bf-83b2-4930d938a0e4)
-- [[Rash mortal! stay thy feet and look around]](https://bookbrainz.org/work/ed6d8c28-fe3c-4fde-b399-6663c2225805)
+- [[Rash mortal! Stay thy feet and look around]](https://bookbrainz.org/work/ed6d8c28-fe3c-4fde-b399-6663c2225805)
 
 The sort names of untitled works should be the same, just omitting the square brackets.
 
@@ -78,9 +78,9 @@ The main Author-Work relationship is that of a work to it's author(s), aka its *
 See the [Author](./author.md) page for a description of the types of authors and also the difference between the "written by" Work relationship and Author Credits on Editions.
 
 #### Others
-- (work about author, what authors to create if at all for this)(c.f. "marriage ref")
-- section above, I'd move these here maybe?
-- (it makes sense that explicit work > author ordered relationship would be here.)
+Notably there is one Work-Author link we'll cover here; That of a work that is *about* an Author, Biographies or bio's.<br>
+This is a work that is _about_ an Author, someone already in the database. However, someone who never wrote anything, but is in some other way notable, for example; if they link other authors together, via parental or marriage relationships, if they are teachers of other authors, if they have several biographies written about them, they may be be added to BookBrainz, despite not having written anything themselves.<br>
+Examples:
 
 ### Links to other works
 A work should have a relationship added to another work if:
@@ -116,4 +116,4 @@ Except for cases such as a fix-up or a poetry cycle as mentioned above, a discre
 - licensor
 
 ### Link to Series
-See [series section](./series.md)
+See [series page](./series.md)
