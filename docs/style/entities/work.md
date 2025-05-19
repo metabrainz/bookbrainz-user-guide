@@ -97,14 +97,14 @@ Link works together when:
      * inspiration
      * parody
  * reconstruction?
-* part work has part
+* parts (work has part)
  * excerpts
  * quotation
  * citation/refrence
    something about references can also be things like informations
-   specify "parafrases" -> vites is these are the sources of that text
+   specify "parafrases" -> cites is these are the sources of that text
    explain the difference between citation and excerpt. excerpt is a section of text verbatim, a paragraph taken from whatever
-a citation is instead a a work (book) used as a source for whatever in *this* work, usually this is more common for non-fiction
+a citation is instead a work (book) used as a source for whatever in *this* work, usually this is more common for non-fiction.
 reference material will often have a bunch of these.
 
 
