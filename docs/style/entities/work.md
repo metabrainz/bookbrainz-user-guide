@@ -10,17 +10,19 @@ A work is different from another work if there are distinct differences to it, l
 A work is not a separate one if there are only minor spelling corrections or typographical changes (these aren't on the level of conceptional changes, only edit(orial) ones).
 
 Usually divisions like chapters are considered integral to the work and not distinct from it. While poems, essays, articles and short stories *are* considered distinct.<br>
-Examples:<br>
-counter Examples: [^1] [^1](the graveyard book is  great counter example here because one chapter was released as a short-story prior, another is the short story in "an apple for the creature" which would go on to be basically most of the first chapter of "The girl with all the gifts")
+Examples:
+
+- counter examples: [^1]
 
 
 ### When to create new works?
-New works should be created when either<br>
-a) The work in question is not in the database
-b) There are a significant changes to it:<br>
- * Examples:
+New works should be created when either:
+
+1. The work in question is not in the database
+2. There are a significant changes to it, for example:
     * adaptation (comic book)
-    * abridged (Jurassic example) [Jurassic park](https://bookbrainz.org/work/c6f3b5a5-646e-46ed-8565-c9551c8a67d4)
+    * abridged
+        * See for example [Jurassic Park (Guided Reader Version)](https://bookbrainz.org/work/c6f3b5a5-646e-46ed-8565-c9551c8a67d4), based on [the original novel](https://bookbrainz.org/work/5479960d-a3a4-4028-a085-ca5bde76c32b) of the same name
     * translations
 
 - Not to create works for simple "introduction/preface/foreword" but to create a link between the Edition and Author instead UNLESS the specific part has become a Thing unto it self and is re-used (cf the discussion in the community thread)
@@ -34,13 +36,16 @@ Might link to notes about quotations/excerpts as well (wait could this be handle
 
 ### What about translations?
 
-Each translation of a work is distinct from the original work as well as any other language translation. Additionally, a work can be translated into the same language several times, each of these are also separate works.<br>
-A translated work should have:
- * a relationship added to the original work it is a translation of
- * a relationship to the author that wrote the original (provided story)
- * and a translator relationship to its translator.
+Each translation of a work is distinct from the original work as well as any other language translation.<br>
+Additionally, a work can be translated into the same language several times, each of these are also separate works.<br>
+A translated work should have:<br>
 
-Examples:<br>
+- a relationship added to the original work it is a translation of
+- a relationship to the author that wrote the original (provided story)
+- and a translator relationship to its translator.
+
+Examples:
+
 - [Republic](https://bookbrainz.org/work/c1b11cb0-38b0-49ea-88e8-83566c5589ad) has story written by [Πλάτων](https://bookbrainz.org/author/3efc11ba-87ae-4cd0-9677-373f7618925a)
 - [Republic](https://bookbrainz.org/work/c1b11cb0-38b0-49ea-88e8-83566c5589ad) is a translation of [Πολιτεία](https://bookbrainz.org/work/40002c97-41df-4659-b0e0-b30dfa5cbc59)
 - [Republic](https://bookbrainz.org/work/c1b11cb0-38b0-49ea-88e8-83566c5589ad) was translated by [Benjamin Jowett](https://bookbrainz.org/author/dc98466f-9e81-4fb1-a714-3b62b625b455)
@@ -50,12 +55,11 @@ Notable information about a translation should be documented in the work's annot
 
 ## What should works be named?
 Generally this should be straightforward, e.g the work for the book [The Silmarillion](https://bookbrainz.org/edition/6d2273eb-2f4e-444f-be61-15f0c23e7451) by Tolkien is called "[The Silmarillion](https://bookbrainz.org/work/e6b73035-4bf5-4989-a877-291d98309e8b)"<br>
-Adaptations can often have descriptive subtitles, but if not this information should be put in the disambiguation, for translations, the name should be what is on that translation's cover. Any additional names, such as descriptive titles, known variations or transliterations, should be added as [Aliases](about aliases).
+Adaptations can often have descriptive subtitles, but if not this information should be put in the disambiguation, for translations, the name should be what is on that translation's cover. Any additional names, such as descriptive titles, known variations or transliterations, should be added as [Aliases](/glossary).
 
 about aliases:
 work alias 
 (idk)
-
 
 The language of a work's name can differ from the language of the actual work. For example, a work written in English can have a Latin name. The name of the work should be capitalized based on the rules for the language of its name.<br>
 <br>
@@ -79,7 +83,7 @@ The sort names of untitled works should be the same, just omitting the square br
 For the full Author-Work relationships, see the [Author page](author.md).
 
 #### Writer
-The main Author-Work relationship is that of a work to it's author(s), aka its *writer(s)*; most every work should have at least one of these.<br>
+The main Author-Work relationship is that of a work to it's author(s), aka its -writer(s)*; most every work should have at least one of these.<br>
 See the [Author](./author.md) page for a description of the types of authors and also the difference between the "written by" Work relationship and Author Credits on Editions.
 
 #### Others
@@ -89,6 +93,7 @@ Examples:
 
 ### Links to other works
 Link works together when:
+
 * works
  * adaptation
      * translation
@@ -140,3 +145,6 @@ Except for cases such as a fix-up or a poetry cycle as mentioned above, a discre
 
 ### Link to Series
 See [series page](./series.md)
+
+
+[^1]: the graveyard book is  great counter example here because one chapter was released as a short-story prior, another is the short story in "an apple for the creature" which would go on to be basically most of the first chapter of "The girl with all the gifts"
