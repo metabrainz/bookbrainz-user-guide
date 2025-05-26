@@ -149,9 +149,12 @@ An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-na
           (links a work to an author that it is about) (see [wikipedia](https://en.wikipedia.org/wiki/Biography).)
             * (note about [marriage](https://community.metabrainz.org/t/concerning-the-new-is-about-relation/497088/16) applies here as well)
     * copyright<br>
-      (idk)
+        (links an Author to a work they have copyrighted)
+           most works are copyrighted by their author, however some are copyrighted by their publisher (see [publisher](publisher.md))<br>
+           look for the © symbol on the (aptly named) _"copyright page"_.
     * licensor<br>
-       (no idea)
+        (links an Author to a work they have licensed)<br>
+         Book licensing, in the context of author-relationships, refers to the legal permission the Author grants to other parties such as publishers, distributors or translators; to use, reproduce, distribute or adapt their literary work under specific terms, while typically *retaining* ownership of that work.
 3. Editions<br>
    Editions are the actual physical books in our hands! (see [about editions for more info](edition.md).)
     * foreword<br>
@@ -173,10 +176,11 @@ An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-na
        (links a person to an edition they have done design work on)
     *  editor (see [wikipedia](https://en.wikipedia.org/wiki/Editing).)<br>
        (links a person to an edition they have edited)
-    *  typesetter [wikipedia](https://en.wikipedia.org/wiki/Typesetting).)<br>
+    *  typesetter (see [wikipedia](https://en.wikipedia.org/wiki/Typesetting).)<br>
        (links a person to an edition they have typesetted)
-    *  compiler<br>
-       (links a person to an edition they have compiled or done compilation work on)
+    *  compiler<br> (see [wikipedia](https://en.wikipedia.org/wiki/Anthology).)<br>
+       (links a person to an edition they have compiled or done compilation work on, commonly, an Anthology)
+       The difference between an Author and a Compiler: Generally the Author is the one who came up with the idea, writes the work, uses their own ideas and research. A Compiler on the other hand, collects and organizes existing materials, sometimes from several sources, to create a comprehensive whole, but does not necessarily add any new original content. However the two roles can certainly overlap, in which case the "worked on" rel should be used.
     *  proofreader (see [wikipedia](https://en.wikipedia.org/wiki/Proofreading).)<br>
        (links a person to an edition they have proofread)
     *  art director (see [wikipedia](https://en.wikipedia.org/wiki/Art_director#In_publishing).)<br>
