@@ -19,9 +19,9 @@ Examples: "18th century novelist", "19th century Belgian playwright" or "Nigeria
 #### Group
 Use this for groups of Authors, like [collective pseudonyms](https://en.wikipedia.org/wiki/Category:Collective_pseudonyms) (pseudonyms used by multiple individuals), [house pseudonyms](https://en.wikipedia.org/wiki/Pen_name#Collective_names) (owned by a publisher and used by the writers working for them) and similar.
 Examples:
-[Ellery Queen](https://bookbrainz.org/author/a2532a57-11fa-43d4-aa5d-c2892a2d0320), the group pseudonym of *Frederic Dannay* and *Manfred Bennington Lee*.
-[James S. A. Corey](https://bookbrainz.org/author/c5c71242-f54c-4327-9510-a81064a9a852) pen name used by *Daniel Abraham* and *Ty Franck*.
-[Sjöwall/Wahlöö](https://bookbrainz.org/author/b3da6047-0b62-494f-b093-10b3fc20ae7f), a Swedish writing duo that publishes as a team
+[Ellery Queen](https://bookbrainz.org/author/a2532a57-11fa-43d4-aa5d-c2892a2d0320), the group pseudonym of *Frederic Dannay* and *Manfred Bennington Lee* used for their [series of the same name](https://bookbrainz.org/series/a807a7e6-6704-48a1-b53c-fee9860b4f2d).
+[James S. A. Corey](https://bookbrainz.org/author/c5c71242-f54c-4327-9510-a81064a9a852) pen name used by *Daniel Abraham* and *Ty Franck* for [*The Expanse* series](https://bookbrainz.org/series/c190a1c3-5391-41da-8473-c2bbec5df9a1).
+[Sjöwall/Wahlöö](https://bookbrainz.org/author/b3da6047-0b62-494f-b093-10b3fc20ae7f), a Swedish writing duo that publishes the [Martin Beck series](https://bookbrainz.org/series/f2dbd8ee-ad11-4a36-8a4b-1bd5f8e6808a) as a team
 
 #### Persona
 Sometimes Authors create characters and also write under that name, whilst giving this character things like a backstory or have them appear in their work.
