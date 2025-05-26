@@ -22,8 +22,9 @@ New works should be created when either:
 2. There are a significant changes to it, for example:
     * adaptation (comic book)
     * abridged
-        * See for example [Jurassic Park (Guided Reader Version)](https://bookbrainz.org/work/c6f3b5a5-646e-46ed-8565-c9551c8a67d4), based on [the original novel](https://bookbrainz.org/work/5479960d-a3a4-4028-a085-ca5bde76c32b) of the same name
+        * Example: [Jurassic Park (Guided Reader Version)](https://bookbrainz.org/work/c6f3b5a5-646e-46ed-8565-c9551c8a67d4), is based on [the original novel](https://bookbrainz.org/work/5479960d-a3a4-4028-a085-ca5bde76c32b) of the same name.
     * translations
+        * Example:
 
 - Not to create works for simple "introduction/preface/foreword" but to create a link between the Edition and Author instead UNLESS the specific part has become a Thing unto it self and is re-used (cf the discussion in the community thread)
 
@@ -57,17 +58,27 @@ Notable information about a translation should be documented in the work's annot
 Generally this should be straightforward, e.g the work for the book [The Silmarillion](https://bookbrainz.org/edition/6d2273eb-2f4e-444f-be61-15f0c23e7451) by Tolkien is called "[The Silmarillion](https://bookbrainz.org/work/e6b73035-4bf5-4989-a877-291d98309e8b)"<br>
 Adaptations can often have descriptive subtitles, but if not this information should be put in the disambiguation, for translations, the name should be what is on that translation's cover. Any additional names, such as descriptive titles, known variations or transliterations, should be added as [Aliases](/glossary).
 
-about aliases:
-work alias 
-(idk)
+The language the work's _name_ is in, can differ from the language the work as a whole is written in. For example, a work written in English can have a Latin name. The name of the work should _generally_ be capitalized based on the rules for the language of its name.<br>
 
-The language of a work's name can differ from the language of the actual work. For example, a work written in English can have a Latin name. The name of the work should be capitalized based on the rules for the language of its name.<br>
+bit about sortnames and authors intent<br>
+Sortnames are used to, as the name suggests, sort works, editions, authors and so on. To anyone who has ever tried finding anything at a library, the reason is apparent: some kind of consistent system must be in place, or finding things will be needlessly time-consuming or at worst impossible.<br>
+Generally Works are sorted on their name omitting any leading articles, like "The", "A", "Le", "Den" and so fort, which are added to the end after a comma, like so: "The Bookinator" -> "Bookinator, The". <br>
+Examples:<br>
+* "Le Tour du monde en quatre-vingts jours" -> "Tour du monde en quatre-vingts jours, Le"
+* 
+
+<br>
+Sometimes authors have clear intent for the capitalisation or punctuation of the work's title; this is done for comedic, apropos or stylistic reasons, and should be followed.<br>
+Examples:<br>
+* [VALIS](https://bookbrainz.org/work/983a2d75-522a-41fc-9657-0c6fcf8964c7) - Philip K Dick
+* [<script>alert("!Mediengruppe Bitnik");</script>](https://bookbrainz.org/work/160fc57a-87f5-4adc-ba19-0384fa382cf8) 
+
 <br>
 
 But what if the book has no name, then what?
 
 ### Untitled works
-If a work has no title, the first line or sentence of the work should be used, and since this is technically an unofficial name we use square brackets around it like so: [It was the best of times and it was the worst of times]
+If a work has no title, the first line or sentence of the work should be used, and since this is technically an unofficial name we use square brackets around it like so: [It was the best of times and it was the worst of times]<br>
 Generally you should also not use title case in this case, but the original sentence's capitalisation<br>
 Examples:
 
