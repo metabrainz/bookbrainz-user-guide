@@ -70,12 +70,14 @@ Examples:<br>
 <br>
 Sometimes authors have clear intent for the capitalisation or punctuation of the work's title; this is done for comedic, apropos or stylistic reasons, and should be followed.<br>
 Examples:<br>
+
 * [VALIS](https://bookbrainz.org/work/983a2d75-522a-41fc-9657-0c6fcf8964c7) - Philip K Dick
 * [<script>alert("!Mediengruppe Bitnik");</script>](https://bookbrainz.org/work/160fc57a-87f5-4adc-ba19-0384fa382cf8) 
 
 <br>
 
-But what if the book has no name, then what?
+
+But what if the book _has_ no name, then what?
 
 ### Untitled works
 If a work has no title, the first line or sentence of the work should be used, and since this is technically an unofficial name we use square brackets around it like so: [It was the best of times and it was the worst of times]<br>
@@ -94,7 +96,7 @@ The sort names of untitled works should be the same, just omitting the square br
 For the full Author-Work relationships, see the [Author page](author.md).
 
 #### Writer
-The main Author-Work relationship is that of a work to it's author(s), aka its -writer(s)*; most every work should have at least one of these.<br>
+The main Author-Work relationship is that of a work to it's author(s), aka its *writer(s)*; most every work should have at least one of these.<br>
 See the [Author](./author.md) page for a description of the types of authors and also the difference between the "written by" Work relationship and Author Credits on Editions.
 
 #### Others
@@ -103,7 +105,7 @@ This is a work that is _about_ an Author, someone already in the database. Howev
 Examples:
 
 ### Links to other works
-Link works together when:
+Linking works together:
 
 * works
  * adaptation
@@ -114,6 +116,7 @@ Link works together when:
      * parody
  * reconstruction?
 * parts (work has part)
+
  * excerpts
  * quotation
  * citation/refrence
