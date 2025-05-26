@@ -25,7 +25,7 @@ Examples:
 
 #### Persona
 Sometimes Authors create characters and also write under that name, whilst giving this character things like a backstory or have them appear in their work.
-This is different from regular pen names in that a Persona is presented as its own thing, not just a character *in* the story, but also as the writer of the work in question. [^5]
+This is different from regular pen names in that a Persona is presented as its own thing, not just a character *in* the story, but also as the writer of the work in question. [^1]
 Examples:
 The writer [Daniel Handler](https://bookbrainz.org/author/394ac1e3-69e8-4eed-afaa-bb06f877c96e) who writes under the pseudonym *Lemony Snicket*, a character and the supposed author of [*A Series of Unfortunate Events*](https://bookbrainz.org/series/abc21a37-600e-4e4f-9fbc-8839249fcdb9).
 
@@ -38,7 +38,7 @@ Examples:
 
 ### What about people who have not written anything?
 Someone who never wrote anything, but about whom several biographies have been written, for example, can be added to BookBrainz.
-Another relevant metric is if they link 2 or more Author entities. [^3]
+Another relevant metric is if they link 2 or more Author entities. [^2]
 These non-writer people can be to be added as <u>Authors</u>, despite not having written anything themselves.
 
 Additionally, there are many other roles an "Author (entity)" can have in BookBrainz: Photographer, penciller, translator, illustrator, and so on (see section below)
@@ -207,6 +207,5 @@ An Author, let's call them "Anchovy", wrote a novel under the [pen name](#pen-na
    There are no relationships between Authors and Edition Groups. You might be looking for relationships with specific Editions instead, see the *3. Editions* section above
   
 
-[^4]: add some kind of formatting here, like italics or slightly grey, to signify that it is not used
-[^3]: c.f https://community.metabrainz.org/t/concerning-the-new-is-about-relation/497088/16
-[^5]: c.f. https://community.metabrainz.org/t/pen-names-as-aliases-or-as-separate-entries/497086
+[^1]: c.f. https://community.metabrainz.org/t/pen-names-as-aliases-or-as-separate-entries/497086
+[^2]: c.f https://community.metabrainz.org/t/concerning-the-new-is-about-relation/497088/16
