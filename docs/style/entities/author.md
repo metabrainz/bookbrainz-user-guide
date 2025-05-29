@@ -37,7 +37,7 @@ Examples:
 [Stephen King](https://bookbrainz.org/author/128d9490-ee19-4270-a070-32e0a36847f5) has aliases *Richard Bachman* and *Beryl Evans*, and is credited as such when appropriate.
 
 ### What about people who have not written anything?
-Someone who never wrote anything, but about whom several biographies have been written, for example, can be added to BookBrainz.
+Authors can also be created for people who are relevant to the data, but have not written anything themselves. For example, a person about whom several biographies have been written can be added to BookBrainz and be linked to the biographies with [link to the appropriate relationship doc].
 Another relevant metric is if they link 2 or more Author entities. [^2]
 These non-writer people can be to be added as <u>Authors</u>, despite not having written anything themselves.
 
