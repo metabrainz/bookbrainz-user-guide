@@ -32,7 +32,7 @@ The writer [Daniel Handler](https://bookbrainz.org/author/394ac1e3-69e8-4eed-afa
 #### Pen Names
 We do not add pen names as separate authors, instead we use [author credits](#author-credits) to show how an edition was credited with another name. 
 (Note: an illustration would be good here)
-Additionally, an alias [link to section about aliases] should also be added to the author entity.
+Additionally, an alias [link to section about aliases] matching the pen name should also be added to the author entity.
 Examples:
 [Stephen King](https://bookbrainz.org/author/128d9490-ee19-4270-a070-32e0a36847f5) has aliases and is credited as *Richard Bachman* and *Beryl Evans*.
 
