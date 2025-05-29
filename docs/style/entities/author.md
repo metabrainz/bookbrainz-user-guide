@@ -38,7 +38,7 @@ Examples:
 
 ### What about people who have not written anything?
 Authors can also be created for people who are relevant to the data, but have not written anything themselves. For example, a person about whom several biographies have been written can be added to BookBrainz and be linked to the biographies with [link to the appropriate relationship doc].
-Another relevant metric is if they link 2 or more Author entities. [^2]
+Another case where an entry can be added is where it is needed to link 2 or more Author entities (for example, to link a grandparent to a grandchild). [^2]
 These non-writer people can be to be added as <u>Authors</u>, despite not having written anything themselves.
 
 Additionally, there are many other roles an "Author (entity)" can have in BookBrainz: Photographer, penciller, translator, illustrator, and so on (see section below)
