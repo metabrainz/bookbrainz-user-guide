@@ -11,7 +11,7 @@ Generally they will fall into these 3 types:
 
 #### Person
 This is the most common type of Author entity, used for individual people.
-Before adding a new Author always check if one exists already with that name (also remember to search for any [pen names](#pen-names), aliases, misspellings and so on) before creating a new one.
+Before adding a new Author, always check if there is already an entry in the database for them (make sure to check not only the main author name but also any [pen names](#pen-names), aliases and common misspellings).
 In general, try to add as much identifying information as possible and also add a [disambiguation](../disambiguation.md). This is necessary if another author with the same name exists, but it is always a good idea to add disambiguations, because it makes it easier for users to choose the right author, and also easier to make sure they have right one."
 Try to create short, concise disambiguations.
 Examples: "18th century novelist", "19th century Belgian playwright" or "Nigerian Africanfuturist writer"
