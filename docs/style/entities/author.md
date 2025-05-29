@@ -34,7 +34,7 @@ We do not add pen names as separate authors, instead we use [author credits](#au
 (Note: an illustration would be good here)
 Additionally, an alias [link to section about aliases] matching the pen name should also be added to the author entity.
 Examples:
-[Stephen King](https://bookbrainz.org/author/128d9490-ee19-4270-a070-32e0a36847f5) has aliases and is credited as *Richard Bachman* and *Beryl Evans*.
+[Stephen King](https://bookbrainz.org/author/128d9490-ee19-4270-a070-32e0a36847f5) has aliases *Richard Bachman* and *Beryl Evans*, and is credited as such when appropriate.
 
 ### What about people who have not written anything?
 Someone who never wrote anything, but about whom several biographies have been written, for example, can be added to BookBrainz.
