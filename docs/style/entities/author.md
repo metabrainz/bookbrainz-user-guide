@@ -21,7 +21,7 @@ Use this for groups of Authors, like [collective pseudonyms](https://en.wikipedi
 Examples:
 [Ellery Queen](https://bookbrainz.org/author/a2532a57-11fa-43d4-aa5d-c2892a2d0320), the group pseudonym of *Frederic Dannay* and *Manfred Bennington Lee* used for their [series of the same name](https://bookbrainz.org/series/a807a7e6-6704-48a1-b53c-fee9860b4f2d).
 [James S. A. Corey](https://bookbrainz.org/author/c5c71242-f54c-4327-9510-a81064a9a852) pen name used by *Daniel Abraham* and *Ty Franck* for [*The Expanse* series](https://bookbrainz.org/series/c190a1c3-5391-41da-8473-c2bbec5df9a1).
-[Sjöwall/Wahlöö](https://bookbrainz.org/author/b3da6047-0b62-494f-b093-10b3fc20ae7f), a Swedish writing duo that publishes the [Martin Beck series](https://bookbrainz.org/series/f2dbd8ee-ad11-4a36-8a4b-1bd5f8e6808a) as a team
+[Carolyn Keene](https://bookbrainz.org/author/25da6396-c97b-44a0-b684-33c09deb34fd) is a group pseudonym of ghost writers used by the [Stratemeyer Syndicate](https://bookbrainz.org/publisher/24818507-c14c-404e-b04c-a052bc0244a2) to publish the [Nancy Drew mystery stories](https://bookbrainz.org/series/9d4c7f75-ebdb-4f68-a54e-fc38ff414f50) and others.
 
 #### Persona
 Sometimes Authors create characters and also write under that name, whilst giving this character things like a backstory or have them appear in their work.
