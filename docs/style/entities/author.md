@@ -17,11 +17,11 @@ Try to create short, concise disambiguations.
 Examples: "18th century novelist", "19th century Belgian playwright" or "Nigerian Africanfuturist writer"
 
 #### Group
-Use this for groups of Authors, like [collective pseudonyms](https://en.wikipedia.org/wiki/Category:Collective_pseudonyms) (pseudonyms used by multiple individuals), [house pseudonyms](https://en.wikipedia.org/wiki/Pen_name#Collective_names) (owned by a publisher and used by the writers working for them) and similar.
+Use this for groups of Authors, like [collective pseudonyms](https://en.wikipedia.org/wiki/Category:Collective_pseudonyms) (pseudonyms used by multiple individuals), [house pseudonyms](https://en.wikipedia.org/wiki/Pen_name#Collective_names) (owned by a publisher and used by the writers working for them) and the like.
 Examples:
-[Ellery Queen](https://bookbrainz.org/author/a2532a57-11fa-43d4-aa5d-c2892a2d0320), the group pseudonym of *Frederic Dannay* and *Manfred Bennington Lee* used for their [series of the same name](https://bookbrainz.org/series/a807a7e6-6704-48a1-b53c-fee9860b4f2d).
-[James S. A. Corey](https://bookbrainz.org/author/c5c71242-f54c-4327-9510-a81064a9a852) pen name used by *Daniel Abraham* and *Ty Franck* for [*The Expanse* series](https://bookbrainz.org/series/c190a1c3-5391-41da-8473-c2bbec5df9a1).
-[Carolyn Keene](https://bookbrainz.org/author/25da6396-c97b-44a0-b684-33c09deb34fd) is a group pseudonym of ghost writers used by the [Stratemeyer Syndicate](https://bookbrainz.org/publisher/24818507-c14c-404e-b04c-a052bc0244a2) to publish the [Nancy Drew mystery stories](https://bookbrainz.org/series/9d4c7f75-ebdb-4f68-a54e-fc38ff414f50) and others.
+- [Ellery Queen](https://bookbrainz.org/author/a2532a57-11fa-43d4-aa5d-c2892a2d0320), the group pseudonym of *Frederic Dannay* and *Manfred Bennington Lee* used for their [series of the same name](https://bookbrainz.org/series/a807a7e6-6704-48a1-b53c-fee9860b4f2d).
+- [James S. A. Corey](https://bookbrainz.org/author/c5c71242-f54c-4327-9510-a81064a9a852) pen name used by *Daniel Abraham* and *Ty Franck* for [*The Expanse* series](https://bookbrainz.org/series/c190a1c3-5391-41da-8473-c2bbec5df9a1).
+- [Carolyn Keene](https://bookbrainz.org/author/25da6396-c97b-44a0-b684-33c09deb34fd) is a group pseudonym of ghost writers used by the [Stratemeyer Syndicate](https://bookbrainz.org/publisher/24818507-c14c-404e-b04c-a052bc0244a2) to publish the [Nancy Drew mystery stories](https://bookbrainz.org/series/9d4c7f75-ebdb-4f68-a54e-fc38ff414f50) and others.
 
 #### Persona
 Sometimes Authors create characters and also write under that name, whilst giving this character things like a backstory or have them appear in their work.
@@ -39,7 +39,6 @@ Examples:
 ### What about people who have not written anything?
 Authors can also be created for people who are relevant to the data, but have not written anything themselves. For example, a person about whom several biographies have been written can be added to BookBrainz and be linked to the biographies with [link to the appropriate relationship doc].
 Another case where an entry can be added is where it is needed to link 2 or more Author entities (for example, to link a grandparent to a grandchild). [^2]
-These non-writer people can be to be added as <u>Authors</u>, despite not having written anything themselves.
 
 Additionally, there are many other roles an "Author (entity)" can have in BookBrainz: Photographer, penciller, translator, illustrator, and so on (see section below)
 
@@ -64,8 +63,8 @@ This section explains about author credits.
 When entering books into BookBrainz, it's important to understand the difference between the concept of an <u>Edition</u>, the physical item you can hold in your hands, and the literary concept of <u>Works</u> that books contain. (see also [Wikipedia](https://en.wikipedia.org/wiki/Creative_work) for more information.)
 To illustrate the difference, see these two Editions which contain the same underlying Work, the novel [The Handmaid’s Tale](https://bookbrainz.org/work/f23d22e8-11ba-440a-a990-075152266c21): this [mass market paperback](https://bookbrainz.org/edition/a70f9eb1-b19b-4467-8f6b-c96c4616d829) published by [Seal Books](https://bookbrainz.org/publisher/e8b15024-7b26-4258-9d32-9367890b8a6d), and this [hardcover edition](https://bookbrainz.org/edition/c5d0a3e0-0eb6-4f07-b9f4-5d49a6819524) published by [Heinemann](https://bookbrainz.org/publisher/62754764-fcbd-469a-8ee1-579ccc7747b4)
 
-BookBrainz is a _relationable database_ that tracks the links between different entities, such as, which <u>Author</u> (entity) actually wrote what <u>Work</u> (entity) and so on. But it also is a database of _credited_ information, that is, who is _credited_ as the author.
-For the relationable part, we use _relationships_ in the database, typically, an "\[Author\] wrote \[Work\]" relationship.
+BookBrainz is a _relational database_ that tracks the links between different entities, such as which <u>Author</u> (entity) wrote which <u>Work</u> (entity) and so on. But it is also a database of _credited_ information, that is, who is _credited_ as the author.
+For the relational part, we use _relationships_ in the database, typically, an "\[Author\] wrote \[Work\]" relationship.
 
 Examples:
 
@@ -102,7 +101,7 @@ It contains stories by 21 authors, but on the cover of the book the most promine
          * <del>pen name</del>
             obsolete, (see [above](#persona))
 2. **Works**
-   Works are the conceptional part of writing! (See [about Works](work.md) for more information)
+   Works are the conceptual part of writing! (See [about Works](work.md) for more information)
     * **wrote**
         links an author to a work they've written
          Note: Several authors can be linked to the same work, and naturally an author can be linked to several works
