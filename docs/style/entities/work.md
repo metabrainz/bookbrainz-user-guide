@@ -20,15 +20,14 @@ New works should be created when either:
 
 1. The work in question is not in the database
 2. There are a significant changes to it, for example:
-    * adaptation (comic book)
+    * adaptations
+        * Example: comic book, stage play
     * abridged
         * Example: [Jurassic Park (Guided Reader Version)](https://bookbrainz.org/work/c6f3b5a5-646e-46ed-8565-c9551c8a67d4), is based on [the original novel](https://bookbrainz.org/work/5479960d-a3a4-4028-a085-ca5bde76c32b) of the same name.
     * translations
         * Example:
 
 - Not to create works for simple "introduction/preface/foreword" but to create a link between the Edition and Author instead UNLESS the specific part has become a Thing unto it self and is re-used (cf the discussion in the community thread)
-
-Explain about creating new works for translations (link to sections about which Author-Work links, which Work-Work links (and discussion about Edition-groups) to use).
 
 - How big is a thing before it is a work?<br>
 Like, is a sentence by Famous Author that is put in the pretext of a lot of Books a "work" in and of itself?<br>
@@ -37,6 +36,7 @@ Might link to notes about quotations/excerpts as well (wait could this be handle
 
 ### What about translations?
 
+Explain about creating new works for translations (link to sections about which Author-Work links, which Work-Work links (and discussion about Edition-groups) to use).
 Each translation of a work is distinct from the original work as well as any other language translation.<br>
 Additionally, a work can be translated into the same language several times, each of these are also separate works.<br>
 A translated work should have:<br>
