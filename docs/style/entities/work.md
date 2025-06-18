@@ -55,7 +55,7 @@ If the translator is unknown or unidentified, the translator can be set as [[unk
 Notable information about a translation should be documented in the work's annotation.
 
 ## What should works be named?
-Generally this should be straightforward, e.g the work for the book [The Silmarillion](https://bookbrainz.org/edition/6d2273eb-2f4e-444f-be61-15f0c23e7451) by Tolkien is called "[The Silmarillion](https://bookbrainz.org/work/e6b73035-4bf5-4989-a877-291d98309e8b)"<br>
+Generally this should be straightforward, e.g. the work for the book [The Silmarillion](https://bookbrainz.org/edition/6d2273eb-2f4e-444f-be61-15f0c23e7451) by Tolkien is called "[The Silmarillion](https://bookbrainz.org/work/e6b73035-4bf5-4989-a877-291d98309e8b)"<br>
 Adaptations can often have descriptive subtitles, but if not this information should be put in the disambiguation, for translations, the name should be what is on that translation's cover. Any additional names, such as descriptive titles, known variations or transliterations, should be added as [Aliases](/glossary).
 
 The language the work's _name_ is in, can differ from the language the work as a whole is written in. For example, a work written in English can have a Latin name. The name of the work should _generally_ be capitalized based on the rules for the language of its name.<br>
@@ -109,17 +109,27 @@ Linking works together:
 
 * works
  * adaptation
+links a work that is an [adaptation](### When to create new works?) of another work.
      * translation
+links a work that is a translation of another work, remember to add a link to the works translator here, but the original author should have *provided story*
      * revision
- * derative
+links a work to a revision of it
+ * derivative
+links a work that is in some way a derivation.
      * inspiration
+only use this if the work is generally understood to be inspired by another
      * parody
- * reconstruction?
+se this when it is explicitly stated, or is generally understood to be a parody.
+ * reconstruction
+links a work to a work it is a reconstruction of:
+a reconstruction is a work that is created by (usually) another person than the original writer, using already written bits and pieces to create a consistent whole.<br>
+example: https://en.wikipedia.org/wiki/The_Silmarillion#Posthumous_publication
 * parts (work has part)
-
+when a work consists of several sub-parts, this is used to link each part to the mother work.
  * excerpts
+links a work to a work it contains an excerpt of
  * quotation
- * citation/refrence
+ * citation/reference
    something about references can also be things like informations
    specify "parafrases" -> cites is these are the sources of that text
    explain the difference between citation and excerpt. excerpt is a section of text verbatim, a paragraph taken from whatever
@@ -133,29 +143,20 @@ reference material will often have a bunch of these.
 
 Except for cases such as a fix-up or a poetry cycle as mentioned above, a discrete work should not represent a collection of works.
 
-- derivative: *it is derived from another work*
-    - translation
-    - adaption
-    - inspiration
-    - parody
-    - revision
-    - reconstruction
-- parts:
-    - *it contains the content from another work or is contained in another work*
-        - excerpts
-        - quotation
-    - *it references another work*
-        - citation
-        - reference
-
-
 
 ### Link to Editions
 - contains (the most important rel, specify that works can belong to several editions, and that an edition can have several works
+editions are the physical book the conceptional work is in. an edition can contain more than one work, and a work can be published in several editions.
+
 
 ### Link to Publishers
-- commission
-- licensor
+* publisher
+links a work to a publisher that published it
+here must we clarify the difference between the in-page "publisher" field and the use of this(pita)
+* commission
+links a work to a publisher that commissioned it
+* licensor
+see above for author 
 
 ### Link to Series
 See [series page](./series.md)
