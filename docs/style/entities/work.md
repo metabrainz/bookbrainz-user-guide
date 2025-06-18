@@ -145,8 +145,10 @@ Except for cases such as a fix-up or a poetry cycle as mentioned above, a discre
 
 
 ### Link to Editions
-- contains (the most important rel, specify that works can belong to several editions, and that an edition can have several works
-editions are the physical book the conceptional work is in. an edition can contain more than one work, and a work can be published in several editions.
+
+* contains
+the most important rel, specify that works can belong to several editions, and that an edition can have several works
+editions are the physical book the conceptional work exists in. An edition can contain more than one work, and a work can be published in several editions.
 
 
 ### Link to Publishers
