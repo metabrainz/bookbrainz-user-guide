@@ -15,6 +15,15 @@ Examples:
 - counter examples: [^1]
 
 
+What is the difference between an anthology, a short story cycle and a book of short stories?
+
+An anthology is:
+example:
+a short story cycle:
+example:
+book of short stories
+example:
+
 ### When to create new works?
 New works should be created when either:
 
