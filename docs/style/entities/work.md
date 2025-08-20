@@ -27,9 +27,12 @@ How big is a thing before it counts as a work?<br>
 
 
 Usually divisions like chapters are considered integral to the work and not distinct from it, while poems, essays, articles and short stories *are* considered distinct.<br>
- * Example: (any book with chapters will do)
- * Example: (any book with it's poems linked as works will do)
- * However, sometimes things are more complex: (counter examples, graveyard book and girl with all the gifts): [^1]
+ * Example: A novel (with chapters) entered as a single Work entity: [The Long Earth](https://bookbrainz.org/edition/73dc9e04-997d-4c0f-94ac-63c0c7f3c1c0)
+ * Example: An anthology of poems, each poem entered as a separate work: [Spoon River Anthology](https://bookbrainz.org/edition/7cb01eb1-735a-4184-af7f-8f021067d6da)
+ * However, sometimes things are more complex:
+   * The novel [The Graveyard Book](https://bookbrainz.org/work/06fa3810-218e-4246-93da-f850537d1158) is composed of multiple stand-alone chapters
+   * One of those chapters was previously published separately as a short story: [The Witch's Headstone](https://bookbrainz.org/work/85e25493-3851-47e7-a25c-730ceaf6389d), for which we want a separate Work entity
+
 
 Usually we do not create works for simple introductions, prefaces and forewords.<br>
 * To register that an author wrote an introduction or foreword to a novel, you can simply use the "Author wrote introduction for Edition" relationship.
@@ -170,6 +173,3 @@ see above for author
 
 ### Link to Series
 See [series page](./series.md)
-
-
-[^1]: the graveyard book is  great counter example here because one chapter was released as a short-story prior, another is the short story in "an apple for the creature" which would go on to be basically most of the first chapter of "The girl with all the gifts"
