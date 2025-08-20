@@ -159,7 +159,7 @@ Except for cases such as a fix-up or a poetry cycle as mentioned above, a discre
 
 * contains
 the most important rel, specify that works can belong to several editions, and that an edition can have several works
-editions are the physical book the conceptional work exists in. An edition can contain more than one work, and a work can be published in several editions.
+Editions are the physical book that the conceptual work exists in. An edition can contain more than one work, and a work can be published in several editions. See [Edition](./edition.md)
 
 
 ### Link to Publishers
