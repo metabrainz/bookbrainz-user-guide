@@ -87,7 +87,7 @@ Sometimes authors have clear intent for the capitalisation or punctuation of the
 Examples:<br>
 
 * [VALIS](https://bookbrainz.org/work/983a2d75-522a-41fc-9657-0c6fcf8964c7) - Philip K Dick
-* [<script>alert("!Mediengruppe Bitnik");</script>](https://bookbrainz.org/work/160fc57a-87f5-4adc-ba19-0384fa382cf8) 
+* [`<script>alert("!Mediengruppe Bitnik");</script>`](https://bookbrainz.org/work/160fc57a-87f5-4adc-ba19-0384fa382cf8) 
 
 <br>
 
