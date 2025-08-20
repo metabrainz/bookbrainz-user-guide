@@ -4,26 +4,7 @@ Works are distinct literary creations, they represent the _conceptional_ idea of
 
 [TOC]
 
-## When is a work considered different from another work?
-
-A work is different from another work if there are distinct differences to it, like adaptations, translations, rewritings, and so on.<br>
-A work is not a separate one if there are only minor spelling corrections or typographical changes (these aren't on the level of conceptional changes, only edit(orial) ones).
-
-Usually divisions like chapters are considered integral to the work and not distinct from it. While poems, essays, articles and short stories *are* considered distinct.<br>
- * Examples:
- * counter examples: [^1]
-
-
-What is the difference between an anthology, a short story cycle and a book of short stories?
-
-An anthology is:
-example:
-a short story cycle:
-example:
-book of short stories
-example:
-
-### When to create new works?
+## When to create new works?
 New works should be created when either:
 
 1. The work in question is not in the database
@@ -31,21 +12,31 @@ New works should be created when either:
     * adaptations
         * Example: comic book, stage play
         * Example: [Jurassic Park (Guided Reader Version)](https://bookbrainz.org/work/c6f3b5a5-646e-46ed-8565-c9551c8a67d4), is based on [the original novel](https://bookbrainz.org/work/5479960d-a3a4-4028-a085-ca5bde76c32b) of the same name.
-3. It is a translation:
+3. It is a translation:<br>
         * Example: [Alice i eventyrland](https://bookbrainz.org/work/50437b54-68db-4c26-871a-23d1546758d7) is a translation of [Alice's Adventures in Wonderland](https://bookbrainz.org/work/337a8c0a-3574-404e-abb5-df606cc36109)
 
 * Usually we do not create works for simple introductions, prefaces and forewords.<br>
 To register that an author wrote an introduction or foreword to a novel, you can simply use the "Author wrote introduction for Edition" relationship.
 However, since more details cannot yet be captured that way, if needed, you can create a separate Work entity to capture those details, or write them in the edition's Annotation.
- Say the introduction is denoted with emphasis (for example "Foreword by XXXXX" on the cover), contains more literary content or is a whole essay in itself, or otherwise has notable literary or historical value."
+ Say the introduction is denoted with emphasis (for example "Foreword by XXXXX" on the cover), contains more literary content or is a whole essay in itself, or otherwise has notable literary or historical value."<br>
         * Example:
 
-- How big is a thing before it is a work?<br>
+* How big is a thing before it is a work?<br>
 Like, is a sentence by Famous Author that is put in the pretext of a lot of Books a "work" in and of itself?<br>
 Answer: NO. However, we should clarify that it is not about length but more about conceptual "content": for example a haiku is very short but would deserve a work.<br>
 Might link to notes about quotations/excerpts as well (wait could this be handled by quotations?! e.g. "contains quotation by {author}" i.e. a new rel??)
 
-### What about translations?
+### When is a work considered different from another work?
+
+A work is different from another work if it is distinctly _different_, like adaptations, translations, rewritings, and so on.<br>
+A work is not a separate one if there are only minor spelling corrections or typographical changes (these aren't on the level of conceptional changes, only edit(orial) ones).
+
+Usually divisions like chapters are considered integral to the work and not distinct from it. While poems, essays, articles and short stories *are* considered distinct.<br>
+ * Example: (any book with chapters will do)
+ * Example: (any book with it's poems linked as works will do)
+ * However, sometimes things are more complex: (counter examples, graveyard book and girl with all the gifts): [^1]
+
+### More about translations
 
 Explain about creating new works for translations (link to sections about which Author-Work links, which Work-Work links (and discussion about Edition-groups) to use).
 Each translation of a work is distinct from the original work as well as any other language translation.<br>
@@ -64,6 +55,17 @@ Examples:
 
 If the translator is unknown or unidentified, the translator can be set as [[unknown]](https://bookbrainz.org/author/6c1b8f55-4c7e-4739-bfa2-1979da4c68e1).<br>
 Notable information about a translation should be documented in the work's annotation.
+
+
+What is the difference between an anthology, a short story cycle and a book of short stories?
+
+An anthology is:
+example:
+a short story cycle:
+example:
+book of short stories
+example:
+
 
 ## What should works be named?
 Generally this should be straightforward, e.g. the work for the book [The Silmarillion](https://bookbrainz.org/edition/6d2273eb-2f4e-444f-be61-15f0c23e7451) by Tolkien is called "[The Silmarillion](https://bookbrainz.org/work/e6b73035-4bf5-4989-a877-291d98309e8b)"<br>
