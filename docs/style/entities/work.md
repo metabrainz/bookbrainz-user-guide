@@ -10,9 +10,8 @@ A work is different from another work if there are distinct differences to it, l
 A work is not a separate one if there are only minor spelling corrections or typographical changes (these aren't on the level of conceptional changes, only edit(orial) ones).
 
 Usually divisions like chapters are considered integral to the work and not distinct from it. While poems, essays, articles and short stories *are* considered distinct.<br>
-Examples:
-
-- counter examples: [^1]
+ * Examples:
+ * counter examples: [^1]
 
 
 What is the difference between an anthology, a short story cycle and a book of short stories?
@@ -31,12 +30,15 @@ New works should be created when either:
 2. There are a significant changes to it, for example:
     * adaptations
         * Example: comic book, stage play
-    * abridged
         * Example: [Jurassic Park (Guided Reader Version)](https://bookbrainz.org/work/c6f3b5a5-646e-46ed-8565-c9551c8a67d4), is based on [the original novel](https://bookbrainz.org/work/5479960d-a3a4-4028-a085-ca5bde76c32b) of the same name.
-    * translations
-        * Example:
+3. It is a translation:
+        * Example: [Alice i eventyrland](https://bookbrainz.org/work/50437b54-68db-4c26-871a-23d1546758d7) is a translation of [Alice's Adventures in Wonderland](https://bookbrainz.org/work/337a8c0a-3574-404e-abb5-df606cc36109)
 
-- Not to create works for simple "introduction/preface/foreword" but to create a link between the Edition and Author instead UNLESS the specific part has become a Thing unto it self and is re-used (cf the discussion in the community thread)
+* Usually we do not create works for simple introductions, prefaces and forewords.<br>
+To register that an author wrote an introduction or foreword to a novel, you can simply use the "Author wrote introduction for Edition" relationship.
+However, since more details cannot yet be captured that way, if needed, you can create a separate Work entity to capture those details, or write them in the edition's Annotation.
+ Say the introduction is denoted with emphasis (for example "Foreword by XXXXX" on the cover), contains more literary content or is a whole essay in itself, or otherwise has notable literary or historical value."
+        * Example:
 
 - How big is a thing before it is a work?<br>
 Like, is a sentence by Famous Author that is put in the pretext of a lot of Books a "work" in and of itself?<br>
