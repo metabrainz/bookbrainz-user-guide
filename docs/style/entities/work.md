@@ -24,9 +24,9 @@ A work is not a separate one if there are only minor spelling corrections or typ
 How big is a thing before it counts as a work?<br>
 * Like, is a sentence by Famous Author that is put in the pretext of a lot of Books a "work" in and of itself?<br>
 * Answer: NO. However, we should clarify that it is not about length but more about conceptual "content": for example a haiku is very short but would deserve a work.<br>
-Might link to notes about quotations/excerpts as well (wait could this be handled by quotations?! e.g. "contains quotation by {author}" i.e. a new rel??)
 
-Usually divisions like chapters are considered integral to the work and not distinct from it. While poems, essays, articles and short stories *are* considered distinct.<br>
+
+Usually divisions like chapters are considered integral to the work and not distinct from it, while poems, essays, articles and short stories *are* considered distinct.<br>
  * Example: (any book with chapters will do)
  * Example: (any book with it's poems linked as works will do)
  * However, sometimes things are more complex: (counter examples, graveyard book and girl with all the gifts): [^1]
@@ -46,7 +46,7 @@ Additionally, a work can be translated into the same language several times, eac
 A translated work should have:<br>
 
 - a relationship added to the original work it is a translation of
-- a relationship to the author that wrote the original (provided story)
+- a relationship to the author that wrote the original (see [provided story](./author#current-author-linking-relationships-are) relationship)
 - and a translator relationship to its translator.
 
 Examples:
@@ -59,14 +59,14 @@ If the translator is unknown or unidentified, the translator can be set as [[unk
 Notable information about a translation should be documented in the work's annotation.
 
 
-What is the difference between an anthology, a short story cycle and a book of short stories?
+<!-- ### What is the difference between an anthology, a short story cycle and a book of short stories?
 
 An anthology is:
 example:
 a short story cycle:
 example:
 book of short stories
-example:
+example: -->
 
 
 ## What should works be named?
@@ -112,12 +112,13 @@ For the full Author-Work relationships, see the [Author page](author.md).
 
 #### Writer
 The main Author-Work relationship is that of a work to it's author(s), aka its *writer(s)*; most every work should have at least one of these.<br>
-See the [Author](./author.md) page for a description of the types of authors and also the difference between the "written by" Work relationship and Author Credits on Editions.
+See the [Author](./author.md) page for a description of the types of authors and also the difference between the "written by" Work relationship and [Author Credits](./author.md#author-credits) on Editions.
 
 #### Others
-Notably there is one Work-Author link we'll cover here; That of a work that is *about* an Author; Biographies or bio's.<br>
+Notably there is one Work-Author relationship we'll cover here: that of biographies, a work that is *about* an Author entity.<br>
 This is a work that is _about_ an Author, someone already in the database. However, someone who never wrote anything, but is in some other way notable, for example; if they link other authors together, via parental or marriage relationships, if they are teachers of other authors, if they have several biographies written about them, they may be be added to BookBrainz, despite not having written anything themselves.<br>
-Examples:
+Examples:<br>
+- [Henry Kissinger](https://bookbrainz.org/author/8eca361c-99f3-46c6-9c8a-a53e92d10694) is the subject of multiple biographies but has not written any work himself
 
 ### Links to other works
 Linking works together:
@@ -141,20 +142,12 @@ a reconstruction is a work that is created by (usually) another person than the 
 example: https://en.wikipedia.org/wiki/The_Silmarillion#Posthumous_publication
 * parts (work has part)
 when a work consists of several sub-parts, this is used to link each part to the mother work.
- * excerpts
-links a work to a work it contains an excerpt of
+ * excerpts: links a work to another work that is quoted verbatim
  * quotation
- * citation/reference
-   something about references can also be things like informations
-   specify "parafrases" -> cites is these are the sources of that text
-   explain the difference between citation and excerpt. excerpt is a section of text verbatim, a paragraph taken from whatever
-a citation is instead a work (book) used as a source for whatever in *this* work, usually this is more common for non-fiction.
-reference material will often have a bunch of these.
-
-
-- *it is derived from another work*, for example: a translation, an adaptation, a revision, a reconstruction, a parody, an inspiration;
-- *it contains the content from another work or is contained in another work*, for example: a [fix-up](https://en.wikipedia.org/wiki/Fix-up), a poetry cycle, an excerpt, a quote;
--  for example: a citation.
+ * citation/reference: contrarily to excerpts, cites or refers to another work without copying its content
+* derived from another work, for example: a translation, an adaptation, a revision, a reconstruction, a parody, an inspiration;
+* contains/is contained in another work, for example: a [fix-up](https://en.wikipedia.org/wiki/Fix-up), a poetry cycle, an excerpt, a quote;
+*  for example: a citation.
 
 Except for cases such as a fix-up or a poetry cycle as mentioned above, a discrete work should not represent a collection of works.
 
