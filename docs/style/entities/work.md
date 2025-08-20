@@ -158,7 +158,7 @@ Except for cases such as a fix-up or a poetry cycle as mentioned above, a discre
 ### Link to Editions
 
 * contains
-the most important rel, specify that works can belong to several editions, and that an edition can have several works
+the most important relationship, specify that works can belong to several editions, and that an edition can have several works
 Editions are the physical book that the conceptual work exists in. An edition can contain more than one work, and a work can be published in several editions. See [Edition](./edition.md)
 
 
