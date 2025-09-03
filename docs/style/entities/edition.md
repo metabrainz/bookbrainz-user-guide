@@ -111,4 +111,4 @@ Please do not include subjective opinions, reviews, promotional language or hype
 ### Link to Series
 See [series section](./series.md)
 
-[^1] for these we really _do_ need capitalisation pages
+[^1]: for these we really _do_ need capitalisation pages
