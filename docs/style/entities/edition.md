@@ -12,7 +12,7 @@ Enter the title exactly as it appears on the book itself, using the Title Case o
 * All Words are Upper Case, Except Conjunctions, Articles and Prepositions. (e.g. [English](../language_specific/english-guidelines.md))
 * All words are lower case, except the first word in a sentence and proper nouns. (e.g. Norwegian)
 * A sort of Hybrid where generally, Nouns are in upper case and Everything Else is lower case (e.g. German, French) [^1]
-
+<br>
 Exception: if the author of the book have decided on special casing for intentional reasons [author intent page link] use that.
 * example:
 Note, however, that for books vs. works[link] stylistic choices can oftetn come from designers, publicators et al. and not be strictly author intent. 
