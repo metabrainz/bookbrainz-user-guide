@@ -7,13 +7,20 @@ How to add a book, what is an edition, bit about print runs (opplag og utgaver)
 
 
 ### Title
-Enter the title exactly as it appears on the book in Title Case. Title case requires all words in the title to be capitalized, with the exception of words like conjunctions, articles, and prepositions.
+Enter the title exactly as it appears on the book itself, using the Title Case of the title's language. Different Languages have differnt rules (link to a general-language-case-hub page that links to all the others, that we don't yet have) in general they fall into one of 3 categories:
 
-If the title differs on different parts of the book (e.g. cover, spine, copyright page) use the most visually obvious title. Use the Notes section to mention any important differences.
+* All Words are Upper Case, Except Conjunctions, Articles and Prepositions. (e.g. [English](../language_specific/english-guidelines.md))
+* All words are lower case, except the first word in a sentence and proper nouns. (e.g. Norwegian)
+* A sort of Hybrid where generally, Nouns are in upper case and Everything Else is lower case (e.g. German, French) [^1](for these we *really* do need capitalisation pages)
 
-Subtitles should be added to this field using a colon as a separator (e.g. Title: Subtitle).
+Exception: if the author of the book have decided on special casing for intentional reasons [author intent page link] use that.
+* example:
+Note, however, that for books vs. works[link] stylistic choices can oftetn come from designers, publicators et al. and not be strictly author intent. 
 
-For more in-depth capitalization guidelines, head over to [English capitalization guidelines](../language_specific/english-guidelines.md) or the equivalent page for the language of the title.
+If the title is not consistent between the spine, cover and/or the copyright page, it's generally better to follow the more detailed one, and add an annotation to mention any important differences.
+This means also that subtitles should be added to the "Title" field:
+* If there is a logical punctiuation use that, (eg This Book is Gonna Kill You! with kindness, a book about crows) (add a real example, on with "-" as well) 
+* If there isn't any, use a colon as a separator (e.g. Title: Subtitle).(add a real example)
 
 ### Author Credit
 Author credits should generally follow the actual credit used on the cover, including the join phrases.
@@ -103,3 +110,5 @@ Please do not include subjective opinions, reviews, promotional language or hype
 
 ### Link to Series
 See [series section](./series.md)
+
+[^1]
