@@ -1,0 +1,13 @@
+nav:
+- Home: home.md
+- getting-started.md
+# - Style Guidelines: ./style-guidelines
+# - How-tos: ./style-guidelines
+  # - disambiguation: ./style-guidelines/disambiguation.md
+  # - author: ./style-guidelines/entities/author.md
+- ... # List all pages and their subdirectories
+- Glossary: glossary.md
+- contribute.md
+- Reference:
+  - Style process: ./.reference/style-process.md
+  - Browser support: ./.reference/browser-suppoer.md
