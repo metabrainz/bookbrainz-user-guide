@@ -13,6 +13,9 @@ extra:
   logo: 'images/BookBrainz_logo_bw.svg'
   article_nav_top: false
 markdown_extensions:
-  toc:
-    toc_depth: '2-6'
-  footnotes:
+  - toc:
+      toc_depth: '2-6'
+  - footnotes
+  - nl2br
+extra_css:
+  - style.css
