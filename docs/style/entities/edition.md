@@ -10,7 +10,7 @@ How to add a book, what is an edition, bit about print runs (opplag og utgaver)
 Enter the title exactly as it appears on the book itself, using the Title Case of the title's language. Different Languages have differnt rules (link to a general-language-case-hub page that links to all the others, that we don't yet have) in general they fall into one of 3 categories:
 
 * All Words are Upper Case, Except Conjunctions, Articles and Prepositions. (e.g. [English](../language_specific/english-guidelines.md))
-* All words are lower case, except the first word in a sentence and proper nouns. (e.g. [Norwegian](../language_specific/norsk-guidelines.md)))
+* All words are lower case, except the first word in a sentence and proper nouns. (e.g. [Norwegian](../language_specific/norsk-guidelines.md))
 * A sort of Hybrid where generally, Nouns are in upper case and Everything Else is lower case (e.g. German, French) [^1]
 <br>
 Exception: if the author of the book have decided on special casing for intentional reasons [author intent page link] use that.
