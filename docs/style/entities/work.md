@@ -21,11 +21,6 @@ New works should be created when either:
 A work is different from another work if it is distinctly _different_, like adaptations, translations, rewritings, and so on.<br>
 A work is not a separate one if there are only minor spelling corrections or typographical changes (these aren't on the level of conceptional changes, only edit(orial) ones).
 
-How big is a thing before it counts as a work?<br>
-* Like, is a sentence by Famous Author that is put in the pretext of a lot of Books a "work" in and of itself?<br>
-* Answer: NO. However, we should clarify that it is not about length but more about conceptual "content": for example a haiku is very short but would deserve a work.<br>
-
-
 Usually divisions like chapters are considered integral to the work and not distinct from it, while poems, essays, articles and short stories *are* considered distinct.<br>
  * Example: A novel (with chapters) entered as a single Work entity: [The Long Earth](https://bookbrainz.org/edition/73dc9e04-997d-4c0f-94ac-63c0c7f3c1c0)
  * Example: An anthology of poems, each poem entered as a separate work: [Spoon River Anthology](https://bookbrainz.org/edition/7cb01eb1-735a-4184-af7f-8f021067d6da)
@@ -33,6 +28,7 @@ Usually divisions like chapters are considered integral to the work and not dist
    * The novel [The Graveyard Book](https://bookbrainz.org/work/06fa3810-218e-4246-93da-f850537d1158) is composed of multiple chapters
    * One of those chapters was previously published separately as a short story: [The Witch's Headstone](https://bookbrainz.org/work/85e25493-3851-47e7-a25c-730ceaf6389d), for which we want a separate Work entity
 
+#### What about a book's introduction/foreword/preface?
 
 Usually we do not create works for simple introductions, prefaces and forewords.<br>
 * To register that an author wrote an introduction or foreword to a novel, you can simply use the "Author wrote introduction for Edition" relationship.
