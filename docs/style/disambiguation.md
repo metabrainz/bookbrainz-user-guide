@@ -1,10 +1,12 @@
 # Disambiguation
 
-Disambiguations are used to help users distinguish between entities that have identical or confusingly similar names. These disambiguations are visible in search results and entity detail pages. Disambiguations should preferably be written in English and kept concise and to the point.
+Disambiguations are used to distinguish between entities that have identical or confusingly similar names. They are visible in search results and entity detail pages. Disambiguations should _preferably_ be written in English and kept concise and to the point.<br>
+Never assume that something does not need a disambiguation! Just because a name or title seem really unique, that doesn't mean there might not be others named exactly the same.<br>
+And anyway it's always a good idea to put in a disambiguation for the next person who comes around and may have an author, work or similar they wish to enter into the database. A good disambiguation will help them select the right author, work or publisher, and prevent duplicate editions being made.
 
 ## What to use disambiguations for:
 
-It is _always_ a good idea to write a disambiguation for an entity, but especially necessariy if:
+It is _always_ a good idea to write a disambiguation for an entity, but especially necessary if:
 
 1.  Two or more entities of the same type have the the exact same or very similar name.
 
@@ -35,21 +37,21 @@ Example: The Hive, Hive, Hives and "A Hive"
     Examples:
 
     - Madame Bovary (English translation by Alan Russell)
-    - Madame Bovary (Eleanor Marx English translation) ^1(bad example, we should have one for each set of examples, and one to keep type of text consistent for a spesific translated work)
+    - Madame Bovary (Eleanor Marx English translation) ^1(bad example, we should have one for each set of examples, and one to keep type of text consistent for a specific translated work)
 
 
-5.  *Identically named work and type by same author*. If an author writes several works with the same or similar namese, the disambiguation should explain how they differ.<br>
+5.  *Identically named work and type by same author*. If an author writes several works with the same or similar names, the disambiguation should explain how they differ.<br>
     Examples:
 
     - In Memoriam (Voltairine de Cleyre poem to Dyer D. Lum)
     - In Memoriam (Voltairine de Cleyre poem to Gen. M. M. Trumbull)
 
-    If there is no useful distinguising information available, quote the first words of the text. Examples:
+    If there is no useful distinguishing information available, quote the first words of the text. Examples:
 
     - Justice (Ambrose Bierce poem “Jack Doe met Dick Roe”)
     - Justice (Ambrose Bierce poem “She jilted me”)
 
-6. *Combinations*. Often you will come across the situiation where more than one type of ambiguity occurs, so, combine methods above, shorten wherever practical and separate with commas.<br>
+6. *Combinations*. Often you will come across the situation where more than one type of ambiguity occurs, so, combine methods above, shorten wherever practical and separate with commas.<br>
     Examples:
 
     - Esau (Philip Kerr novel, English original)
@@ -64,7 +66,7 @@ Examples:
 - Short Fiction (Philip K. Dick)
 - Short Fiction (P. K. Wodehouse)
 
-If an edition or edition group for the same author requires disambiguation bylanguage, append the language to the disambiguation.<br>
+If an edition or edition group for the same author requires disambiguation by language, append the language to the disambiguation.<br>
 Example:
 
 - Hamlet (William Shakespeare, English)
