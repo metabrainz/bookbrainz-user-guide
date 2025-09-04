@@ -10,13 +10,13 @@ The process for this will take you to the MusicBrainz website where you can crea
 
 Then head over to the [Getting started](./getting-started.md) page of this user guide to learn the basics of editing in BookBrainz.
 
+## In this user guide
+{nav}
+
 ## Accessing the data
 The BookBrainz data is freely available to everyone, for any use. Please see our [licensing page](https://bookbrainz.org/licensing) for more details.
-
 Regular database dumps of our (Postgres) database can be found [at this address](http://ftp.musicbrainz.org/pub/musicbrainz/bookbrainz/).
-
 We also have an API (or webservice) under development [with live documentation](https://api.test.bookbrainz.org/1/docs/) to access the data programmatically.
-
 
 ## Contact and updates
 
