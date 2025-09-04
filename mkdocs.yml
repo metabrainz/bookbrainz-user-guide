@@ -17,3 +17,5 @@ markdown_extensions:
       toc_depth: '2-6'
   - footnotes
   - nl2br
+extra_css:
+  - style.css

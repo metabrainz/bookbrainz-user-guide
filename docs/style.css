@@ -1,0 +1,4 @@
+.wm-toc-pane {
+    max-height: 100vh;
+    overflow: auto;
+}
