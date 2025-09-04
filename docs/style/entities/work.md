@@ -124,7 +124,7 @@ Linking works together:
 
 * works
  * adaptation
-links a work that is an [adaptation](### When to create new works?) of another work.
+links a work that is an [adaptation](#when-to-create-new-works) of another work.
      * translation
 links a work that is a translation of another work, remember to add a link to the works translator here, but the original author should have *provided story*
      * revision
