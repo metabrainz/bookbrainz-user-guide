@@ -45,7 +45,7 @@ Additionally, a work can be translated into the same language several times, eac
 A translated work should have:<br>
 
 - a relationship added to the original work it is a translation of
-- a relationship to the author that wrote the original (see [provided story](./author#current-author-linking-relationships-are) relationship)
+- a relationship to the author that wrote the original (see [provided story](author.md#current-author-linking-relationships-are) relationship)
 - and a translator relationship to its translator.
 
 Examples:
@@ -70,7 +70,7 @@ example: -->
 
 ## What should works be named?
 Generally this should be straightforward, e.g. the work for the book [The Silmarillion](https://bookbrainz.org/edition/6d2273eb-2f4e-444f-be61-15f0c23e7451) by Tolkien is called "[The Silmarillion](https://bookbrainz.org/work/e6b73035-4bf5-4989-a877-291d98309e8b)"<br>
-Adaptations can often have descriptive subtitles, but if not this information should be put in the disambiguation, for translations, the name should be what is on that translation's cover. Any additional names, such as descriptive titles, known variations or transliterations, should be added as [Aliases](/glossary).
+Adaptations can often have descriptive subtitles, but if not this information should be put in the disambiguation, for translations, the name should be what is on that translation's cover. Any additional names, such as descriptive titles, known variations or transliterations, should be added as [Aliases](../../glossary.md).
 
 The language the work's _name_ is in, can differ from the language the work as a whole is written in. For example, a work written in English can have a Latin name. The name of the work should _generally_ be capitalized based on the rules for the language of its name.<br>
 
