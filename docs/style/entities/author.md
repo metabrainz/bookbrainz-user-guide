@@ -80,35 +80,38 @@ It contains stories by 21 authors, but on the cover of the book the most promine
 
 ## Current Author-linking relationships are:
 
- 1. **Other Authors**
+ 1. **To Other Authors**
       * **persona**
-         (see [above](#persona)) links an Author to their persona.
+         links an Author to their persona. (See more about [personas](https://bookbrainz-user-guide.readthedocs.io/en/latest/#style/entities/author/~persona) in the docs) 
       * **member of group**
          * **founder**
             (link a person as founder of a group of authors)
          * **subgroup**
-            (links a collective as a sub-group to another collective)
+            (links a collective as a sub-group of another collective)
       * **marriage**
-         (link two authors as married, Note: [non-authors might be eligible here](#what-about-people-who-have-not-written-anything))
+         (link two authors as married. Note: [non-authors might be eligible here](https://bookbrainz-user-guide.readthedocs.io/en/latest/#style/entities/author/~what-about-people-who-have-not-written-anything))
       * **involved with**
-         (link two authors as involved, see above note)
+         (link two authors as involved. Note: [non-authors might be eligible here](https://bookbrainz-user-guide.readthedocs.io/en/latest/#style/entities/author/~what-about-people-who-have-not-written-anything))
       * **parent**
-         (link an author as being the parent to another, see above note)
+         (link an author as being the parent to another. Note: [non-authors might be eligible here](https://bookbrainz-user-guide.readthedocs.io/en/latest/#style/entities/author/~what-about-people-who-have-not-written-anything))
       * **sibling relations**
-         (link two (or more) authors as being siblings. Take care to link everyone to everyone else!, see above note)
+         (link two (or more) authors as being siblings. Take care to link everyone to everyone else! Note: [non-authors might be eligible here](https://bookbrainz-user-guide.readthedocs.io/en/latest/#style/entities/author/~what-about-people-who-have-not-written-anything))
       * **obsolete relationships**, if you see any author with these you are encouraged to fix them!:
          * <del>collaboration</del>
-            obsolete, we encourage people to fix old relationships and to use [author credits](#author-credits) and to create collectives (groups) for more permanent collaborations instead.
+            (obsolete, we encourage people to fix old relationships and to use [author credits](https://bookbrainz-user-guide.readthedocs.io/en/latest/#style/entities/author/~author-credits)) and to create collectives (groups) for more permanent collaborations instead.)
          * <del>pen name</del>
-            obsolete, (see [above](#persona))
+            (obsolete. See more about [personas](https://bookbrainz-user-guide.readthedocs.io/en/latest/#style/entities/author/~persona) in the docs)
 2. **Works**
-   Works are the conceptual part of writing! (See [about Works](work.md) for more information)
+   Works are the conceptual part of writing! (See more about [Works](https://bookbrainz-user-guide.readthedocs.io/en/latest/style/entities/work/) in the docs for more information)
     * **wrote**
-        links an author to a work they've written
+        (links an author to a work they've written)
          Note: Several authors can be linked to the same work, and naturally an author can be linked to several works
         * **provided story**
-          links an author to a work they provided the story for
-           this is used for translated works, because while the author *wrote* the original story, this translated work wasn't *literally* written by them
+          (links an author to a work they provided the story for)
+          this used for adaptations and similar, like comics.
+        * **provided original work**
+          (links an author to a work they wrote the original language of)
+          this is used for translated works, because while the author *wrote* the original story, this translated work wasn't *literally* written by them
         * **translated**
          links an author to a work they have translated from its original language
           Note: the translator should be linked to the *translated* work, not the original work.
