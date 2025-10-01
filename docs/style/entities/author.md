@@ -113,17 +113,17 @@ It contains stories by 21 authors, but on the cover of the book the most promine
           (links an author to a work they wrote the original language of)
           this is used for translated works, because while the author *wrote* the original story, this translated work wasn't *literally* written by them
         * **translated**
-         links an author to a work they have translated from its original language
+          (links an author to a work they have translated from its original language)
           Note: the translator should be linked to the *translated* work, not the original work.
           Example: [Taylor Engel](https://bookbrainz.org/author/9b76929e-9967-49ed-a838-e1e23464f00f) is a prolific Japanese to English translator
         * **was previously attributed to**
-          links an author to a work they've previously been attributed to writing
-           this is used for mostly historical works, where new research finds that so and such author was not actually the one who wrote it (add [example])
+          (links an author to a work they've previously been attributed to writing)
+           This is used for mostly historical works, where new research finds that so and such author was not actually the one who wrote it (add [example])
     * **worked on**
-        links an Author to a work they have worked on in some miscellaneous way
+        (links an Author to a work they have worked on in some miscellaneous way)
         * **adapted**
-          links an author to a work they have adapted ([see Wikipedia for more information about adaptions](https://en.wikipedia.org/wiki/Adaptation_(arts))
-           Note: you should also add a work-work "adaptation of" link between the Original Work and the Adapted Work [(see the Work page)](./work.md#links-to-other-works)
+          (links an author to a work they have adapted. See [Wikipedia](https://en.wikipedia.org/wiki/Adaptation_(arts) for more information about adaptions)
+           Note: you should also add a work-work "adaptation of" link between the Original Work and the Adapted Work. See [Work page](./work.md#links-to-other-works)
         * **revised**
           links an author to a work they have revised ([see Wikipedia for more information about revisions](https://en.wikipedia.org/wiki/Revision_(writing))
            Note: you should also add a work-work "revision of" link between the Original Work and the Revised Work [(see the Work page)](./work.md#links-to-other-works)
