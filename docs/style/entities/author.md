@@ -109,7 +109,7 @@ It contains stories by 21 authors, but on the cover of the book the most promine
         * **provided story**
           (links an author to a work they provided the story for)
           this used for adaptations and similar, like comics.
-        * **provided original work**
+        * **provided original language work**
           (links an author to a work they wrote the original language of)
           this is used for translated works, because while the author *wrote* the original story, this translated work wasn't *literally* written by them
         * **translated**
@@ -118,7 +118,8 @@ It contains stories by 21 authors, but on the cover of the book the most promine
           Example: [Taylor Engel](https://bookbrainz.org/author/9b76929e-9967-49ed-a838-e1e23464f00f) is a prolific Japanese to English translator
         * **was previously attributed to**
           (links an author to a work they've previously been attributed to writing)
-           This is used for mostly historical works, where new research finds that so and such author was not actually the one who wrote it (add [example])
+           This is used for mostly historical works, where new research finds that so and such author was not actually the one who wrote it
+           Example: 
     * **worked on**
         (links an Author to a work they have worked on in some miscellaneous way)
         * **adapted**
@@ -131,10 +132,10 @@ It contains stories by 21 authors, but on the cover of the book the most promine
           links an author to a work they have reconstructed [link to wikipedia that explains reconstructions].
            Note: you should also add a work-work "reconstruction of" link between the Original Work and the Reconstructed Work [(see the Work page)](./work.md#links-to-other-works)
     * **artist**
-      rtists are people with roles that encompass all artistic work *except* writing. (see [#what-about-people-who-have-not-written-anything](#what-about-people-who-have-not-written-anything))
-      ote: while these are not writers, they are still added with "add author" [link to how to add author page we don't yet have]
+      Artists are people with roles that encompass all artistic work *except* writing. (see [#what-about-people-who-have-not-written-anything](#what-about-people-who-have-not-written-anything))
+      Note: while these are not writers, they are still added with "add author" [link to how to add author page we don't yet have]
         * **photographer**
-          links a photographer to a work they have provided photography for.
+          (links a photographer to a work they have provided photography for.)
          Note: you should only add photographers to *Works* when their photography is intrinsically part of the Work, that is, if the story makes just as much sense without it, you should instead link them to the *Edition* [^7])
         * **illustrator**
           (links an illustrator to a work they have illustrated)
