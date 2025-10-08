@@ -124,22 +124,22 @@ It contains stories by 21 authors, but on the cover of the book the most promine
         (links an Author to a work they have worked on in some miscellaneous way)
         * **adapted**
           (links an author to a work they have adapted. See [Wikipedia](https://en.wikipedia.org/wiki/Adaptation_(arts) for more information about adaptions)
-           Note: you should also add a work-work "adaptation of" link between the Original Work and the Adapted Work. See [Work page](./work.md#links-to-other-works)
+           Note: you should also add a work-work "adaptation of" link between the Original Work and the Adapted Work. See [Work page](https://bookbrainz.org/relationship-types/work-work)
         * **revised**
           links an author to a work they have revised ([see Wikipedia for more information about revisions](https://en.wikipedia.org/wiki/Revision_(writing))
-           Note: you should also add a work-work "revision of" link between the Original Work and the Revised Work [(see the Work page)](./work.md#links-to-other-works)
+           Note: you should also add a work-work "revision of" link between the Original Work and the Revised Work [(see the Work page)](https://bookbrainz-user-guide.readthedocs.io/en/latest/#style/entities/work/~links-to-other-works)
         * **reconstructed**
           links an author to a work they have reconstructed [link to wikipedia that explains reconstructions].
-           Note: you should also add a work-work "reconstruction of" link between the Original Work and the Reconstructed Work [(see the Work page)](./work.md#links-to-other-works)
+           Note: you should also add a work-work "reconstruction of" link between the Original Work and the Reconstructed Work [(see the Work page)](https://bookbrainz.org/relationship-types/work-work)
     * **artist**
-      Artists are people with roles that encompass all artistic work *except* writing. (see [#what-about-people-who-have-not-written-anything](#what-about-people-who-have-not-written-anything))
-      Note: while these are not writers, they are still added with "add author" [link to how to add author page we don't yet have]
+      Artists are people with roles that encompass all artistic work *except* writing. (see [#what-about-people-who-have-not-written-anything](https://bookbrainz-user-guide.readthedocs.io/en/latest/#style/entities/author/~what-about-people-who-have-not-written-anything))
+      Note: while these are not writers, they are still added with "[add author](https://bookbrainz.org/author/create)"
         * **photographer**
           (links a photographer to a work they have provided photography for.)
-         Note: you should only add photographers to *Works* when their photography is intrinsically part of the Work, that is, if the story makes just as much sense without it, you should instead link them to the *Edition* [^7])
+         Note: you should only add photographers to *Works* when their photography is intrinsically part of the Work, that is, if the story makes just as much sense without it, you should instead link photographers to the *Edition*)
         * **illustrator**
           (links an illustrator to a work they have illustrated)
-           Note: you should only add illustrators to *works* when their illustrations are intrinsically part of the work, that is, if the story makes just as much sense without it, you should instead link them to the (see below) *edition*)
+           Note: you should only add illustrators to *works* when their illustrations are intrinsically part of the work, that is, if the story makes just as much sense without it, you should instead link illustrators to the *Edition*)
         * **penciller**
           (links a penciller to a work they have pencilled, this is used ostencibly for comics, manga and graphic novels)
         * **inker**
@@ -168,7 +168,7 @@ It contains stories by 21 authors, but on the cover of the book the most promine
         (links an Author to a work they have licensed)
          Book licensing, in the context of author-relationships, refers to the legal permission the Author grants to other parties such as publishers, distributors or translators; to use, reproduce, distribute or adapt their literary work under specific terms, while typically *retaining* ownership of that work.
 3. **Editions**
-   Editions are the actual physical books in our hands! (see [about editions for more info](edition.md).)
+   Editions are the actual physical books in our hands! (see more [about editions](https://bookbrainz-user-guide.readthedocs.io/en/latest/#style/entities/edition/) in the docs.)
     * **foreword**
       links an author to an edition they wrote a foreword for ([Wikipedia](https://en.wikipedia.org/wiki/Foreword).)
          Note: the foreword shouldn't be it's own separate work *unless* it's notably reused for completely *other* editions, this will usually be fairly rare.
@@ -178,12 +178,12 @@ It contains stories by 21 authors, but on the cover of the book the most promine
     * **introduction**
       links an author to an edition they wrote an introduction for ([Wikipedia](https://en.wikipedia.org/wiki/Introduction_(writing)).)
          Note: the introduction shouldn't be it's own separate work *unless* it's notably reused for completely *other* editions, this will usually be fairly rare.
-    * **illustrator (see above)**
+    * **illustrator**
       links a person to an edition they have provided illustrations for
-         Note: the illustrator should be add to edition only if its a "variable addition", that is, if the story makes just as much sense without the art, if there exists versions without it, or with different art, then this is an *Edition* level relationship.
-    * **photographer [^7] (see above)**
+         Note: the illustrator should be add to edition only if it's a "variable addition", that is, if the story makes just as much sense without the art, if there exists versions without it, or with different art, then this is an *Edition* level relationship.
+    * **photographer**
       links a person to an edition they have provided photography for
-         Note: the photographer should be add to edition only if its a "variable addition", that is, if the story makes just as much sense without the art, if there exists versions without it, or with different art, then this is an *Edition* level relationship.
+         Note: the photographer should be add to edition only if it's a "variable addition", that is, if the story makes just as much sense without the art, if there exists versions without it, or with different art, then this is an *Edition* level relationship.
       Example: [Annie Leibovitz](https://bookbrainz.org/author/f2957c29-8257-4d2d-aac2-500ec84c2478)
     * **designer (see [Wikipedia](https://en.wikipedia.org/wiki/Print_design).)**
       links a person to an edition they have done design work on
@@ -204,16 +204,17 @@ It contains stories by 21 authors, but on the cover of the book the most promine
       Example: [Peter Feierabend](https://bookbrainz.org/author/8b34cdce-c8ce-4b79-91d1-5c380ec4eb43)
     * **blurb (see [Wikipedia](https://en.wikipedia.org/wiki/Blurb).)**
         * blurbs are short quotes, reviews, summaries of the plot, author bio or other promotional content, usually found on book jackets
-          (Note: you should only add this if the author of the blurb is *known*, don't use [unknown] etcetera as noted above)
+          (Note: you should only add this if the author of the blurb is *known*, don't use [unknown] or other special purpose authors)
 4. **Publishers**
     * **founder**
       links a Person to a Publisher-company they have founded
     * **employee**
       links a Person to a Publisher-company they are employed with
 5. **Series**
-   See the [series entity page](./series.md)
+    * **is part of**
+      links a person to a series they're a part of
 6. **Edition groups**
-   There are no relationships between Authors and Edition Groups. You might be looking for relationships with specific Editions instead, see the *3. Editions* section above
+   There are as of yet, no relationships between Authors and Edition Groups. You might be looking for relationships with specific Editions instead, see the [Edition section](https://bookbrainz.org/relationship-types/author-edition)
   
 
 [^1]: c.f. https://community.metabrainz.org/t/pen-names-as-aliases-or-as-separate-entries/497086
