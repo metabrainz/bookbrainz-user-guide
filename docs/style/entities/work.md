@@ -124,29 +124,31 @@ Linking works together:
 
 * works
  * adaptation
-links a work that is an [adaptation](### When to create new works?) of another work.
+   an adaptation is a work that's been changed in some way.
+   links a work that is an [adaptation](https://bookbrainz-user-guide.readthedocs.io/en/latest/#style/entities/work/~_top) of another work.
      * translation
-links a work that is a translation of another work, remember to add a link to the works translator here, but the original author should have *provided story*
+      links a work that is a translation of another work, remember to add a link to the works translator here, and a link to the original author with *wrote the original language-work of*
      * revision
-links a work to a revision of it
- * derivative
-links a work that is in some way a derivation.
+      links a work to a revision of it.
+   * derivative
+     a derivation is a work that is based on another work, such as a parody or an inspiration;
+     links a work that is in some way a derivation.
      * inspiration
-only use this if the work is generally understood to be inspired by another
+      links a work it is inspired by
+       only use this if the work is generally understood to be inspired by another.
      * parody
-se this when it is explicitly stated, or is generally understood to be a parody.
- * reconstruction
-links a work to a work it is a reconstruction of:
-a reconstruction is a work that is created by (usually) another person than the original writer, using already written bits and pieces to create a consistent whole.<br>
-example: https://en.wikipedia.org/wiki/The_Silmarillion#Posthumous_publication
+      links a work that it is a parody of
+       only use this if the work is explicitly stated, or is generally understood to be a parody.
+     * reconstruction
+      a reconstruction is a work that is created by (usually) another person than the original writer, using already written bits and pieces to create a consistent whole.<br>
+      links a work to a work it is a reconstruction of
+       example: https://en.wikipedia.org/wiki/The_Silmarillion#Posthumous_publication
 * parts (work has part)
-when a work consists of several sub-parts, this is used to link each part to the mother work.
+   when a work consists of several sub-parts, this is used to link each part to the mother work.
+   contains/is contained in another work, for example: a [fix-up](https://en.wikipedia.org/wiki/Fix-up), a poetry cycle, an excerpt, a quote;
  * excerpts: links a work to another work that is quoted verbatim
  * quotation
  * citation/reference: contrarily to excerpts, cites or refers to another work without copying its content
-* derived from another work, for example: a translation, an adaptation, a revision, a reconstruction, a parody, an inspiration;
-* contains/is contained in another work, for example: a [fix-up](https://en.wikipedia.org/wiki/Fix-up), a poetry cycle, an excerpt, a quote;
-*  for example: a citation.
 
 Except for cases such as a fix-up or a poetry cycle as mentioned above, a discrete work should not represent a collection of works.
 
@@ -155,17 +157,17 @@ Except for cases such as a fix-up or a poetry cycle as mentioned above, a discre
 
 * contains
 the most important relationship, specify that works can belong to several editions, and that an edition can have several works
-Editions are the physical book that the conceptual work exists in. An edition can contain more than one work, and a work can be published in several editions. See [Edition](./edition.md)
+Editions are the physical book that the conceptual work exists in. An edition can contain more than one work, and a work can be published in several editions. See [Edition](https://bookbrainz-user-guide.readthedocs.io/en/latest/style/entities/edition/)
 
 
 ### Link to Publishers
 * publisher
-links a work to a publisher that published it
-here must we clarify the difference between the in-page "publisher" field and the use of this(pita)
+   links a work to a publisher that published it
+   here must we clarify the difference between the in-page "publisher" field and the use of this(pita)
 * commission
-links a work to a publisher that commissioned it
+   links a work to a publisher that commissioned it
 * licensor
-see above for author 
+   see above for author 
 
 ### Link to Series
-See [series page](./series.md)
+See [series page](https://bookbrainz-user-guide.readthedocs.io/en/latest/style/entities/series/)
