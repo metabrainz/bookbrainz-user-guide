@@ -166,7 +166,7 @@ Editions are the physical book that the conceptual work exists in. An edition ca
 * commission
    links a work to a publisher that commissioned it
 * licensor
-   see above for author 
+   links a work to a publisher that licensed it
 
 ### Link to Series
 See [series page](https://bookbrainz-user-guide.readthedocs.io/en/latest/style/entities/series/)
