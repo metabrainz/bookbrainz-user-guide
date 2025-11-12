@@ -19,12 +19,12 @@ Note, however, that for books vs. works[link] stylistic choices can oftetn come 
 
 If the title is not consistent between the spine, cover and/or the copyright page, it's generally better to follow the more detailed one, and add an annotation to mention any important differences.
 This means also that subtitles should be added to the "Title" field:
-* If there is a logical punctiuation use that, (eg This Book is Gonna Kill You! with kindness, a book about crows) (add a real example, on with "-" as well) 
-* If there isn't any, use a colon as a separator (e.g. Title: Subtitle).(add a real example)
+* If there is a logical punctiuation use that, (eg This Book is Gonna Kill You! with kindness, a book about crows) <!-- (add a real example, and one with "-" as well) -->
+* If there isn't any, use a colon as a separator (e.g. Title: Subtitle).<!-- (add real examples) -->
 
 ### Author Credit
 Author credits should generally follow the actual credit used on the cover, including the join phrases.
-Artist credits are not considered titles, so the join phrases should be capitalized as normally written in the language they're in.
+The join phrases should also be capitalized as normally written in the language they're in, unless unusual style has been intended by the author [see author-intent].
 If the release has no join phrase for multiple collaborating authors, but just lists them all separated by whitespace, use the default join phrases (an ampersand between the last two authors, and a comma between the others).
 
 ### Edition Group
@@ -63,9 +63,12 @@ Use the Notes field to add more descriptions for unique items if needed.
 ### Status
 
 ### Page Count
-Use the page number printed on the last page of the book.
+Always use the page number printed on the last page of the book.
+This might not be the same as the physical number of pages, which might include unnumbered pages at the beginning or end.
+What about if there are several pages with text or images after, or even no page number at all?
+The rationale for *only* using the last printed number in the book: this is unambiguously verifiable, whereas counting pages, (*especially* in digital copies) can depend on opinion/judgement; do we count a last page with credits? What if there are blank pages and *then* some text? What if the specific last page was ripped out?
+Using the last printed number solves this ambiguity, later we may have another field for "literal number of pages"
 
-This might not be the same as the physical number of pages, which might include unnumbered pages at the beginning or end of the book.
 
 
 ### Physical attributes
@@ -88,7 +91,6 @@ Please do not include subjective opinions, reviews, promotional language or hype
 ## Linking Editions to other entities
 
 ### Link to Other editions
-(we do this, explain why)
 - revision
 - reprint
 
