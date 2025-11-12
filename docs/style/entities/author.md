@@ -58,6 +58,8 @@ received, preserved and transmitted orally from one generation to another) it
 should be related to
 [[traditional]](https://bookbrainz.org/author/415a1f7c-a793-4107-9f2f-c38caf15116d).
 
+**Note** that special-purpose authors should _not_ be created villy-nilly, but be agreed upon by the community and the style-monkey
+
 ## Author Credits
 This section explains about author credits.
 
@@ -106,6 +108,7 @@ It contains stories by 21 authors, but on the cover of the book the most promine
     * **wrote**
         (links an author to a work they've written)
          Note: Several authors can be linked to the same work, and naturally an author can be linked to several works
+        <!-- attribute: translated, check this when the work is not in the original language but has been translated, remember to also link the author who translated it with translated" -->
         * **provided story**
           (links an author to a work they provided the story for)
           this used for adaptations and similar, like comics.
@@ -195,7 +198,7 @@ It contains stories by 21 authors, but on the cover of the book the most promine
       links a person to an edition they have typesetted
     * **compiler (see [Wikipedia](https://en.wikipedia.org/wiki/Anthology).)**
       links a person to an edition they have compiled or done compilation work on, commonly, an Anthology
-      The difference between an Author and a Compiler: Generally the Author is the one who came up with the idea, writes the work, uses their own ideas and research. A Compiler on the other hand, collects and organizes existing materials, sometimes from several sources, to create a comprehensive whole, but does not necessarily add any new original content (as opposed to the "reconstructed" relationship defined above).
+      The difference between an Author and a Compiler: Generally the Author is the one who came up with the idea, writes the work, uses their own ideas and research. A Compiler on the other hand, collects and organizes existing materials, sometimes from several sources, to create a comprehensive whole, but does not _necessarily_ add any new original content (as opposed to the "reconstructed" relationship where the author actually *does* some original work).
     * **proofreader (see [Wikipedia](https://en.wikipedia.org/wiki/Proofreading).)**
       links a person to an edition they have proofread
       Example: [Dayna Abel](https://bookbrainz.org/author/5eb369d9-5a73-4e02-a8a5-e43db8b7553e)
@@ -204,12 +207,12 @@ It contains stories by 21 authors, but on the cover of the book the most promine
       Example: [Peter Feierabend](https://bookbrainz.org/author/8b34cdce-c8ce-4b79-91d1-5c380ec4eb43)
     * **blurb (see [Wikipedia](https://en.wikipedia.org/wiki/Blurb).)**
         * blurbs are short quotes, reviews, summaries of the plot, author bio or other promotional content, usually found on book jackets
-          (Note: you should only add this if the author of the blurb is *known*, don't use [unknown] or other special purpose authors)
+          (Note: you should _only_ add this if the author of the blurb is *known*, don't use [unknown] or other special-purpose authors)
 4. **Publishers**
     * **founder**
-      links a Person to a Publisher-company they have founded
+      links a Person to a Publishing-company they have founded
     * **employee**
-      links a Person to a Publisher-company they are employed with
+      links a Person to a Publishing-company they are employed at
 5. **Series**
     * **is part of**
       links a person to a series they're a part of
