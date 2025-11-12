@@ -45,7 +45,7 @@ Additionally, a work can be translated into the same language several times, eac
 A translated work should have:<br>
 
 - a relationship added to the original work it is a translation of
-- a relationship to the author that wrote the original (see [provided story](./author#current-author-linking-relationships-are) relationship)
+- a relationship to the author that wrote the original (see [translations](./author#current-author-linking-relationships-are) )
 - and a translator relationship to its translator.
 
 Examples:
@@ -54,7 +54,6 @@ Examples:
 - [Republic](https://bookbrainz.org/work/c1b11cb0-38b0-49ea-88e8-83566c5589ad) is a translation of [Πολιτεία](https://bookbrainz.org/work/40002c97-41df-4659-b0e0-b30dfa5cbc59)
 - [Republic](https://bookbrainz.org/work/c1b11cb0-38b0-49ea-88e8-83566c5589ad) was translated by [Benjamin Jowett](https://bookbrainz.org/author/dc98466f-9e81-4fb1-a714-3b62b625b455)
 
-If the translator is unknown or unidentified, the translator can be set as [[unknown]](https://bookbrainz.org/author/6c1b8f55-4c7e-4739-bfa2-1979da4c68e1).<br>
 Notable information about a translation should be documented in the work's annotation.
 
 
