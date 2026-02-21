@@ -117,7 +117,7 @@ It contains stories by 21 authors, but on the cover of the book the most promine
           this is used for translated works, because while the author *wrote* the original story, this translated work wasn't *literally* written by them
         * **translated**
           (links an author to a work they have translated from its original language)
-          Note: the translator should be linked to the *translated* work, not the original work.
+          inks an author to a work they have translated from its original language
           Example: [Taylor Engel](https://bookbrainz.org/author/9b76929e-9967-49ed-a838-e1e23464f00f) is a prolific Japanese to English translator
         * **was previously attributed to**
           (links an author to a work they've previously been attributed to writing)
