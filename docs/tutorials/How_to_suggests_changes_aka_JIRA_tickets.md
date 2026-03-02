@@ -8,12 +8,14 @@ You can also discuss that on the forum also.<br>
 When the need arises you can create a ticket to ask for the inclusion of a new relationship!<br>
 
 **Here is how to do it:**<br>
-Go to [our bugtracker (JIRA)](https://tickets.metabrainz.org/secure/CreateIssueDetails!init.jspa?pid=10043&issuetype=4&summary=Put%20a%20good%20explanation%20here!&components=11309), you can create a new user or just log-in with your MetaBrainz account.<br>
+Go to [our bugtracker (JIRA)](https://tickets.metabrainz.org/secure/CreateIssue!default.jspa?pid=10043), you can create a new user or just log-in with your MetaBrainz account.<br>
+
 Here you'll be met with the following screen:
 
 ![Create new JIRA-ticket](../images/a_new_ticket.png)
 
-Press next and then this screen will greet you:
+Press next and then this screen will greet you (or go directly to 
+[this page](https://tickets.metabrainz.org/secure/CreateIssueDetails!init.jspa?pid=10043&issuetype=4&summary=Put%20a%20good%20explanation%20here!&components=11309)):
 
 ![Create a JIRA-ticket](../images/add_a_new_ticket.png)
 
