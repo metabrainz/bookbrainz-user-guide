@@ -9,10 +9,10 @@ Here is how to do it:
 Go to [our bugtracker (JIRA)](url), you can create a new user or just log-in with your MetaBrainz account.
 Here you'll be met with the following screen:
 
-![Create new JIRA-ticket](images/a_new_ticket.png)
+![Create new JIRA-ticket](../images/a_new_ticket.png)
 
 Press next and then this screen will greet you:
-![Create a JIRA-ticket](images/add_a_new_ticket.png)
+![Create a JIRA-ticket](../images/add_a_new_ticket.png)
 
 Here in "Summary" you should  write a succinct description of the issue, e.g. "Create new relationship: author credits pet" (don't actually ask for pet relationships!)
 For Component select "Relationships" in the dropdown.
