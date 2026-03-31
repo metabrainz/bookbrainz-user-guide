@@ -19,3 +19,6 @@ markdown_extensions:
   - nl2br
 extra_css:
   - style.css
+plugins:
+  - awesome-pages # Required for pagenav-generator
+  - pagenav-generator

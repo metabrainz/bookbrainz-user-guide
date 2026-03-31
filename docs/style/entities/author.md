@@ -74,8 +74,8 @@ It contains stories by 21 authors, but on the cover of the book the most promine
       - This is where Author Credits come in: here the Edition of [*Rogues* ](https://bookbrainz.org/edition/6c051f2b-3d49-4e07-9282-eeb85dd35655) is *credited to* [George R. R. Martin](https://bookbrainz.org/author/8b0b4bfa-16c4-48f1-bd45-b416a3ca420b) & [Gardner Dozois](https://bookbrainz.org/author/b87edc09-87ec-4d92-b589-fec1cea47a63) following the cover.
       - The 6 other authors named on the cover as well as the other 15 authors represented in the book do not appear in the Author Credits.
 2. The children's book [*Charlie the Choo-Choo*](https://bookbrainz.org/edition/dd16f9d9-3ee1-436e-a0b2-a216377e93ef) was published by [Stephen King](https://bookbrainz.org/author/128d9490-ee19-4270-a070-32e0a36847f5) under the [pen name](#pen-names) "Beryl Evans".
-      - The Edition is *credited to* [Beryl Evans](https://bookbrainz.org/author/128d9490-ee19-4270-a070-32e0a36847f5) (links to the Stephen king entry)
-      - The Work entity [*Charlie the Choo-Choo*](https://bookbrainz.org/work/b0b5f6d7-39e7-4515-924b-974277593f54) contained in the Edition has the relationship "was written by [Stephen King]((https://bookbrainz.org/author/128d9490-ee19-4270-a070-32e0a36847f5))"
+      - The Edition is *credited to* [Beryl Evans](https://bookbrainz.org/author/128d9490-ee19-4270-a070-32e0a36847f5) (links to the Stephen King entry)
+      - The Work entity [*Charlie the Choo-Choo*](https://bookbrainz.org/work/b0b5f6d7-39e7-4515-924b-974277593f54) contained in the Edition has the relationship "was written by [Stephen King](https://bookbrainz.org/author/128d9490-ee19-4270-a070-32e0a36847f5)"
 
 
 ## Current Author-linking relationships are:
