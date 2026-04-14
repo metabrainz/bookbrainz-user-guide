@@ -26,7 +26,7 @@ Usually divisions like chapters are considered integral to the work and not dist
  * Example: An anthology of poems, each poem entered as a separate work: [Spoon River Anthology](https://bookbrainz.org/edition/7cb01eb1-735a-4184-af7f-8f021067d6da)
  * However, sometimes things are more complex:
    * The novel [The Graveyard Book](https://bookbrainz.org/work/06fa3810-218e-4246-93da-f850537d1158) is composed of multiple chapters, and one of those chapters was previously published separately as a short story: [The Witch's Headstone](https://bookbrainz.org/work/85e25493-3851-47e7-a25c-730ceaf6389d)
-   * The novel [The Girl with All the Gifts](https://bookbrainz.org/work/c5ac4708-681e-4f13-8975-7efff81cffa4)'s first chapter, was originally published as a short story in an anthology called [Apple for the Creature](https://bookbrainz.org/work/bcf07eb9-a900-44e6-9089-edb718c4bb22)
+   * The novel [The Girl with All the Gifts](https://bookbrainz.org/work/c5ac4708-681e-4f13-8975-7efff81cffa4)'s first chapter, was originally published as a short story called [Iphigenia in Aulis](https://bookbrainz.org/work/a3250020-22a9-4ff5-b734-da921d3473af) in the anthology [Apple for the Creature](https://bookbrainz.org/work/bcf07eb9-a900-44e6-9089-edb718c4bb22)
    * For situations such as these, we'd want separate Work entities.
 
 #### What about a book's introduction/foreword/preface?
