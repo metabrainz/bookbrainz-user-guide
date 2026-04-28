@@ -88,29 +88,6 @@ Don't use this field for data that belongs in another field.
 
 Please do not include subjective opinions, reviews, promotional language or hype, or condition notes.
 
-## Linking Editions to other entities
 
-### Link to Other editions
-- revision
-- reprint
-
-### Link to Works
-(this should be the opposite of work-edition)
-
-### Link to Edition Groups
-(we don't do this, should we do this? will that help fix the EDg  translation/type etc problem we talked about in the summit?)
-
-### Link to Publishers
-( it is a separate thing from regular in-edition-editing-page field, so we must clarify which to use and in which situation (perhaps even adding some historical information))
-- published
-- holds copyright
-- licensed
-- licensee
-- manufactured
-- promoted
-- distributed
-
-### Link to Series
-See [series section](./series.md)
 
 [^1]: for these we really _do_ need capitalisation pages
