@@ -25,8 +25,9 @@ Usually divisions like chapters are considered integral to the work and not dist
  * Example: A novel (with chapters) entered as a single Work entity: [The Long Earth](https://bookbrainz.org/edition/73dc9e04-997d-4c0f-94ac-63c0c7f3c1c0)
  * Example: An anthology of poems, each poem entered as a separate work: [Spoon River Anthology](https://bookbrainz.org/edition/7cb01eb1-735a-4184-af7f-8f021067d6da)
  * However, sometimes things are more complex:
-   * The novel [The Graveyard Book](https://bookbrainz.org/work/06fa3810-218e-4246-93da-f850537d1158) is composed of multiple chapters
-   * One of those chapters was previously published separately as a short story: [The Witch's Headstone](https://bookbrainz.org/work/85e25493-3851-47e7-a25c-730ceaf6389d), for which we want a separate Work entity
+   * The novel [The Graveyard Book](https://bookbrainz.org/work/06fa3810-218e-4246-93da-f850537d1158) is composed of multiple chapters, and one of those chapters was previously published separately as a short story: [The Witch's Headstone](https://bookbrainz.org/work/85e25493-3851-47e7-a25c-730ceaf6389d)
+   * The novel [The Girl with All the Gifts](https://bookbrainz.org/work/c5ac4708-681e-4f13-8975-7efff81cffa4)'s first chapter, was originally published as a short story called [Iphigenia in Aulis](https://bookbrainz.org/work/a3250020-22a9-4ff5-b734-da921d3473af) in the anthology [Apple for the Creature](https://bookbrainz.org/work/bcf07eb9-a900-44e6-9089-edb718c4bb22)
+   * For situations such as these, we'd want separate Work entities.
 
 #### What about a book's introduction/foreword/preface?
 
@@ -45,7 +46,7 @@ Additionally, a work can be translated into the same language several times, eac
 A translated work should have:<br>
 
 - a relationship added to the original work it is a translation of
-- a relationship to the author that wrote the original (see [provided story](./author#current-author-linking-relationships-are) relationship)
+- a relationship to the author that wrote the original (see [translations](./author#current-author-linking-relationships-are) )
 - and a translator relationship to its translator.
 
 Examples:
@@ -54,7 +55,6 @@ Examples:
 - [Republic](https://bookbrainz.org/work/c1b11cb0-38b0-49ea-88e8-83566c5589ad) is a translation of [Πολιτεία](https://bookbrainz.org/work/40002c97-41df-4659-b0e0-b30dfa5cbc59)
 - [Republic](https://bookbrainz.org/work/c1b11cb0-38b0-49ea-88e8-83566c5589ad) was translated by [Benjamin Jowett](https://bookbrainz.org/author/dc98466f-9e81-4fb1-a714-3b62b625b455)
 
-If the translator is unknown or unidentified, the translator can be set as [[unknown]](https://bookbrainz.org/author/6c1b8f55-4c7e-4739-bfa2-1979da4c68e1).<br>
 Notable information about a translation should be documented in the work's annotation.
 
 
@@ -103,69 +103,3 @@ Examples:
 
 The sort names of untitled works should be the same, just omitting the square brackets.
 
-
-## Linking Works to other entities
-
-### Links to Authors
-For the full Author-Work relationships, see the [Author page](author.md).
-
-#### Writer
-The main Author-Work relationship is that of a work to it's author(s), aka its *writer(s)*; most every work should have at least one of these.<br>
-See the [Author](./author.md) page for a description of the types of authors and also the difference between the "written by" Work relationship and [Author Credits](./author.md#author-credits) on Editions.
-
-#### Others
-Notably there is one Work-Author relationship we'll cover here: that of biographies, a work that is *about* an Author entity.<br>
-This is a work that is _about_ an Author, someone already in the database. However, someone who never wrote anything, but is in some other way notable, for example; if they link other authors together, via parental or marriage relationships, if they are teachers of other authors, if they have several biographies written about them, they may be be added to BookBrainz, despite not having written anything themselves.<br>
-Examples:<br>
-- [Henry Kissinger](https://bookbrainz.org/author/8eca361c-99f3-46c6-9c8a-a53e92d10694) is the subject of multiple biographies but has not written any work himself
-
-### Links to other works
-Linking works together:
-
-* works
- * adaptation
-links a work that is an [adaptation](### When to create new works?) of another work.
-     * translation
-links a work that is a translation of another work, remember to add a link to the works translator here, but the original author should have *provided story*
-     * revision
-links a work to a revision of it
- * derivative
-links a work that is in some way a derivation.
-     * inspiration
-only use this if the work is generally understood to be inspired by another
-     * parody
-se this when it is explicitly stated, or is generally understood to be a parody.
- * reconstruction
-links a work to a work it is a reconstruction of:
-a reconstruction is a work that is created by (usually) another person than the original writer, using already written bits and pieces to create a consistent whole.<br>
-example: https://en.wikipedia.org/wiki/The_Silmarillion#Posthumous_publication
-* parts (work has part)
-when a work consists of several sub-parts, this is used to link each part to the mother work.
- * excerpts: links a work to another work that is quoted verbatim
- * quotation
- * citation/reference: contrarily to excerpts, cites or refers to another work without copying its content
-* derived from another work, for example: a translation, an adaptation, a revision, a reconstruction, a parody, an inspiration;
-* contains/is contained in another work, for example: a [fix-up](https://en.wikipedia.org/wiki/Fix-up), a poetry cycle, an excerpt, a quote;
-*  for example: a citation.
-
-Except for cases such as a fix-up or a poetry cycle as mentioned above, a discrete work should not represent a collection of works.
-
-
-### Link to Editions
-
-* contains
-the most important relationship, specify that works can belong to several editions, and that an edition can have several works
-Editions are the physical book that the conceptual work exists in. An edition can contain more than one work, and a work can be published in several editions. See [Edition](./edition.md)
-
-
-### Link to Publishers
-* publisher
-links a work to a publisher that published it
-here must we clarify the difference between the in-page "publisher" field and the use of this(pita)
-* commission
-links a work to a publisher that commissioned it
-* licensor
-see above for author 
-
-### Link to Series
-See [series page](./series.md)

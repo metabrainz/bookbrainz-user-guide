@@ -10,7 +10,7 @@ How to add a book, what is an edition, bit about print runs (opplag og utgaver)
 Enter the title exactly as it appears on the book itself, using the Title Case of the title's language. Different Languages have differnt rules (link to a general-language-case-hub page that links to all the others, that we don't yet have) in general they fall into one of 3 categories:
 
 * All Words are Upper Case, Except Conjunctions, Articles and Prepositions. (e.g. [English](../language_specific/english-guidelines.md))
-* All words are lower case, except the first word in a sentence and proper nouns. (e.g. Norwegian)
+* All words are lower case, except the first word in a sentence and proper nouns. (e.g. [Norwegian](../language_specific/norsk-guidelines.md))
 * A sort of Hybrid where generally, Nouns are in upper case and Everything Else is lower case (e.g. German, French) [^1]
 <br>
 Exception: if the author of the book have decided on special casing for intentional reasons [author intent page link] use that.
@@ -19,12 +19,12 @@ Note, however, that for books vs. works[link] stylistic choices can oftetn come 
 
 If the title is not consistent between the spine, cover and/or the copyright page, it's generally better to follow the more detailed one, and add an annotation to mention any important differences.
 This means also that subtitles should be added to the "Title" field:
-* If there is a logical punctiuation use that, (eg This Book is Gonna Kill You! with kindness, a book about crows) (add a real example, on with "-" as well) 
-* If there isn't any, use a colon as a separator (e.g. Title: Subtitle).(add a real example)
+* If there is a logical punctiuation use that, (eg This Book is Gonna Kill You! with kindness, a book about crows) <!-- (add a real example, and one with "-" as well) -->
+* If there isn't any, use a colon as a separator (e.g. Title: Subtitle).<!-- (add real examples) -->
 
 ### Author Credit
 Author credits should generally follow the actual credit used on the cover, including the join phrases.
-Artist credits are not considered titles, so the join phrases should be capitalized as normally written in the language they're in.
+The join phrases should also be capitalized as normally written in the language they're in, unless unusual style has been intended by the author [see author-intent].
 If the release has no join phrase for multiple collaborating authors, but just lists them all separated by whitespace, use the default join phrases (an ampersand between the last two authors, and a comma between the others).
 
 ### Edition Group
@@ -63,9 +63,12 @@ Use the Notes field to add more descriptions for unique items if needed.
 ### Status
 
 ### Page Count
-Use the page number printed on the last page of the book.
+Always use the page number printed on the last page of the book.
+This might not be the same as the physical number of pages, which might include unnumbered pages at the beginning or end.
+What about if there are several pages with text or images after, or even no page number at all?
+The rationale for *only* using the last printed number in the book: this is unambiguously verifiable, whereas counting pages, (*especially* in digital copies) can depend on opinion/judgement; do we count a last page with credits? What if there are blank pages and *then* some text? What if the specific last page was ripped out?
+Using the last printed number solves this ambiguity, later we may have another field for "literal number of pages"
 
-This might not be the same as the physical number of pages, which might include unnumbered pages at the beginning or end of the book.
 
 
 ### Physical attributes
@@ -85,30 +88,6 @@ Don't use this field for data that belongs in another field.
 
 Please do not include subjective opinions, reviews, promotional language or hype, or condition notes.
 
-## Linking Editions to other entities
 
-### Link to Other editions
-(we do this, explain why)
-- revision
-- reprint
-
-### Link to Works
-(this should be the opposite of work-edition)
-
-### Link to Edition Groups
-(we don't do this, should we do this? will that help fix the EDg  translation/type etc problem we talked about in the summit?)
-
-### Link to Publishers
-( it is a separate thing from regular in-edition-editing-page field, so we must clarify which to use and in which situation (perhaps even adding some historical information))
-- published
-- holds copyright
-- licensed
-- licensee
-- manufactured
-- promoted
-- distributed
-
-### Link to Series
-See [series section](./series.md)
 
 [^1]: for these we really _do_ need capitalisation pages
