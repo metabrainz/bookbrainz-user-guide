@@ -88,7 +88,7 @@ Edit the series and add the work to the series.
 
 ![series editor](../images/series-9.png)
 
-Oh! The Hobbit at bottom of the list does not match the series order. It would have beeen better if it was at the top of the list.
+Oh! The Hobbit at bottom of the list does not match the series order. It would have been better if it was at the top of the list.
 
 But, How to move it to the top? 
 

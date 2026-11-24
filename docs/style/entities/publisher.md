@@ -35,8 +35,8 @@ Most of these Publisher-Publisher relationships are there to track these structu
 Publishers do have links to Editions because those are the actual real items they interact with (the obvious 'Publisher published Edition', but also copyright, licenses, typesetting, etc that refer to tangible editions [physical or digital])
 
 ### Link to Work
-(something about copyrights are on spesific editions, etc.)
-- commision
+(something about copyrights are on specific editions, etc.)
+- commission
 - licenced
 
 ### Link to Edition Group

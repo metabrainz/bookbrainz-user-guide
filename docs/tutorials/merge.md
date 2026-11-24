@@ -24,7 +24,7 @@ If you try adding an entity of another type (for example your merge queue contai
 ### 2. Submit/cancel the merge queue
 -------
 The merge queue gives you a recap of the selected entities, and allows you to select an entity to be removed from the merge queue.
-To proceed to the merge page, you will need to select the entity you want to merge the other ones into,and click the "Merge into selected entity" button. You will be taken to a special entity edit page which collects the data from the entities you are merging and displays the options.
+To proceed to the merge page, you will need to select the entity you want to merge the other ones into, and click the "Merge into selected entity" button. You will be taken to a special entity edit page which collects the data from the entities you are merging and displays the options.
 
 You can also cancel the merge queue by clicking on the "Cancel merge" button.
 
@@ -51,7 +51,7 @@ After successfully submitting your merge edit, you will see a merge revision in 
 
 ![Merge revision](../images/merge-7.png)
 
-The same goes on the lates revisions page:
+The same goes on the latest revisions page:
 
 ![Merge revision](../images/merge-8.png)
 

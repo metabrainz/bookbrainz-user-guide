@@ -19,7 +19,7 @@ How/When to create a different Edition Group than what is auto suggested (I feel
 
 ## Linking Edition Groups to other entities
 Well... we don't, really.
-The Edition Groups are a logical grouping representing the idera of "a book" rather than a specific item, so we have no direct relationships to Edition Groups
+The Edition Groups are a logical grouping representing the idea of "a book" rather than a specific item, so we have no direct relationships to Edition Groups
 
 However, you can add Edition Groups to a Series
 ### Link to Series
@@ -27,6 +27,6 @@ See [series section](./series.md)
 
 ### Link to Author
 We don't create a relationship between an Edition Group and their Author, instead this information is recorded as [Author Credits](./edition.md#author-credit) like we do for Editions.
-Usually, when first created an Edition Group will have the same Author Credits as the Edition it is created for, but it can also be modified sseparately if required.
+Usually, when first created an Edition Group will have the same Author Credits as the Edition it is created for, but it can also be modified separately if required.
 
 Similarly, you should be able to copy any changes you make to an Edition's Author Credit directly to its Edition Group (this is under development).

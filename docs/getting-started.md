@@ -9,7 +9,7 @@ When you think about the book you have in your hands, there are actually multipl
 ## What is an "entity" in BookBrainz?
 an entity is one of the core concepts in BookBrainz<br>
 they represent people, literary works, companies and the physical books themselves.<br>
-entities can be linked to eachother via [relationships](link to about relationships)
+entities can be linked to each other via [relationships](link to about relationships)
 
 ![Entity relationships](images/entity_relationships.svg)
 
@@ -21,7 +21,7 @@ entities can be linked to eachother via [relationships](link to about relationsh
 	- Note: An Author can self-publish an Edition
 * **Edition Group** – a logical grouping of different Editions of the same book.
 	- Example: paperback, hardcover and e-book editions of a novel
-* **Publisher** – publishing company or imprint that publishes litterature.
+* **Publisher** – publishing company or imprint that publishes literature.
 * **Series** - A representation of serialized items, both conceptual (a story spanning multiple books) and physical (periodical publications such as magazines or newspapers).
 
 ### Examples

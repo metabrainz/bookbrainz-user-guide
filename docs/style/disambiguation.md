@@ -8,7 +8,7 @@ And anyway it's always a good idea to put in a disambiguation for the next perso
 
 It is _always_ a good idea to write a disambiguation for an entity, but especially necessary if:
 
-1.  Two or more entities of the same type have the the exact same or very similar name.
+1.  Two or more entities of the same type have the exact same or very similar name.
 
 2.  Two or more entities of the same type have names that are homonyms or differ only in grammatical article, punctuation or plurality. <br>
 Example: The Hive, Hive, Hives and "A Hive"

@@ -17,7 +17,7 @@ guideline and make any necessary modifications, or reject it for some good
 reason.
 
 If approved, the guideline is subsequently included in the official style
-guidelines, after being committed to the BookBrainz User Guide repositiory.
+guidelines, after being committed to the BookBrainz User Guide repository.
 
 Style Committee
 ---------------
