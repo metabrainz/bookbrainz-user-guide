@@ -76,7 +76,7 @@ The language the work's _name_ is in, can differ from the language the work as a
 
 bit about sortnames and authors intent<br>
 Sortnames are used to, as the name suggests, sort works, editions, authors and so on. To anyone who has ever tried finding anything at a library, the reason is apparent: some kind of consistent system must be in place, or finding things will be needlessly time-consuming or at worst impossible.<br>
-Generally Works are sorted on their name omitting any leading articles, like "The", "A", "Le", "Den" and so fort, which are added to the end after a comma, like so: "The Bookinator" -> "Bookinator, The". <br>
+Generally Works are sorted on their name omitting any leading articles, like "The", "A", "Le", "Den" and so forth, which are added to the end after a comma, like so: "The Bookinator" -> "Bookinator, The". <br>
 Examples:<br>
 * "Le Tour du monde en quatre-vingts jours" -> "Tour du monde en quatre-vingts jours, Le"
 * 
@@ -134,7 +134,7 @@ links a work that is in some way a derivation.
      * inspiration
 only use this if the work is generally understood to be inspired by another
      * parody
-se this when it is explicitly stated, or is generally understood to be a parody.
+use this when it is explicitly stated, or is generally understood to be a parody.
  * reconstruction
 links a work to a work it is a reconstruction of:
 a reconstruction is a work that is created by (usually) another person than the original writer, using already written bits and pieces to create a consistent whole.<br>

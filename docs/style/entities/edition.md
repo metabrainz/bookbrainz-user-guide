@@ -7,7 +7,7 @@ How to add a book, what is an edition, bit about print runs (opplag og utgaver)
 
 
 ### Title
-Enter the title exactly as it appears on the book itself, using the Title Case of the title's language. Different Languages have differnt rules (link to a general-language-case-hub page that links to all the others, that we don't yet have) in general they fall into one of 3 categories:
+Enter the title exactly as it appears on the book itself, using the Title Case of the title's language. Different Languages have different rules (link to a general-language-case-hub page that links to all the others, that we don't yet have) in general they fall into one of 3 categories:
 
 * All Words are Upper Case, Except Conjunctions, Articles and Prepositions. (e.g. [English](../language_specific/english-guidelines.md))
 * All words are lower case, except the first word in a sentence and proper nouns. (e.g. Norwegian)
@@ -15,11 +15,11 @@ Enter the title exactly as it appears on the book itself, using the Title Case o
 <br>
 Exception: if the author of the book have decided on special casing for intentional reasons [author intent page link] use that.
 * example:
-Note, however, that for books vs. works[link] stylistic choices can oftetn come from designers, publicators et al. and not be strictly author intent. 
+Note, however, that for books vs. works[link] stylistic choices can often come from designers, publicators et al. and not be strictly author intent. 
 
 If the title is not consistent between the spine, cover and/or the copyright page, it's generally better to follow the more detailed one, and add an annotation to mention any important differences.
 This means also that subtitles should be added to the "Title" field:
-* If there is a logical punctiuation use that, (eg This Book is Gonna Kill You! with kindness, a book about crows) (add a real example, on with "-" as well) 
+* If there is a logical punctuation use that, (eg This Book is Gonna Kill You! with kindness, a book about crows) (add a real example, on with "-" as well) 
 * If there isn't any, use a colon as a separator (e.g. Title: Subtitle).(add a real example)
 
 ### Author Credit

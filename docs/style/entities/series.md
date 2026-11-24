@@ -6,7 +6,7 @@
 explain what series are used for
 
 ## Different types of series
-We don't actually have "series types" other than "whatever sort of type it's a series of" so author, edition, etc" we don't have "awards" "world" (as in same tematic world) etcetera.
+We don't actually have "series types" other than "whatever sort of type it's a series of" so author, edition, etc" we don't have "awards" "world" (as in same thematic world) etcetera.
 
 This requires more discussion on community, figuring out things, etc.
 
@@ -21,7 +21,7 @@ When to use series and when to use edition groups
 e.g. what about things that are released as separate parts and then put into a big book later?
 Like, Sherlock Holmes was released as articles in a magazine, then later as books and later still in omnibus "all works by" type bricks.
 same with most manga, sections are first released as chapters in serial magazines, and *then* later in full tankubon.
-ditto Tolkien. noone in their right mind would released "The Return of the King" as a standalone book today, but it was still released as such originally. 
+ditto Tolkien. no one in their right mind would released "The Return of the King" as a standalone book today, but it was still released as such originally. 
 
 Finally MAGAZINES and newspapers and articles. how to deal with a release where it contains potentially hundreds of "works" that could themselves be potentially re-released in other formats and orders. reference books, how to deal with a book that is essentially a selection of excerpts of a lot of different people's writings from other, older sources.
 (grove musical instrument dictionary, I'm looking at U! X_x)
